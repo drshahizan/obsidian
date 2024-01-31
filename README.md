@@ -70,6 +70,7 @@ In summary, **Obsidian.md** emerges as a powerful and user-friendly tool for **a
 
 - [Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/04%20-%20Guides,%20Workflows,%20&%20Courses/for%20Academic%20Writing).
 - [Computer Science - mnml's vault - Obsidian Publish](https://publish.obsidian.md/manuel/Wiki/Mathematics/Computer+Science)
+- [Organizing Notes in Obsidian: Get It Right First Time](https://facedragons.com/productivity/organizing-notes-in-obsidian/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian/issues) for any improvements, suggestions or errors in the content.
