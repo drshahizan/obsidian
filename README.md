@@ -102,6 +102,21 @@ With a vault of interconnected ideas from everything you’ve learned, writing d
 | SimpleNote | Yes | Uni-directional | Yes | Cloud | Plain text, Markdown | Yes | List view |
 | Notepad | No | No | Yes | Local | TXT | No | No |
 
+### Template
+To insert a template in Obsidian, you need to follow these steps:
+
+- First, you need to have Obsidian installed on your device. 
+- Second, you need to have a folder that contains your templates. You can create a new folder and name it "Templates" or use an existing one.
+- Third, you need to enable the Templates plugin in Obsidian. You can do this by going to Settings > Core plugins > Templates and turning it on.
+- Fourth, you need to set your template folder location in Obsidian. You can do this by going to Settings > Templates > Template folder location and entering the path of your folder.
+- Fifth, you need to create or edit your templates in Obsidian. You can use markdown syntax, variables, and commands to customize your templates. You can find more information about how to create templates [here](https://www.alphr.com/obsidian-how-to-use-templates/) and [here](https://help.obsidian.md/Plugins/Templates).
+- Sixth, you need to insert a template into your note. You can do this by using the command palette (Ctrl+P or Cmd+P) and typing "Template". Then, select "Insert template" and choose the template you want to use.
+
+**Source:**
+(1) [How to Use Templates with Obsidian - Alphr](https://www.alphr.com/obsidian-how-to-use-templates/)
+(2) [Templates - Obsidian Help](https://help.obsidian.md/Plugins/Templates.
+(3) [Ultimate Guide to Obsidian Templates (with Examples)](https://facedragons.com/productivity/obsidian-templates-with-examples/)
+(5) [Use Templates in Obsidian as Beginners - iReadAction](https://ireadaction.com/use-templates-in-obsidian-as-beginners/)
 
 **References:** 
 
