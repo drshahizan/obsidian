@@ -66,6 +66,27 @@ In summary, **Obsidian.md** emerges as a powerful and user-friendly tool for **a
 | 11 | Troubleshooting and FAQs                     | - Common issues and solutions <br> - Frequently asked questions related to academic writing in Obsidian.md |
 | 12 | Case Studies and Examples                    | - Real-world examples of academic projects managed with Obsidian.md <br> - Success stories and best practices from other academics |
 
+## Obsidian alternatives
+
+| Application | Free & Open Source? | Links | Free | Files Stored | Export Format | Tags | Visual Representation |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Obsidian | No, but free for personal use | Bi-directional | Yes | Local or cloud | Markdown, HTML, PDF | Yes | Graph view |
+| Roam Research | No | Bi-directional | No, $15/month | Cloud | Markdown, JSON, EDN | Yes | Graph view |
+| Notion | No, but free for personal use | Uni-directional | Yes, up to 1000 blocks | Cloud | Markdown, HTML, PDF, CSV | Yes | Board, timeline, calendar, list, table, gallery views |
+| Evernote | No | Uni-directional | Yes, up to 60 MB/month | Cloud | HTML, ENEX, PDF | Yes | List, card, snippet views |
+| Google Keep | No | Uni-directional | Yes | Cloud | Google Docs | Yes | Grid, list views |
+| Microsoft OneNote | No | Uni-directional | Yes | Cloud | OneNote, PDF, XPS, MHT | Yes | Notebook, section, page views |
+| Zettlr | Yes | Bi-directional | Yes | Local or cloud | Markdown, HTML, PDF, DOCX, ODT, LaTeX | Yes | Graph view |
+| Logseq | Yes | Bi-directional | Yes | Local or cloud | Markdown, JSON, EDN, Org-mode | Yes | Graph view |
+| Standard Notes | Yes | Uni-directional | Yes | Local or cloud | Plain text, HTML, PDF | Yes | List view |
+| VimWiki | Yes | Bi-directional | Yes | Local | Markdown, HTML, PDF, LaTeX | No | Graph view |
+| OrgMode (Emacs) | Yes | Bi-directional | Yes | Local | Org-mode, HTML, PDF, LaTeX, ODT, DOCX | Yes | Agenda, table, outline views |
+| Markor | Yes | Uni-directional | Yes | Local or cloud | Markdown, HTML, PDF, TXT | No | Preview view |
+| Joplin | Yes | Bi-directional | Yes | Local or cloud | Markdown, HTML, PDF, JEX, RAW | Yes | Notebook, tag, note views |
+| SimpleNote | Yes | Uni-directional | Yes | Cloud | Plain text, Markdown | Yes | List view |
+| Notepad | No | No | Yes | Local | TXT | No | No |
+
+
 **References:** 
 
 - [Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/04%20-%20Guides,%20Workflows,%20&%20Courses/for%20Academic%20Writing).
