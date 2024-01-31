@@ -14,7 +14,7 @@
 | 1   | ISMAIL MAEEN                           |
 | 2  | NUR AZIMAH BINTI MOHD SALLEH           |
 | 3  | NURUL WAHIEDA BINTI MUHAMMAD FARID SELLEKUMAR  |
-| 4  | PANG CHERN HONG                        |
+| 4  | PANG CHERN HONG                        |  <a href="https://www.credly.com/badges/da92a95e-7aa9-447e-a7db-e25698fc2e7d/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/5b7264cc-5332-4811-a9e7-45a5765fc3e9/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/75e4f749-51a7-4a5d-bf5a-ade9c390044f/public_url"><img src="../images/badge3.png" width="24px" height="24px"></a>| <a href="https://www.credly.com/badges/7e471ecc-720d-4812-8d6f-1069ea911c85/public_url"><img src="../images/nlp.png" width="24px" height="24px"></a>|
 | 5  | RANJEET A/L THIAGARAJAN                |
 | 6  | MUSAB IBNE AHMAD                        |
 
