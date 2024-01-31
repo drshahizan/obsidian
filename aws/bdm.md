@@ -39,6 +39,17 @@
 | 26  | WU JIAMING                             |<a href="https://www.credly.com/badges/4a7d2e7c-2748-42b2-87d8-48956d7e3e54/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a> |<a href="https://www.credly.com/badges/1381bc4a-0796-4741-883b-54e93434d516/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/02d4e5b7-4857-4e0e-bb73-f3838ad8fc1c/public_url"><img src="../images/badge3.png" width="24px" height="24px"></a>| <a href="https://www.credly.com/badges/816bab97-7aba-4433-b963-f7c0f5504735/public_url"><img src="../images/nlp.png" width="24px" height="24px"></a>|
 | 27  | ZUHAYR ARIF BIN ZAKARIA                |<a href="https://www.credly.com/badges/a771af76-52be-4054-9060-8933f09a6747/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a>|<a href="https://www.credly.com/badges/f9d5ae27-1cfc-42a1-9fcc-b820c7731da9/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a>| <a href="https://www.credly.com/badges/035bfb79-4d51-4932-a7f0-9de616570203/public_url"><img src="../images/badge3.png" width="24px" height="24px"></a>| <a href="https://www.credly.com/badges/dc44b26d-9c73-40f8-a98e-8d4db8d24e3b/public_url"><img src="../images/nlp.png" width="24px" height="24px"></a>|
 
+| No  | Name  | Cloud Foundations | Cloud Architecting | Data Engineering | ML for NLP |
+| ---: | ------------- | :-------------: | :-------------: | :-------------: | :-------------: | 
+| 0   | ADAM WAFII BIN AZUAR                      | <a href="https://www.credly.com/badges/4bc350fe-4dac-48eb-8ffa-123835bacef4/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/f0cceb63-764c-49a5-8358-45a1921fe550/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/8dfc05e1-c725-4c91-9bbc-8b74e4655b9b/public_url"><img src="../images/badge3.png" width="24px" height="24px"></a>| <a href="https://www.credly.com/badges/8dfc05e1-c725-4c91-9bbc-8b74e4655b9b/public_url"><img src="../images/nlp.png" width="24px" height="24px"></a>|
+| 5   | ISMAIL MAEEN                           |
+| 17  | NUR AZIMAH BINTI MOHD SALLEH           |
+| 19  | NURUL WAHIEDA BINTI MUHAMMAD FARID SELLEKUMAR  |
+| 20  | PANG CHERN HONG                        |
+| 21  | RANJEET A/L THIAGARAJAN                |
+| 12  | MUSAB IBNE AHMAD                        |
+
+
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
