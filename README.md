@@ -51,6 +51,21 @@ In summary, **Obsidian.md** emerges as a powerful and user-friendly tool for **a
    The Obsidian community is vibrant and actively contributes to the development of plugins that enhance the tool's functionality. These plugins range from syntax highlighting for code snippets to integrations with task management tools, expanding Obsidian's capabilities to meet the specific needs of IT professionals.
 
 
+| No | Topic                                       | Subtopic                                                  |
+|----|---------------------------------------------|-----------------------------------------------------------|
+| 1  | Introduction to Academic Writing in Obsidian.md | - Overview of Obsidian.md for academic purposes <br> - Benefits of using a markdown-based system for academic writing |
+| 2  | Setting Up Your Academic Workspace           | - Installation and configuration of Obsidian.md <br> - Choosing and customizing themes for readability |
+| 3  | Organizing Your Research                    | - Creating and managing folders and files <br> - Tagging and categorizing notes effectively |
+| 4  | Note-Taking Strategies                      | - Efficient ways to take and organize notes <br> - Utilizing features like backlinks and tags |
+| 5  | Citation Management                         | - Integrating reference managers with Obsidian.md <br> - Properly citing sources in markdown |
+| 6  | Outlining and Structuring Your Writing       | - Using headers and lists for structure <br> - Incorporating templates for consistency |
+| 7  | Collaboration and Version Control           | - Collaborative writing in Obsidian.md <br> - Version control using Git and plugins |
+| 8  | Exporting and Publishing                     | - Converting markdown to various formats (PDF, Word, etc.) <br> - Publishing to platforms like GitHub or academic journals |
+| 9  | Customizing Obsidian for Academic Writing    | - Creating custom templates for different types of academic documents <br> - Leveraging plugins for enhanced functionality |
+| 10 | Tips for Productivity and Time Management    | - Implementing effective writing routines <br> - Utilizing Obsidian features for productivity |
+| 11 | Troubleshooting and FAQs                     | - Common issues and solutions <br> - Frequently asked questions related to academic writing in Obsidian.md |
+| 12 | Case Studies and Examples                    | - Real-world examples of academic projects managed with Obsidian.md <br> - Success stories and best practices from other academics |
+
 **Source:** 
 
 - [Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/04%20-%20Guides,%20Workflows,%20&%20Courses/for%20Academic%20Writing).
