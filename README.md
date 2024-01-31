@@ -66,9 +66,10 @@ In summary, **Obsidian.md** emerges as a powerful and user-friendly tool for **a
 | 11 | Troubleshooting and FAQs                     | - Common issues and solutions <br> - Frequently asked questions related to academic writing in Obsidian.md |
 | 12 | Case Studies and Examples                    | - Real-world examples of academic projects managed with Obsidian.md <br> - Success stories and best practices from other academics |
 
-**Source:** 
+**References:** 
 
 - [Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/04%20-%20Guides,%20Workflows,%20&%20Courses/for%20Academic%20Writing).
+- [Computer Science - mnml's vault - Obsidian Publish](https://publish.obsidian.md/manuel/Wiki/Mathematics/Computer+Science)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian/issues) for any improvements, suggestions or errors in the content.
