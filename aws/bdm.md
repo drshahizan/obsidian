@@ -6,20 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2obsidian&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-# AWS Academy
-
-AWS Academy is a global program that offers educational institutions a comprehensive curriculum focused on cloud computing using Amazon Web Services (AWS). The program provides institutions with access to up-to-date learning materials, hands-on labs, and assessments to teach students about various cloud computing topics. By participating in AWS Academy, students gain practical skills and knowledge in using AWS services, preparing them for careers in cloud computing and related fields. The program also offers opportunities for students to earn industry-recognized AWS Certifications, enhancing their employability in the growing cloud computing industry. Overall, AWS Academy serves as a valuable bridge between academia and industry, equipping students with in-demand cloud computing skills.
-
-## Course AWS Academy
-
-| No  | Course                                                                                                |                                                             Link                                                             |
-| :-: | ----------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------: |
-|  1  | Cloud Foundations | <a href="https://awsacademy.instructure.com/courses/60317" ><img src="../images/aws.svg" width="24px" height="24px" ></a> |
-|  2  | Cloud Architecting | <a href="https://awsacademy.instructure.com/courses/60318" ><img src="../images/aws.svg" width="24px" height="24px" ></a> |
-|  3  | Data Engineering | <a href="https://awsacademy.instructure.com/courses/60401" ><img src="../images/aws.svg" width="24px" height="24px" ></a> |
-|  4  | Machine Learning for Natural Language Processing | <a href="https://awsacademy.instructure.com/courses/60323" ><img src="../images/aws.svg" width="24px" height="24px" ></a> |
-
-## Submission
+# AWS Academy: Submission
 
 | No  | Name  | Cloud Foundations | Cloud Architecting | Data Engineering | ML for NLP |
 | ---: | ------------- | :-------------: | :-------------: | :-------------: | :-------------: | 
