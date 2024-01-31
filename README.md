@@ -50,6 +50,22 @@ In summary, **Obsidian.md** emerges as a powerful and user-friendly tool for **a
 5. **Active Community and Plugin Support:**
    The Obsidian community is vibrant and actively contributes to the development of plugins that enhance the tool's functionality. These plugins range from syntax highlighting for code snippets to integrations with task management tools, expanding Obsidian's capabilities to meet the specific needs of IT professionals.
 
+## What is Obsidian Used for?
+Obsidian is software that you can use
+
+- Text Editor
+- Markdown Editor
+- Markdown Viewer or Reader
+- Notes Application
+- Second Brain Software
+- Personal Knowledge Management System (PKM)
+
+## Is Obsidian Good for Students?
+Obsidian is a great way to organize your notes for different classes and lectures. Using a zettelkasten methodology of atomic notes, you can use Obsidian to link together ideas, even if they are from various courses. So, using Obsidian makes coming up with a novel thesis much easier.
+
+With a vault of interconnected ideas from everything you’ve learned, writing dissertations and essays will be much easier, and you’ll find yourself a more productive and prolific student.
+
+
 
 | No | Topic                                       | Subtopic                                                  |
 |----|---------------------------------------------|-----------------------------------------------------------|
