@@ -125,6 +125,7 @@ To insert a template in Obsidian, you need to follow these steps:
 - [Organizing Notes in Obsidian: Get It Right First Time](https://facedragons.com/productivity/organizing-notes-in-obsidian/)
 - [Obsidian for Students: Time to Take Your Studies Seriously](https://facedragons.com/personal-development/obsidian-for-students/): This article explains why students should use Obsidian.md as their note-taking tool and how to set up a simple and effective system for studying.
 - [Obsidian.md Medical School Note Taking Tutorial](https://futuredoctor.ai/obsidian-md-tutorial/): This tutorial shows how to use Obsidian.md for medical schooling needs, focusing on markdown for note-taking that’s as systematic as the bodily systems you study.
+- [An Updated Academic Workflow: Zotero & Obsidian](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd)
 
 
 ## Contribution 🛠️
