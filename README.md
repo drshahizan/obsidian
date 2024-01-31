@@ -12,9 +12,9 @@ If you want to learn more about how to use Obsidian.md for academic writing, you
 
 **Source:** 
 
--(1) [Obsidian Tutorial for Academic Writing : r/ObsidianMD - Reddit](https://www.reddit.com/r/ObsidianMD/comments/18f2p8r/updated_obsidian_tutorial_for_academic_writing/).
--(2) [Obsidian Tutorial for Academic Writing | annotated by Florian](https://readwise.io/reader/shared/01gn73nxyw2n1rqtag3kzjg112/).
--(3) [I wrote a practical Obsidian Tutorial for Academic Writing (Word ...](https://www.reddit.com/r/ObsidianMD/comments/vy1e62/i_wrote_a_practical_obsidian_tutorial_for/).
--(4) [Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/04%20-%20Guides,%20Workflows,%20&%20Courses/for%20Academic%20Writing).
--(5) [Obsidian - Sharpen your thinking](https://obsidian.md/).
--(6) [I wrote an article on how to use Obsidian for Academic Writing ... - Reddit](https://www.reddit.com/r/PhD/comments/w3ju5h/i_wrote_an_article_on_how_to_use_obsidian_for/).
+- (1) [Obsidian Tutorial for Academic Writing : r/ObsidianMD - Reddit](https://www.reddit.com/r/ObsidianMD/comments/18f2p8r/updated_obsidian_tutorial_for_academic_writing/).
+- (2) [Obsidian Tutorial for Academic Writing | annotated by Florian](https://readwise.io/reader/shared/01gn73nxyw2n1rqtag3kzjg112/).
+- (3) [I wrote a practical Obsidian Tutorial for Academic Writing (Word ...](https://www.reddit.com/r/ObsidianMD/comments/vy1e62/i_wrote_a_practical_obsidian_tutorial_for/).
+- (4) [Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/04%20-%20Guides,%20Workflows,%20&%20Courses/for%20Academic%20Writing).
+- (5) [Obsidian - Sharpen your thinking](https://obsidian.md/).
+- (6) [I wrote an article on how to use Obsidian for Academic Writing ... - Reddit](https://www.reddit.com/r/PhD/comments/w3ju5h/i_wrote_an_article_on_how_to_use_obsidian_for/).
