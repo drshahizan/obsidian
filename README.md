@@ -15,8 +15,6 @@
 - You can use **plugins and templates** to enhance your note-taking experience, such as Dataview, which lets you query and display your notes in various ways, or LaTeX-like figures and section referencing, which mimic the functionality of LaTeX in Obsidian.md⁴⁶. 🧩
 - You can visualize and navigate your notes in a **graph view**, which shows you how your notes are linked and related to each other. This can help you to find connections, gaps, and insights in your research³⁵. 🌐
 
-If you want to learn more about how to use Obsidian.md for academic writing, you can check out some of the tutorials and guides that are available online, such as [this one](^2^) or [this one](^6^). I hope this helps you to get started with Obsidian.md and improve your academic writing. 😊
-
 **Source:** 
 
 - (1) [Obsidian Tutorial for Academic Writing : r/ObsidianMD - Reddit](https://www.reddit.com/r/ObsidianMD/comments/18f2p8r/updated_obsidian_tutorial_for_academic_writing/).
