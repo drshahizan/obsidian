@@ -72,6 +72,8 @@ In summary, **Obsidian.md** emerges as a powerful and user-friendly tool for **a
 - [Computer Science - mnml's vault - Obsidian Publish](https://publish.obsidian.md/manuel/Wiki/Mathematics/Computer+Science)
 - [Organizing Notes in Obsidian: Get It Right First Time](https://facedragons.com/productivity/organizing-notes-in-obsidian/)
 - [Obsidian for Students: Time to Take Your Studies Seriously](https://facedragons.com/personal-development/obsidian-for-students/): This article explains why students should use Obsidian.md as their note-taking tool and how to set up a simple and effective system for studying.
+- [Obsidian.md Medical School Note Taking Tutorial](https://futuredoctor.ai/obsidian-md-tutorial/): This tutorial shows how to use Obsidian.md for medical schooling needs, focusing on markdown for note-taking that’s as systematic as the bodily systems you study.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian/issues) for any improvements, suggestions or errors in the content.
