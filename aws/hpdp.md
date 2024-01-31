@@ -16,7 +16,7 @@
 | 9   | Hafizulshah Bin Sharom                  |
 | 26  | Muhammad Iqmal Bin Sis                  |
 | 33  | Nur Khuzairie Zakwan Bin Mohd Zamri     |
-| 37  | Sarah Wardina Binti Rafidin             |<a href="https://www.credly.com/badges/554f483e-84e3-49c0-9d24-87de02f342cc/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a>|
+| 37  | Sarah Wardina Binti Rafidin             |<a href="https://www.credly.com/badges/554f483e-84e3-49c0-9d24-87de02f342cc/public_url"><img src="../images/badge1.png" width="24px" height="24px"></a>| <a href="https://www.credly.com/badges/28c13250-60af-4328-8def-928da31ec9f6/public_url"><img src="../images/badge2.png" width="24px" height="24px"></a> | <a href="https://www.credly.com/badges/730a00cc-0651-470c-97c0-622f384fded5/public_urll"><img src="../images/badge3.png" width="24px" height="24px"></a>|
 | 43  | Mikhail Bin Yassin                       |
 
 
