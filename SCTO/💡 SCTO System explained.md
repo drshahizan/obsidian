@@ -216,4 +216,3 @@ I am glad you made it this far! If you like the idea. I created a small vault th
 If you like the content subscribe to the [newsletter](https://ilyashabanov.substack.com/), follow me on [Twitter](https://twitter.com/Artifexx). And if you really like it, then please share the link to this article on your social media.
 
 And hey there is so much more to it. I have created a system of hot keys, programmed different scripts that make importing and exporting easier. I also use bunch of other tools that play well with Obsidian and can eliminate a lot of the tedium of organisation.  Stay tuned. 
-

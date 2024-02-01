@@ -8,5 +8,3 @@ During opening there might be a warning that you need to activate community plug
 
 Please read the introduction on how to use it here: [[💡 SCTO System explained]] or more visually  [[Start here.canvas|in this canvas]].
 
-Sign up for my [Newsletter](https://ilyashabanov.substack.com/) for more tips on managing your knowledge in academia or follow me on [Twitter](https://twitter.com/Artifexx).
-

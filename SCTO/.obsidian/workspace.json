@@ -35,9 +35,9 @@
             "id": "18be9c567e9d126c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "👓 Kanban.md"
+                "file": "Excalidraw/SLR github.md"
               }
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "👓 Kanban.md",
+                "file": "Excalidraw/SLR github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "👓 Kanban.md",
+                "file": "Excalidraw/SLR github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "👓 Kanban.md"
+                "file": "Excalidraw/SLR github.md"
               }
             }
           },
@@ -190,14 +190,20 @@
   },
   "active": "18be9c567e9d126c",
   "lastOpenFiles": [
-    "👓 List of Papers.md",
+    "Start here.canvas",
+    "Excalidraw/SLR github.md",
+    "Excalidraw/Untitled.md",
+    "'+transcludePath+'.md",
+    "__Templates/Excalidraw.md",
     "💡 SCTO System explained.md",
+    "Untitled",
+    "Readme.md",
+    "👓 Kanban.md",
+    "👓 List of Papers.md",
     "📚 Reading List.md",
     "🗓️ Calendar Home.md",
     "Dataview Templates.md",
-    "Readme.md",
     "Reference Manager.canvas",
-    "Start here.canvas",
     "1️⃣ Primary Sources/Untitled.md",
     "__Templates/Source Note.md",
     "__Templates/Outline Note.md",
@@ -212,11 +218,6 @@
     "📆 Calendar/29 Jan 2024.md",
     "📆 Calendar/28 Jan 2024.md",
     "📆 Calendar/24 Dec 2022.md",
-    "📆 Calendar/1 Feb 2024.md",
-    "Mind Map/Check box.md",
-    "4️⃣ Outlines/What defines Biodiversity.md",
-    "3️⃣ Thoughts/Biodiversity Mechanisms.md",
-    "1️⃣ Primary Sources/Shabanov 2022a.md",
     "Mind Map",
     "Excalidraw",
     "__Papers/Connell 1964.pdf",
