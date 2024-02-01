@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"b9f11723d9a40df7","type":"group","x":-314,"y":198,"width":2101,"height":915,"label":"Examples"},
+		{"id":"8f0d4bdac605be16","type":"group","x":-336,"y":-526,"width":2145,"height":450,"label":"The SCTO System in a nutshell"},
+		{"id":"3fcabf1e86f48db8","type":"text","text":"# HOW DOES IT WORK?","x":-1821,"y":-681,"width":594,"height":93},
+		{"id":"388ba35c49c1dbf4","type":"text","text":"# START \n\nI am glad you want to get started with using the SCTO system.\n\nThe goal is: Make your academic journey more effortless! ","x":-2937,"y":-780,"width":250,"height":292,"color":"4"},
+		{"id":"7de13e3999164e4c","type":"text","text":"# [Click here](https://twitter.com/Artifexx/status/1606455378149273600)\n\nTo learn how I migrated 100s of word documents and google docs using a script.\n\nIt takes about 5 minutes! ","x":-993,"y":-1705,"width":250,"height":305,"color":"#428bff"},
+		{"id":"57378f5ffb96c404","type":"text","text":"# HOW TO MIGRATE MY OLD NOTES?","x":-1821,"y":-1599,"width":594,"height":93},
+		{"id":"98a43a72f04f1437","type":"text","text":"*Source notes*\n# S for SOURCE\n\nThese are all your sources, everything you read and want to be able to reference becomes a source. ","x":-290,"y":-506,"width":400,"height":253,"color":"2"},
+		{"id":"a3ccb8421ab7b8c0","type":"text","text":"*Compendium notes*\n# C for COLLECT\n\nHere you collect factual statements from your sources. It makes it easy to summarise a bunch of related papers into silos of knowledge. ","x":231,"y":-506,"width":400,"height":253,"color":"5"},
+		{"id":"6ae9f555d74f3b38","type":"file","file":"💡 SCTO System explained.md","x":-349,"y":-1167,"width":400,"height":400,"color":"3"},
+		{"id":"f7273be3594e8133","type":"file","file":"🗓️ Calendar Home.md","x":-2991,"y":-2422,"width":609,"height":570},
+		{"id":"cb6fb801dbb1d546","type":"text","text":"# HOW TO CREATE A LAB NOTEBOOKS AND TRACK NOTES BY DATE?","x":-2983,"y":-1552,"width":594,"height":93},
+		{"id":"4a3d244ec16e5d66","type":"text","text":"*Question notes*\n# T for THINK\n\nWhen you read, questions arise and ideas immerge. It is essential to jot those down righ away. This will strengthen your critical thinking.","x":769,"y":-506,"width":400,"height":253,"color":"6"},
+		{"id":"5d94e489d4d0e4bc","type":"text","text":"*Ontology notes*\n# O for OUTLINE\n\nWhen you have filled your Collections **C** and aggregated questions and Ideas **T**. It is time to merge everyting together. Into one ontology.","x":1371,"y":-506,"width":400,"height":253,"color":"3"},
+		{"id":"e03b6cafd1bf5acb","type":"file","file":"👓 List of Papers.md","x":-434,"y":1540,"width":688,"height":944},
+		{"id":"ab18f09f89d72076","type":"file","file":"1️⃣ Primary Sources/Connell 1964.md","x":-294,"y":238,"width":400,"height":400,"color":"2"},
+		{"id":"307f1b5f1436bec0","type":"file","file":"2️⃣ Collections/Diversity.md","x":227,"y":238,"width":400,"height":855,"color":"5"},
+		{"id":"4f93325889f51469","type":"file","file":"3️⃣ Thoughts/Biodiversity Mechanisms.md","x":765,"y":238,"width":400,"height":855,"color":"6"},
+		{"id":"698f9ca30bebc2d4","type":"file","file":"4️⃣ Outlines/What defines Biodiversity.md","x":1367,"y":238,"width":400,"height":855,"color":"3"},
+		{"id":"dc37cd57ccc43212","type":"file","file":"1️⃣ Primary Sources/Pianka 1966.md","x":-294,"y":693,"width":400,"height":400,"color":"2"}
+	],
+	"edges":[
+		{"id":"0d1b73e0ac2e9319","fromNode":"98a43a72f04f1437","fromSide":"right","toNode":"a3ccb8421ab7b8c0","toSide":"left"},
+		{"id":"c67af59b44b6c8ef","fromNode":"a3ccb8421ab7b8c0","fromSide":"right","toNode":"4a3d244ec16e5d66","toSide":"left"},
+		{"id":"211cc72922c4e187","fromNode":"4a3d244ec16e5d66","fromSide":"right","toNode":"5d94e489d4d0e4bc","toSide":"left"},
+		{"id":"a29a3334a88b80ea","fromNode":"a3ccb8421ab7b8c0","fromSide":"top","toNode":"5d94e489d4d0e4bc","toSide":"top","label":"Grab a few C notes to create an Outline"},
+		{"id":"275a93ca954ead3f","fromNode":"a3ccb8421ab7b8c0","fromSide":"bottom","toNode":"98a43a72f04f1437","toSide":"bottom","label":"Reference your source"},
+		{"id":"d28b2957407f69ab","fromNode":"3fcabf1e86f48db8","fromSide":"right","toNode":"6ae9f555d74f3b38","toSide":"left","label":"Read the long article \nwith all the details"},
+		{"id":"2bc732854d1e03ea","fromNode":"a3ccb8421ab7b8c0","fromSide":"bottom","toNode":"307f1b5f1436bec0","toSide":"top","label":"Example"},
+		{"id":"a4134ef287ffd3eb","fromNode":"4a3d244ec16e5d66","fromSide":"bottom","toNode":"4f93325889f51469","toSide":"top","label":"Example"},
+		{"id":"93ae5b3d3b90bac2","fromNode":"5d94e489d4d0e4bc","fromSide":"bottom","toNode":"698f9ca30bebc2d4","toSide":"top","label":"Example"},
+		{"id":"e14aae9031203158","fromNode":"98a43a72f04f1437","fromSide":"bottom","toNode":"ab18f09f89d72076","toSide":"top","label":"Example"},
+		{"id":"61ab1cc5d502aa7b","fromNode":"3fcabf1e86f48db8","fromSide":"right","toNode":"8f0d4bdac605be16","toSide":"left","label":"Or learn by example"},
+		{"id":"36aadbfa0edb5da7","fromNode":"388ba35c49c1dbf4","fromSide":"right","toNode":"3fcabf1e86f48db8","toSide":"left"},
+		{"id":"e447ce412bf15194","fromNode":"388ba35c49c1dbf4","fromSide":"right","toNode":"57378f5ffb96c404","toSide":"left"},
+		{"id":"11378e1cfa357ab1","fromNode":"57378f5ffb96c404","fromSide":"right","toNode":"7de13e3999164e4c","toSide":"left"},
+		{"id":"4b6f078b744778a0","fromNode":"cb6fb801dbb1d546","fromSide":"top","toNode":"f7273be3594e8133","toSide":"bottom"},
+		{"id":"37a60a83d5c9bef6","fromNode":"388ba35c49c1dbf4","fromSide":"top","toNode":"cb6fb801dbb1d546","toSide":"bottom"},
+		{"id":"41ab8b362c3924f6","fromNode":"dc37cd57ccc43212","fromSide":"bottom","toNode":"e03b6cafd1bf5acb","toSide":"top","label":"This is an overview of all your literature\nIt is your Reference Manager"}
+	]
+}

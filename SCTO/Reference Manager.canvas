@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"e1d515a95d6d17bd","type":"file","file":"1️⃣ Primary Sources/Shabanov 2022a.md","x":1280,"y":76,"width":400,"height":400},
+		{"id":"a4e897c9442ea58d","type":"text","text":"# Note Taking in general","x":656,"y":-769,"width":1024,"height":60,"color":"2"},
+		{"id":"7101281f31bf3b7b","type":"file","file":"👓 List of Papers.md","x":-2382,"y":-769,"width":831,"height":1118},
+		{"id":"767461a8764a6e7a","type":"file","file":"1️⃣ Primary Sources/Connell 1964.md","x":336,"y":831,"width":400,"height":400},
+		{"id":"8d15bfb84ee20170","type":"file","file":"1️⃣ Primary Sources/Pianka 1966.md","x":-288,"y":1031,"width":400,"height":400},
+		{"id":"17e3715515b15b77","type":"text","text":"# Biodiversity","x":-288,"y":647,"width":1024,"height":60,"color":"2"},
+		{"id":"b783b319cd14bb43","type":"text","text":"# Go to [my webpage](https://ilyashabanov.substack.com) to see a full Intro into the system of Visual Reference Maps, or check [[Start here.canvas]] ","x":-912,"y":-263,"width":1024,"height":106,"color":"5"},
+		{"id":"83970b09a817c29d","type":"file","file":"Readme.md","x":2160,"y":76,"width":400,"height":400},
+		{"id":"80424e7a3f5a9992","type":"file","file":"1️⃣ Primary Sources/Shabanov 2022b.md","x":1280,"y":-610,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"f4302acfec78de2f","fromNode":"767461a8764a6e7a","fromSide":"left","toNode":"8d15bfb84ee20170","toSide":"right","label":"Included in"},
+		{"id":"cfe12d5cdb8b705c","fromNode":"80424e7a3f5a9992","fromSide":"bottom","toNode":"e1d515a95d6d17bd","toSide":"top","label":"Explains why to use this new system"},
+		{"id":"eb04fe3058a56727","fromNode":"e1d515a95d6d17bd","fromSide":"left","toNode":"17e3715515b15b77","toSide":"right","label":"Those notes are dummies\nto visualise the system"},
+		{"id":"86bb0631f42eb610","fromNode":"e1d515a95d6d17bd","fromSide":"right","toNode":"83970b09a817c29d","toSide":"left","label":"General Readme"},
+		{"id":"a77dba910a4eeca6","fromNode":"b783b319cd14bb43","fromSide":"left","toNode":"7101281f31bf3b7b","toSide":"right","label":"References are also available\nas a list in this note."},
+		{"id":"5fea564f1d5ec856","fromNode":"b783b319cd14bb43","fromSide":"right","toNode":"a4e897c9442ea58d","toSide":"left","label":"Example Topic in my library"},
+		{"id":"b2ccae40c869a1d2","fromNode":"b783b319cd14bb43","fromSide":"right","toNode":"17e3715515b15b77","toSide":"top","label":"Example Topic in my library"}
+	]
+}

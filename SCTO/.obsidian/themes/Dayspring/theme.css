@@ -1,0 +1,769 @@
+/* latin-ext */
+@font-face {
+	font-family: "Figtree";
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: local("Figtree-Light"),
+		url(https://fonts.gstatic.com/s/figtree/v1/_Xms-HUzqDCFdgfMm4q9DaRvziissg.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Figtree";
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: local("Figtree-Light"),
+		url(https://fonts.gstatic.com/s/figtree/v1/_Xms-HUzqDCFdgfMm4S9DaRvzig.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Figtree";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local("Figtree-Regular"),
+		url(https://fonts.gstatic.com/s/figtree/v1/_Xms-HUzqDCFdgfMm4q9DaRvziissg.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Figtree";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local("Figtree-Regular"),
+		url(https://fonts.gstatic.com/s/figtree/v1/_Xms-HUzqDCFdgfMm4S9DaRvzig.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Figtree";
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: local("Figtree-Medium"),
+		url(https://fonts.gstatic.com/s/figtree/v1/_Xms-HUzqDCFdgfMm4q9DaRvziissg.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Figtree";
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: local("Figtree-Medium"),
+		url(https://fonts.gstatic.com/s/figtree/v1/_Xms-HUzqDCFdgfMm4S9DaRvzig.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Figtree";
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: local("Figtree-SemiBold"),
+		url(https://fonts.gstatic.com/s/figtree/v1/_Xms-HUzqDCFdgfMm4q9DaRvziissg.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Figtree";
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: local("Figtree-SemiBold"),
+		url(https://fonts.gstatic.com/s/figtree/v1/_Xms-HUzqDCFdgfMm4S9DaRvzig.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Figtree";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: local("Figtree-Bold"),
+		url(https://fonts.gstatic.com/s/figtree/v1/_Xms-HUzqDCFdgfMm4q9DaRvziissg.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Figtree";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: local("Figtree-Bold"),
+		url(https://fonts.gstatic.com/s/figtree/v1/_Xms-HUzqDCFdgfMm4S9DaRvzig.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: italic;
+	font-weight: 300;
+	font-display: swap;
+	src: local("CrimsonProItalic-Light"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uBsoa5M_tv7IihmnkabARekY1wDeChrlWhBw.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: italic;
+	font-weight: 300;
+	font-display: swap;
+	src: local("CrimsonProItalic-Light"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uBsoa5M_tv7IihmnkabARekYNwDeChrlU.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+	src: local("CrimsonPro-Italic"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uBsoa5M_tv7IihmnkabARekY1wDeChrlWhBw.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+	src: local("CrimsonPro-Italic"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uBsoa5M_tv7IihmnkabARekYNwDeChrlU.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: italic;
+	font-weight: 500;
+	font-display: swap;
+	src: local("CrimsonProItalic-Medium"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uBsoa5M_tv7IihmnkabARekY1wDeChrlWhBw.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: italic;
+	font-weight: 500;
+	font-display: swap;
+	src: local("CrimsonProItalic-Medium"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uBsoa5M_tv7IihmnkabARekYNwDeChrlU.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: italic;
+	font-weight: 600;
+	font-display: swap;
+	src: local("CrimsonProItalic-SemiBold"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uBsoa5M_tv7IihmnkabARekY1wDeChrlWhBw.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: italic;
+	font-weight: 600;
+	font-display: swap;
+	src: local("CrimsonProItalic-SemiBold"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uBsoa5M_tv7IihmnkabARekYNwDeChrlU.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: italic;
+	font-weight: 700;
+	font-display: swap;
+	src: local("CrimsonProItalic-Bold"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uBsoa5M_tv7IihmnkabARekY1wDeChrlWhBw.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: italic;
+	font-weight: 700;
+	font-display: swap;
+	src: local("CrimsonProItalic-Bold"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uBsoa5M_tv7IihmnkabARekYNwDeChrlU.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: local("CrimsonProRoman-Light"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uDsoa5M_tv7IihmnkabARVoYF6CsKjnlQ.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: local("CrimsonProRoman-Light"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uDsoa5M_tv7IihmnkabARboYF6CsKj.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local("CrimsonPro-Regular"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uDsoa5M_tv7IihmnkabARVoYF6CsKjnlQ.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: local("CrimsonPro-Regular"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uDsoa5M_tv7IihmnkabARboYF6CsKj.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: local("CrimsonProRoman-Medium"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uDsoa5M_tv7IihmnkabARVoYF6CsKjnlQ.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: local("CrimsonProRoman-Medium"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uDsoa5M_tv7IihmnkabARboYF6CsKj.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: local("CrimsonProRoman-SemiBold"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uDsoa5M_tv7IihmnkabARVoYF6CsKjnlQ.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: local("CrimsonProRoman-SemiBold"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uDsoa5M_tv7IihmnkabARboYF6CsKj.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: local("CrimsonProRoman-Bold"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uDsoa5M_tv7IihmnkabARVoYF6CsKjnlQ.woff2)
+			format("woff2");
+	unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB,
+		U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: "Crimson Pro";
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: local("CrimsonProRoman-Bold"),
+		url(https://fonts.gstatic.com/s/crimsonpro/v23/q5uDsoa5M_tv7IihmnkabARboYF6CsKj.woff2)
+			format("woff2");
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+		U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212,
+		U+2215, U+FEFF, U+FFFD;
+}
+
+body {
+	--font-text-theme: figtree, metropolis, raleway;
+	--font-interface-theme: var(--font-text-theme);
+	--font-serif: "Crimson Pro";
+	font-variant-numeric: lining-nums tabular-nums;
+	font-variant-ligatures: none;
+	font-weight: var(--font-light);
+	letter-spacing: 0.02em;
+
+	--font-smallest: 0.7em;
+	--font-smaller: 0.8em;
+	--font-small: 0.9em;
+	--font-ui-small: 14px;
+	--font-ui-smaller: 13px;
+
+	--blockquote-border-thickness: 2px;
+	--blockquote-border-color: var(--color-purple);
+
+	--h1-size: 2.5em;
+	--h2-size: 2em;
+	--h3-size: 1.75em;
+	--h4-size: 1.5em;
+	--h5-size: 1.25em;
+	--h6-size: 0.7em;
+	--h1-weight: var(--font-semibold);
+	--h2-weight: var(--font-medium);
+	--h3-weight: var(--font-medium);
+	--h4-weight: var(--font-medium);
+	--h5-weight: var(--font-medium);
+	--h1-line-height: 1.3;
+	--h2-line-height: 1.3;
+	--h3-line-height: 1.3;
+	--h4-line-height: 1.3;
+	--h5-line-height: 1.3;
+	--h6-line-height: 0;
+	--h1-font: inherit;
+	--h2-font: inherit;
+	--h3-font: inherit;
+	--h4-font: inherit;
+	--h5-font: inherit;
+	--h6-font: inherit;
+
+	--file-margins: var(--size-4-6) var(--size-4-12);
+
+	--inline-title-weight: var(--font-semibold);
+
+	--table-header-size: var(--font-normal);
+	--table-header-weight: var(--font-medium);
+
+	--embed-border-left: 0;
+	--embed-padding: var(--size-4-4) var(--size-4-8) var(--size-4-4)
+		var(--size-4-12);
+
+	--footnote-size: var(--font-small);
+}
+
+.is-mobile {
+	--file-margins: var(--size-4-6) var(--size-4-6) var(--size-4-6)
+		var(--size-4-12);
+}
+
+.theme-light {
+	--color-base-00: hsl(50, 13%, 96%);
+	--color-base-05: hsl(50, 13%, 95%);
+	--color-base-10: hsl(50, 13%, 94%);
+	--color-base-20: hsl(50, 13%, 91%);
+	--color-base-25: hsl(50, 13%, 89%);
+	--color-base-30: hsl(50, 13%, 83%);
+	--color-base-35: hsl(50, 13%, 73%);
+	--color-base-40: hsl(50, 13%, 60%);
+	--color-base-50: hsl(50, 13%, 50%);
+	--color-base-60: hsl(50, 13%, 45%);
+	--color-base-70: hsl(50, 13%, 35%);
+	--color-base-100: hsl(50, 13%, 18%);
+	--color-blue: hsl(199, 42%, 45%);
+	--color-blue-rgb: 67, 132, 163;
+	--color-purple: hsl(307, 26%, 40%);
+	--color-purple-rgb: 129, 75, 122;
+	--color-green: hsl(80, 45%, 45%);
+	--color-green-rgb: 132, 166, 63;
+	--color-red: hsl(346, 65%, 44%);
+	--color-red-rgb: 186, 39, 74;
+	--color-pink: hsl(346, 65%, 64%);
+	--color-yellow: hsl(39, 97%, 62%);
+	--color-yellow-lightest: hsla(41, 88%, 81%, 0.753);
+	--color-orange: hsl(27, 82%, 57%);
+	--color-orange-rgb: 235, 136, 55;
+	--accent-h: 80;
+	--accent-s: 45%;
+	--accent-l: 45%;
+	--color-accent-1: hsl(
+		var(--accent-h),
+		var(--accent-s),
+		calc(var(--accent-l) + 5%)
+	);
+	--color-accent-2: hsl(
+		var(--accent-h),
+		var(--accent-s),
+		calc(var(--accent-l) + 10%)
+	);
+
+	--text-normal: var(--color-base-100);
+	--text-muted: var(--color-base-60);
+	--text-faint: var(--color-base-35);
+
+	--alpha-background: hsla(50, 14%, 67%, 0.2);
+	--background-primary: var(--color-base-10);
+	--background-secondary: var(--color-base-00);
+	--code-block-background-color: var(--alpha-background);
+	--code-normal: var(--color-orange);
+	--code-background: var(--alpha-background);
+
+	--blockquote-background-color: var(--alpha-background);
+
+	--heading-color: var(--color-blue);
+	--inline-title-color: var(--heading-color);
+	--h1-color: var(--heading-color);
+	--h2-color: var(--heading-color);
+	--h3-color: var(--heading-color);
+	--h4-color: var(--heading-color);
+	--h5-color: var(--heading-color);
+	--h6-color: var(--text-faint);
+
+	--table-header-color: var(--heading-color);
+	--table-header-background: var(--color-base-20);
+	--table-header-background-hover: var(--color-base-20);
+
+	--italic-color: var(--color-purple);
+	--bold-color: var(--color-blue);
+	--text-highlight-bg: var(--color-yellow-lightest);
+
+	--titlebar-background-focused: var(--color-base-05);
+	--titlebar-background: var(--color-base-05);
+
+	--nav-item-color-active: var(--color-base-00);
+	--nav-item-background-active: var(--color-accent);
+	--nav-item-size: var(--font-ui-medium);
+
+	--embed-background: var(--alpha-background); /*var(--alpha-background);*/
+
+	--code-property: var(--color-blue);
+	--code-function: var(--color-orange);
+	--code-keyword: var(--color-red);
+}
+
+/* Every p is margin block start & end, so they're useless */
+
+p {
+	margin-block-start: 0;
+	margin-block-end: 0;
+	margin-bottom: 1em;
+}
+
+/* Move h6's left of following content */
+h6,
+.markdown-rendered h6 {
+	position: relative;
+	top: 1.15em;
+	left: -3.5em;
+	width: 3em;
+	margin: 0 0;
+	text-align: right;
+	user-select: none;
+	overflow: visible;
+}
+
+h6 .heading-collapse-indicator {
+	display: none;
+}
+
+/* For h6's to work in embeds, embed padding has to change */
+.markdown-embed-title {
+	padding: var(--embed-padding);
+}
+
+.markdown-preview-view .markdown-embed .markdown-preview-sizer,
+.markdown-embed .markdown-preview-sizer {
+	padding: var(--embed-padding);
+}
+
+/* Prioritize em and strong over blockquote */
+span.cm-quote.cm-em {
+	color: var(--italic-color);
+}
+
+span.cm-quote.cm-strong {
+	color: var(--bold-color);
+}
+
+/* Prioritize em over strong */
+.cm-strong.cm-em,
+strong em,
+em strong {
+	color: var(--italic-color);
+}
+
+/* Internal link font weight */
+.internal-link,
+.cm-hmd-internal-link {
+	font-weight: 500;
+}
+
+/* Padding and radius around blockquotes */
+.markdown-rendered blockquote,
+.markdown-source-view.is-live-preview .HyperMD-quote {
+	padding: var(--size-4-4) var(--size-4-6) var(--size-4-4) var(--size-4-12);
+}
+
+.markdown-source-view.is-live-preview .HyperMD-quote + .HyperMD-quote {
+	padding: 0 var(--size-4-6) var(--size-4-4) var(--size-4-12);
+}
+
+.markdown-rendered blockquote {
+	border-left: 0;
+	border-radius: var(--radius-s);
+}
+
+/* Math styling */
+.math-block mjx-container[jax="CHTML"][display="true"] {
+	text-align: inherit;
+	background-color: var(--alpha-background);
+	border-radius: var(--radius-s);
+	padding: var(--size-4-4);
+	width: auto;
+}
+.math {
+	color: var(--color-orange);
+	font-size: 1.2em;
+}
+
+.markdown-source-view.mod-cm6 .cm-content > .math-block {
+	margin: 1em 0 !important;
+}
+
+/* Hide frontmatter in preview */
+.frontmatter-container {
+	display: none;
+}
+
+/* Style embeds to look like blockquotes */
+.markdown-embed {
+	border-radius: var(--radius-s);
+	padding: 0;
+}
+.markdown-embed-content {
+	border-radius: var(--radius-s);
+}
+.markdown-reading-view .internal-embed {
+	margin-bottom: 1.5em;
+}
+
+/* Change some callout colors to match theme */
+.callout,
+.callout[data-callout="info"],
+.callout[data-callout="tip"],
+.callout[data-callout="hint"],
+.callout[data-callout="important"],
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"],
+.callout[data-callout="todo"] {
+	--callout-color: var(--color-blue-rgb);
+}
+
+.callout[data-callout="question"],
+.callout[data-callout="help"],
+.callout[data-callout="faq"],
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"] {
+	--callout-color: var(--color-green-rgb);
+}
+
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="attention"] {
+	--callout-color: var(--color-orange-rgb);
+}
+
+.callout[data-callout="failure"],
+.callout[data-callout="fail"],
+.callout[data-callout="missing"],
+.callout[data-callout="danger"],
+.callout[data-callout="error"],
+.callout[data-callout="bug"] {
+	--callout-color: var(--color-red-rgb);
+}
+
+.callout[data-callout="example"] {
+	--callout-color: var(--color-purple-rgb);
+}
+
+/* space first paragraph in callout */
+.callout-content p:first-child {
+	margin-top: 1em;
+}
+
+/* Display brackets around footnotes in live */
+.cm-hmd-footnote .cm-underline::before {
+	content: "[";
+}
+
+.cm-hmd-footnote .cm-underline::after {
+	content: "]:";
+}
+
+/* Use font var for sup & sub sizing */
+sup,
+sub {
+	font-size: var(--font-smallest);
+}
+
+/* Add color to setting headings */
+.setting-item-heading .setting-item-name {
+	color: var(--color-blue);
+}
+
+/* Fix search color */
+.search-result:not(.is-collapsed) .search-result-file-title {
+	color: var(--text-normal);
+}
+
+/* don't double background in code block */
+.markdown-rendered pre code {
+	background-color: transparent;
+}
+
+/* optional altnote1 cssclass for notes */
+.altnote1,
+.scripture,
+.source {
+	--font-text-override: var(--font-serif);
+	--font-text: var(--font-text-override), var(--font-text-theme),
+		var(--font-interface);
+	font-family: var(--font-serif);
+	--h1-font: var(--font-serif);
+	--h2-font: var(--font-serif);
+	--h3-font: var(--font-serif);
+	--h4-font: var(--font-serif);
+	--h5-font: var(--font-serif);
+	--h6-font: var(--font-serif);
+	--inline-title-font: var(--font-serif);
+	--inline-title-variant: small-caps;
+	font-size: 20px;
+	background: var(--color-base-25);
+}
+
+.altnote1 .cm-hmd-frontmatter,
+.scripture .cm-hmd-frontmatter,
+.source .cm-hmd-frontmatter {
+	font-size: 0.8em;
+}
+
+.altnote1 pre,
+.scripture pre,
+.source pre {
+	font-size: 1rem;
+}
+
+.altnote1 pre br,
+.scripture pre br,
+.source pre br {
+	display: none;
+}
+
+/* optional list classes
+ * IA1ai makes lists go from:
+ * Upper Roman -> Upper Alpha -> Number -> Lower Alpha -> Lower Roman
+ */
+
+.list-IA1ai ol {
+	list-style-type: upper-roman;
+}
+
+.list-IA1ai ol ol {
+	list-style-type: upper-alpha;
+}
+
+.list-IA1ai ol ol ol {
+	list-style-type: decimal;
+}
+
+.list-IA1ai ol ol ol ol {
+	list-style-type: lower-alpha;
+}
+
+.list-IA1ai ol ol ol ol ol {
+	list-style-type: lower-roman;
+}
+
+.list-IA1ai .footnotes ol {
+	list-style-type: numeric;
+}
