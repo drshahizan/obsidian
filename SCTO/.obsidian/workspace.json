@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a639c051f7d2cd27",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-01 20.46.30.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Excalidraw/Drawing 2024-02-01 20.46.30.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Excalidraw/Drawing 2024-02-01 20.46.30.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Excalidraw/Drawing 2024-02-01 20.46.30.excalidraw.md"
               }
             }
           },
@@ -188,8 +198,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09dc007f5add889d",
+  "active": "65e9c833c39092e4",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-02-01 17.18.25.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-01 20.46.30.excalidraw.md",
+    "Untitled.md",
     "excalidraw-libraries/basic-system-design 2.excalidrawlib",
     "__Media/Pasted image 20221214094010.png",
     "Excalidraw/how to write.md",
@@ -197,8 +210,6 @@
     "excalidraw-libraries/basic-system-design 1.excalidrawlib",
     "excalidraw-libraries/basic-system-design.excalidrawlib",
     "excalidraw-libraries",
-    "Untitled.md",
-    "Excalidraw/Drawing 2024-02-01 17.18.25.excalidraw.md",
     "Excalidraw/SLR github.md",
     "Excalidraw/Mind mapping.md",
     "Start here.canvas",
