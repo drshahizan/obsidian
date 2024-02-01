@@ -26,6 +26,8 @@ Session 1a: Basic ^bFOZVQRP
 
 Session 1b: Advanced ^JN3AIy8d
 
+GitHub ^vajnzHYW
+
 %%
 # Drawing
 ```json
@@ -116,8 +118,8 @@ Session 1b: Advanced ^JN3AIy8d
 		},
 		{
 			"type": "text",
-			"version": 128,
-			"versionNonce": 913900999,
+			"version": 385,
+			"versionNonce": 387202887,
 			"isDeleted": false,
 			"id": "8UxGRumg",
 			"fillStyle": "hachure",
@@ -126,30 +128,30 @@ Session 1b: Advanced ^JN3AIy8d
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 20.666829427083258,
-			"y": -465.25390625,
+			"x": -58.95426432291674,
+			"y": -494.0859375,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 147.11990356445312,
-			"height": 20,
+			"width": 298.142578125,
+			"height": 41.4,
 			"seed": 244151751,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706766235169,
+			"updated": 1706829313175,
 			"link": null,
 			"locked": false,
-			"fontSize": 16,
-			"fontFamily": 1,
+			"fontSize": 36,
+			"fontFamily": 2,
 			"text": "Github Repository ",
 			"rawText": "Github Repository ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Github Repository ",
-			"lineHeight": 1.25,
-			"baseline": 14
+			"lineHeight": 1.15,
+			"baseline": 33
 		},
 		{
 			"type": "arrow",
@@ -984,35 +986,333 @@ Session 1b: Advanced ^JN3AIy8d
 			"baseline": 14
 		},
 		{
-			"id": "LmIINjvptwFhKRQzUcNQf",
-			"type": "embeddable",
-			"x": 411.1486002604164,
-			"y": 152.66536458333326,
-			"width": 219.66796874999997,
-			"height": 208.62353515624997,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
+			"type": "rectangle",
+			"version": 3231,
+			"versionNonce": 738350921,
+			"isDeleted": false,
+			"id": "RPJyJHWH7HmfTG7FXvm3F",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
-			"groupIds": [],
+			"angle": 0,
+			"x": -397.3593196720627,
+			"y": -314.8459786124241,
+			"strokeColor": "#000000",
+			"backgroundColor": "#ced4da",
+			"width": 64.46115236495699,
+			"height": 64.39942473426015,
+			"seed": 221225,
+			"groupIds": [
+				"yCHThEd887G6SLIe9_u_3",
+				"DNsGDqd3lqVFd9ziCYY5k",
+				"uImqGSkwsEsGzxvyu7XTa",
+				"VKZF8kQJLC4eUoflGK38O",
+				"aAVTu2YgNEPWa-mToWxS0"
+			],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1750857831,
-			"version": 81,
-			"versionNonce": 2071421415,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1706777230576,
-			"link": "https://www.youtube.com/watch?v=147f6prXuWA",
+			"boundElements": [],
+			"updated": 1706829331459,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 1186,
+			"versionNonce": 1646954025,
+			"isDeleted": false,
+			"id": "jK8mTqHP3QNldwFdmilwQ",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -391.06999487374435,
+			"y": -308.473750249119,
+			"strokeColor": "#000000",
+			"backgroundColor": "#868e96",
+			"width": 51.88250276832002,
+			"height": 51.88250276832002,
+			"seed": 651653897,
+			"groupIds": [
+				"MLmZOmj52CU-2FzhB68e8",
+				"aAVTu2YgNEPWa-mToWxS0"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706829331459,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "line",
+			"version": 4732,
+			"versionNonce": 1160370441,
+			"isDeleted": false,
+			"id": "sdmisuQWkWtHKWpeKJF4q",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -375.3222309430581,
+			"y": -298.06569963956065,
+			"strokeColor": "#000000",
+			"backgroundColor": "#fff",
+			"width": 28.10264153823924,
+			"height": 32.45750960039449,
+			"seed": 1130768873,
+			"groupIds": [
+				"MLmZOmj52CU-2FzhB68e8",
+				"aAVTu2YgNEPWa-mToWxS0"
+			],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1706829331459,
+			"link": null,
 			"locked": false,
-			"scale": [
-				1,
-				1
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.522383435627326,
+					0.8876695614221044
+				],
+				[
+					4.222250533550099,
+					2.710891079770457
+				],
+				[
+					6.53876438289814,
+					1.9494891881139838
+				],
+				[
+					13.00273268947289,
+					2.0374391115495714
+				],
+				[
+					15.018859724261578,
+					2.2364052653721083
+				],
+				[
+					16.578273739956423,
+					0.9941438562971401
+				],
+				[
+					18.744233429245106,
+					-0.5092823311506232
+				],
+				[
+					19.3382730064762,
+					1.5588921397895759
+				],
+				[
+					19.283438583962543,
+					3.566556278350808
+				],
+				[
+					21.26661686487244,
+					5.46749782452002
+				],
+				[
+					22.153106695509578,
+					10.909367329014938
+				],
+				[
+					21.45853734367018,
+					16.608727547781946
+				],
+				[
+					19.438802781084537,
+					18.8230883820351
+				],
+				[
+					16.687942584983702,
+					20.009258415382803
+				],
+				[
+					13.71774469882833,
+					20.664602961087855
+				],
+				[
+					14.50370475485716,
+					21.40308436092641
+				],
+				[
+					15.390194585494283,
+					23.040424434305827
+				],
+				[
+					15.572975993873055,
+					28.176226896819482
+				],
+				[
+					15.536419712197318,
+					31.28569415677526
+				],
+				[
+					14.567678247789736,
+					31.823854903738514
+				],
+				[
+					7.240428539404906,
+					31.948227269243866
+				],
+				[
+					6.324236729906197,
+					31.05132655929166
+				],
+				[
+					6.068342758175913,
+					27.392989048505843
+				],
+				[
+					4.377614730672068,
+					27.862931757494
+				],
+				[
+					1.5810591824765403,
+					28.041957551394276
+				],
+				[
+					-1.0327149573401755,
+					26.542616527479623
+				],
+				[
+					-2.659469491911409,
+					23.92436429168835
+				],
+				[
+					-4.240528674387946,
+					22.313132146586064
+				],
+				[
+					-5.949534842729662,
+					21.179302118551103
+				],
+				[
+					-3.628210956319009,
+					21.40308436092641
+				],
+				[
+					-1.9831782809098755,
+					22.671183734386556
+				],
+				[
+					-0.11880791544621871,
+					24.43906344915162
+				],
+				[
+					2.147681548450816,
+					25.543055844869823
+				],
+				[
+					4.660925913659192,
+					25.22976070554441
+				],
+				[
+					5.9038394906349865,
+					24.252578247172192
+				],
+				[
+					6.022647406081191,
+					22.71594018286161
+				],
+				[
+					6.689799546663803,
+					21.380706136688904
+				],
+				[
+					7.558011236463052,
+					20.776494082275484
+				],
+				[
+					4.277084956063728,
+					19.93358096932851
+				],
+				[
+					1.1423838023674477,
+					18.89984919335192
+				],
+				[
+					-0.4569535209469784,
+					16.571430507386058
+				],
+				[
+					-1.6541717458280658,
+					10.963038997107194
+				],
+				[
+					-0.7037084222583516,
+					5.6861115380996985
+				],
+				[
+					0.6671521405825978,
+					4.240069736001822
+				],
+				[
+					-0.11880791544621871,
+					2.2772861946741387
+				],
+				[
+					0,
+					0
+				]
 			]
+		},
+		{
+			"type": "text",
+			"version": 2063,
+			"versionNonce": 1987825641,
+			"isDeleted": false,
+			"id": "vajnzHYW",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -397.6287434895836,
+			"y": -244.84672972090937,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 63.99993896484375,
+			"height": 25,
+			"seed": 247137481,
+			"groupIds": [
+				"aAVTu2YgNEPWa-mToWxS0"
+			],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706829331459,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "GitHub",
+			"rawText": "GitHub",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "GitHub",
+			"lineHeight": 1.25,
+			"baseline": 18
 		}
 	],
 	"appState": {
@@ -1025,13 +1325,13 @@ Session 1b: Advanced ^JN3AIy8d
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 16,
+		"currentItemFontFamily": 2,
+		"currentItemFontSize": 36,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 267.7537434895836,
-		"scrollY": 42.99479166666674,
+		"scrollX": 497.7537434895836,
+		"scrollY": 508.99479166666674,
 		"zoom": {
 			"value": 1
 		},
