@@ -114,9 +114,9 @@ To insert a template in Obsidian, you need to follow these steps:
 
 **Source:**
 - (1) [How to Use Templates with Obsidian - Alphr](https://www.alphr.com/obsidian-how-to-use-templates/)
-- (2) [Templates - Obsidian Help](https://help.obsidian.md/Plugins/Templates.
+- (2) [Templates - Obsidian Help](https://help.obsidian.md/Plugins/Templates.]
 - (3) [Ultimate Guide to Obsidian Templates:with Examples](https://facedragons.com/productivity/obsidian-templates-with-examples/)
-- (5) [Use Templates in Obsidian as Beginners - iReadAction](https://ireadaction.com/use-templates-in-obsidian-as-beginners/)
+- (4) [Use Templates in Obsidian as Beginners - iReadAction](https://ireadaction.com/use-templates-in-obsidian-as-beginners/)
 
 **References:** 
 
