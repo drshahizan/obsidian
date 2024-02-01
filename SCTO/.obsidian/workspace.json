@@ -40,9 +40,19 @@
                 "file": "Excalidraw/SLR github.md"
               }
             }
+          },
+          {
+            "id": "09dc007f5add889d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/how to write.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/SLR github.md",
+                "file": "Excalidraw/how to write.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/SLR github.md",
+                "file": "Excalidraw/how to write.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/SLR github.md"
+                "file": "Excalidraw/how to write.md"
               }
             }
           },
@@ -188,10 +198,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "18be9c567e9d126c",
+  "active": "09dc007f5add889d",
   "lastOpenFiles": [
-    "Start here.canvas",
+    "Untitled.md",
+    "Excalidraw/how to write.md",
+    "Excalidraw/Drawing 2024-02-01 17.18.25.excalidraw.md",
     "Excalidraw/SLR github.md",
+    "Excalidraw/Mind mapping.md",
+    "Start here.canvas",
     "Excalidraw/Untitled.md",
     "'+transcludePath+'.md",
     "__Templates/Excalidraw.md",
@@ -215,9 +229,6 @@
     "1️⃣ Primary Sources/Shabanov 2022b.md",
     "1️⃣ Primary Sources/Waleed 2023.md",
     "📆 Calendar/30 Jan 2024.md",
-    "📆 Calendar/29 Jan 2024.md",
-    "📆 Calendar/28 Jan 2024.md",
-    "📆 Calendar/24 Dec 2022.md",
     "Mind Map",
     "Excalidraw",
     "__Papers/Connell 1964.pdf",

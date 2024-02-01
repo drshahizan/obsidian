@@ -431,7 +431,7 @@
   },
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
-  "openAIAPIToken": "",
+  "openAIAPIToken": "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",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4-vision-preview",
   "openAIDefaultImageGenerationModel": "dall-e-3",
