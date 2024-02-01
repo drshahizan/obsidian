@@ -35,11 +35,9 @@
             "id": "18be9c567e9d126c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "1️⃣ Primary Sources/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "👓 Kanban.md"
               }
             }
           }
@@ -118,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1️⃣ Primary Sources/Untitled.md",
+                "file": "👓 Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1️⃣ Primary Sources/Untitled.md",
+                "file": "👓 Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1️⃣ Primary Sources/Untitled.md"
+                "file": "👓 Kanban.md"
               }
             }
           },
@@ -190,10 +188,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65e9c833c39092e4",
+  "active": "18be9c567e9d126c",
   "lastOpenFiles": [
-    "__Templates/Source Note.md",
+    "👓 List of Papers.md",
+    "💡 SCTO System explained.md",
+    "📚 Reading List.md",
+    "🗓️ Calendar Home.md",
+    "Dataview Templates.md",
+    "Readme.md",
+    "Reference Manager.canvas",
+    "Start here.canvas",
     "1️⃣ Primary Sources/Untitled.md",
+    "__Templates/Source Note.md",
     "__Templates/Outline Note.md",
     "__Templates/Calendar Entry.md",
     "1️⃣ Primary Sources/DEF.md",
@@ -210,16 +216,7 @@
     "Mind Map/Check box.md",
     "4️⃣ Outlines/What defines Biodiversity.md",
     "3️⃣ Thoughts/Biodiversity Mechanisms.md",
-    "👓 List of Papers.md",
-    "Dataview Templates.md",
-    "Readme.md",
-    "Reference Manager.canvas",
-    "Start here.canvas",
     "1️⃣ Primary Sources/Shabanov 2022a.md",
-    "1️⃣ Primary Sources/Shabanov 2022b copy.md",
-    "👓 Kanban.md",
-    "Mind Map/Untitled.md",
-    "Mind Map/Mind mapping.md",
     "Mind Map",
     "Excalidraw",
     "__Papers/Connell 1964.pdf",
