@@ -28,6 +28,10 @@ Session 1b: Advanced ^JN3AIy8d
 
 GitHub ^vajnzHYW
 
+
+# Embedded files
+54ce3f2aa3621ae20f40e1c51a626cfe1b4a5696: [[Pasted Image 20240202095039_003.jpg]]
+
 %%
 # Drawing
 ```json
@@ -1313,6 +1317,39 @@ GitHub ^vajnzHYW
 			"originalText": "GitHub",
 			"lineHeight": 1.25,
 			"baseline": 18
+		},
+		{
+			"id": "Ewe4SztHpx5-7tJ362475",
+			"type": "image",
+			"x": 244.22314453125,
+			"y": 72.65559895833326,
+			"width": 312.49609375,
+			"height": 312.49609375,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 938369033,
+			"version": 111,
+			"versionNonce": 1238939017,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706838689683,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "54ce3f2aa3621ae20f40e1c51a626cfe1b4a5696",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -1330,8 +1367,8 @@ GitHub ^vajnzHYW
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 497.7537434895836,
-		"scrollY": 508.99479166666674,
+		"scrollX": 520.09716796875,
+		"scrollY": 297.41080729166674,
 		"zoom": {
 			"value": 1
 		},

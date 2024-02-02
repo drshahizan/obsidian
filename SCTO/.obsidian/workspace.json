@@ -33,18 +33,6 @@
             "id": "09dc007f5add889d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a639c051f7d2cd27",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/SLR github.md"
@@ -52,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,13 +186,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a639c051f7d2cd27",
+  "active": "09dc007f5add889d",
   "lastOpenFiles": [
+    "Excalidraw/second note 2024-02-02 09.47.37.excalidraw.md",
+    "Pasted Image 20240202095039_003.jpg",
+    "second note.md",
+    "My first note.md",
     "Excalidraw/how to write.md",
+    "Chapter 2.md",
+    "Chapter 3.md",
     "Excalidraw/SLR github.md",
+    "Readme.md",
     "Excalidraw/Drawing 2024-02-01 20.46.30.excalidraw.md",
     "Excalidraw/Drawing 2024-02-01 17.18.25.excalidraw.md",
-    "Untitled.md",
     "excalidraw-libraries/basic-system-design 2.excalidrawlib",
     "__Media/Pasted image 20221214094010.png",
     "basic-system-design.excalidrawlib",
@@ -217,7 +211,6 @@
     "'+transcludePath+'.md",
     "__Templates/Excalidraw.md",
     "💡 SCTO System explained.md",
-    "Readme.md",
     "👓 Kanban.md",
     "👓 List of Papers.md",
     "📚 Reading List.md",
@@ -229,11 +222,6 @@
     "__Templates/Outline Note.md",
     "__Templates/Calendar Entry.md",
     "1️⃣ Primary Sources/DEF.md",
-    "1️⃣ Primary Sources/James 2024.md",
-    "1️⃣ Primary Sources/Pianka 1966.md",
-    "1️⃣ Primary Sources/Connell 1964.md",
-    "1️⃣ Primary Sources/Shabanov 2022b.md",
-    "1️⃣ Primary Sources/Waleed 2023.md",
     "Mind Map",
     "Excalidraw",
     "__Papers/Connell 1964.pdf",
