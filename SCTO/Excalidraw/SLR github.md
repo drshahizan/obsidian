@@ -8,11 +8,9 @@ tags: [excalidraw]
 
 
 # Text Elements
-Github Repository  ^8UxGRumg
+SLR Repository ^8UxGRumg
 
 SLR-FC ^Tqdu9Tk1
-
-Start here ^AHUerQZ1
 
 Obsidian ^gWQhUYmv
 
@@ -26,11 +24,15 @@ Session 1a: Basic ^bFOZVQRP
 
 Session 1b: Advanced ^JN3AIy8d
 
-GitHub ^vajnzHYW
+gitbook.io/copywriting-chatgpt ^GrlDOpuy
+
+gitbook.io/ai-tools ^QUphAum9
+
+Start here ^S4N3YyLd
 
 
 # Embedded files
-54ce3f2aa3621ae20f40e1c51a626cfe1b4a5696: [[Pasted Image 20240202095039_003.jpg]]
+376262a7b590928664d58ba10b0206fa36f8e9b1: [[Pasted Image 20240202102119_150.png]]
 
 %%
 # Drawing
@@ -42,8 +44,8 @@ GitHub ^vajnzHYW
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 936,
-			"versionNonce": 92989609,
+			"version": 1258,
+			"versionNonce": 2137021639,
 			"isDeleted": false,
 			"id": "cg2_IAyDjrPs8lQrbv9mC",
 			"fillStyle": "hachure",
@@ -52,18 +54,18 @@ GitHub ^vajnzHYW
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -399.62506701899514,
-			"y": -359.46809895833337,
+			"x": 748.6644550398283,
+			"y": -353.4019224877451,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffec99",
 			"width": 236.0809589460785,
 			"height": 142.34826899509807,
 			"seed": 1300918537,
 			"groupIds": [],
-			"frameId": null,
+			"frameId": "ahP08ndLEcj6uP2poHojg",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839342024,
+			"updated": 1706840186033,
 			"link": "https://drshahizan.github.io/",
 			"locked": false,
 			"scale": [
@@ -117,8 +119,8 @@ GitHub ^vajnzHYW
 		},
 		{
 			"type": "text",
-			"version": 385,
-			"versionNonce": 387202887,
+			"version": 745,
+			"versionNonce": 334615625,
 			"isDeleted": false,
 			"id": "8UxGRumg",
 			"fillStyle": "hachure",
@@ -127,35 +129,35 @@ GitHub ^vajnzHYW
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -58.95426432291674,
-			"y": -494.0859375,
+			"x": -101.92301432291686,
+			"y": -510.1383272058824,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 298.142578125,
+			"width": 252.10546875,
 			"height": 41.4,
 			"seed": 244151751,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706829313175,
+			"updated": 1706840579935,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
 			"fontFamily": 2,
-			"text": "Github Repository ",
-			"rawText": "Github Repository ",
+			"text": "SLR Repository",
+			"rawText": "SLR Repository",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Github Repository ",
+			"originalText": "SLR Repository",
 			"lineHeight": 1.15,
 			"baseline": 33
 		},
 		{
 			"type": "embeddable",
-			"version": 987,
-			"versionNonce": 1553570119,
+			"version": 988,
+			"versionNonce": 1610226505,
 			"isDeleted": false,
 			"id": "kkxMsCTbJsAGrMY1xunYs",
 			"fillStyle": "hachure",
@@ -178,9 +180,13 @@ GitHub ^vajnzHYW
 				{
 					"id": "x07v31AhYd0WxIya1irdy",
 					"type": "arrow"
+				},
+				{
+					"id": "bWPwcf4zd3sXIKXCl9SAc",
+					"type": "arrow"
 				}
 			],
-			"updated": 1706839305271,
+			"updated": 1706840116318,
 			"link": "https://github.com/drshahizan/SLR-FC",
 			"locked": false,
 			"scale": [
@@ -190,8 +196,8 @@ GitHub ^vajnzHYW
 		},
 		{
 			"type": "embeddable",
-			"version": 1041,
-			"versionNonce": 1333474183,
+			"version": 1042,
+			"versionNonce": 1950351081,
 			"isDeleted": false,
 			"id": "7QtkntMvIXR_8ebRVMdx1",
 			"fillStyle": "hachure",
@@ -218,9 +224,13 @@ GitHub ^vajnzHYW
 				{
 					"id": "O3yp0zRceFPhwQ29MYU-O",
 					"type": "arrow"
+				},
+				{
+					"id": "bWPwcf4zd3sXIKXCl9SAc",
+					"type": "arrow"
 				}
 			],
-			"updated": 1706839305271,
+			"updated": 1706840198911,
 			"link": "https://github.com/drshahizan/obsidian",
 			"locked": false,
 			"scale": [
@@ -453,51 +463,9 @@ GitHub ^vajnzHYW
 			]
 		},
 		{
-			"type": "text",
-			"version": 155,
-			"versionNonce": 1075850055,
-			"isDeleted": false,
-			"id": "AHUerQZ1",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 45.07112630208303,
-			"y": -422.52734375000006,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 85.64794921875,
-			"height": 20,
-			"seed": 1591370313,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"id": "zMJ4HlG6TqgsDQ53M3BlH",
-					"type": "arrow"
-				}
-			],
-			"updated": 1706766232005,
-			"link": null,
-			"locked": false,
-			"fontSize": 16,
-			"fontFamily": 1,
-			"text": "Start here",
-			"rawText": "Start here",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Start here",
-			"lineHeight": 1.25,
-			"baseline": 14
-		},
-		{
 			"type": "arrow",
-			"version": 1013,
-			"versionNonce": 1290291239,
+			"version": 1184,
+			"versionNonce": 352181353,
 			"isDeleted": false,
 			"id": "zMJ4HlG6TqgsDQ53M3BlH",
 			"fillStyle": "hachure",
@@ -506,25 +474,21 @@ GitHub ^vajnzHYW
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 118.10443330200546,
-			"y": -400.8378906249999,
+			"x": 252.97165270555595,
+			"y": -418.28733915441165,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 86.99593622920106,
-			"height": 29.968022365196134,
+			"width": 0.08723795644382903,
+			"height": 47.4174708946079,
 			"seed": 399346407,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839305271,
+			"updated": 1706840235009,
 			"link": null,
 			"locked": false,
-			"startBinding": {
-				"elementId": "AHUerQZ1",
-				"focus": 0.0551931284255152,
-				"gap": 1.6894531250001705
-			},
+			"startBinding": null,
 			"endBinding": {
 				"elementId": "T9DsxvsH",
 				"focus": -0.17491408732657843,
@@ -539,8 +503,8 @@ GitHub ^vajnzHYW
 					0
 				],
 				[
-					86.99593622920106,
-					29.968022365196134
+					0.08723795644382903,
+					47.4174708946079
 				]
 			]
 		},
@@ -620,8 +584,8 @@ GitHub ^vajnzHYW
 		},
 		{
 			"type": "text",
-			"version": 135,
-			"versionNonce": 1772017063,
+			"version": 459,
+			"versionNonce": 1625762791,
 			"isDeleted": false,
 			"id": "wqLdULnX",
 			"fillStyle": "hachure",
@@ -630,18 +594,18 @@ GitHub ^vajnzHYW
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -402.56137982536825,
-			"y": -193.02270986519608,
+			"x": 745.7281422334552,
+			"y": -186.9565333946078,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 239.19981384277344,
 			"height": 20,
 			"seed": 1798295815,
 			"groupIds": [],
-			"frameId": null,
+			"frameId": "ahP08ndLEcj6uP2poHojg",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839347270,
+			"updated": 1706840186033,
 			"link": "https://drshahizan.github.io/",
 			"locked": false,
 			"fontSize": 16,
@@ -940,8 +904,8 @@ GitHub ^vajnzHYW
 		},
 		{
 			"type": "rectangle",
-			"version": 3256,
-			"versionNonce": 279421351,
+			"version": 3362,
+			"versionNonce": 1328526439,
 			"isDeleted": false,
 			"id": "RPJyJHWH7HmfTG7FXvm3F",
 			"fillStyle": "cross-hatch",
@@ -950,8 +914,8 @@ GitHub ^vajnzHYW
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -359.3216358485333,
-			"y": 11.082330211105273,
+			"x": -87.13413584853333,
+			"y": -358.43053743595345,
 			"strokeColor": "#000000",
 			"backgroundColor": "#ced4da",
 			"width": 64.46115236495699,
@@ -964,17 +928,17 @@ GitHub ^vajnzHYW
 				"VKZF8kQJLC4eUoflGK38O",
 				"aAVTu2YgNEPWa-mToWxS0"
 			],
-			"frameId": null,
+			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839336223,
+			"updated": 1706839519603,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 1211,
-			"versionNonce": 1454560455,
+			"version": 1317,
+			"versionNonce": 1143040393,
 			"isDeleted": false,
 			"id": "jK8mTqHP3QNldwFdmilwQ",
 			"fillStyle": "solid",
@@ -983,8 +947,8 @@ GitHub ^vajnzHYW
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -353.0323110502149,
-			"y": 17.454558574410385,
+			"x": -80.84481105021496,
+			"y": -352.05830907264834,
 			"strokeColor": "#000000",
 			"backgroundColor": "#868e96",
 			"width": 51.88250276832002,
@@ -994,17 +958,17 @@ GitHub ^vajnzHYW
 				"MLmZOmj52CU-2FzhB68e8",
 				"aAVTu2YgNEPWa-mToWxS0"
 			],
-			"frameId": null,
+			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839336223,
+			"updated": 1706839519603,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 4757,
-			"versionNonce": 388670439,
+			"version": 4863,
+			"versionNonce": 405442439,
 			"isDeleted": false,
 			"id": "sdmisuQWkWtHKWpeKJF4q",
 			"fillStyle": "solid",
@@ -1013,8 +977,8 @@ GitHub ^vajnzHYW
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -337.28454711952867,
-			"y": 27.862609183968743,
+			"x": -65.09704711952872,
+			"y": -341.65025846309,
 			"strokeColor": "#000000",
 			"backgroundColor": "#fff",
 			"width": 28.10264153823924,
@@ -1024,12 +988,12 @@ GitHub ^vajnzHYW
 				"MLmZOmj52CU-2FzhB68e8",
 				"aAVTu2YgNEPWa-mToWxS0"
 			],
-			"frameId": null,
+			"frameId": "0xnnIBS7IQh3mTUclJKT0",
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706839336223,
+			"updated": 1706839519603,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1229,78 +1193,6 @@ GitHub ^vajnzHYW
 			]
 		},
 		{
-			"type": "text",
-			"version": 2088,
-			"versionNonce": 303795975,
-			"isDeleted": false,
-			"id": "vajnzHYW",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -359.59105966605415,
-			"y": 81.08157910262003,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 63.99993896484375,
-			"height": 25,
-			"seed": 247137481,
-			"groupIds": [
-				"aAVTu2YgNEPWa-mToWxS0"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706839336223,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "GitHub",
-			"rawText": "GitHub",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "GitHub",
-			"lineHeight": 1.25,
-			"baseline": 18
-		},
-		{
-			"type": "image",
-			"version": 190,
-			"versionNonce": 1550068265,
-			"isDeleted": false,
-			"id": "Ewe4SztHpx5-7tJ362475",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 506.0889533547795,
-			"y": -389.0447686887255,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 312.49609375,
-			"height": 312.49609375,
-			"seed": 938369033,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706839234955,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "54ce3f2aa3621ae20f40e1c51a626cfe1b4a5696",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
 			"id": "0xnnIBS7IQh3mTUclJKT0",
 			"type": "frame",
 			"x": -108.2396790747548,
@@ -1319,11 +1211,24 @@ GitHub ^vajnzHYW
 			"frameId": null,
 			"roundness": null,
 			"seed": 488459689,
-			"version": 334,
-			"versionNonce": 648540007,
+			"version": 337,
+			"versionNonce": 1227723175,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1706839305271,
+			"boundElements": [
+				{
+					"id": "I83eF9Wpu7txVC0XMNwiO",
+					"type": "arrow"
+				},
+				{
+					"id": "bWPwcf4zd3sXIKXCl9SAc",
+					"type": "arrow"
+				},
+				{
+					"id": "ffnV3qK24VeXsAwRtm4jD",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706840566029,
 			"link": null,
 			"locked": false,
 			"customData": {
@@ -1336,39 +1241,318 @@ GitHub ^vajnzHYW
 			"name": "Github"
 		},
 		{
-			"type": "arrow",
-			"version": 837,
-			"versionNonce": 1355160713,
-			"isDeleted": true,
-			"id": "lKoE5gErURACCQ73mcOLS",
+			"id": "2Y9bPeEodZcnzOa5tVGxV",
+			"type": "embeddable",
+			"x": 749.0020488664215,
+			"y": -108.73182827818567,
+			"width": 241.56709558823525,
+			"height": 138.9981617647058,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "iR-1_G821tCU3puV2-bZj",
+			"roundness": null,
+			"seed": 902966375,
+			"version": 600,
+			"versionNonce": 711827977,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "bWPwcf4zd3sXIKXCl9SAc",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706840410048,
+			"link": "https://drshahizan.gitbook.io/copywriting-chatgpt/",
+			"locked": false,
+			"scale": [
+				0.2,
+				0.2
+			]
+		},
+		{
+			"id": "GrlDOpuy",
+			"type": "text",
+			"x": 757.604990042892,
+			"y": 44.4837048100494,
+			"width": 226.57582092285156,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "iR-1_G821tCU3puV2-bZj",
+			"roundness": null,
+			"seed": 2047716007,
+			"version": 700,
+			"versionNonce": 909909767,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706840410048,
+			"link": "https://drshahizan.gitbook.io/copywriting-chatgpt/",
+			"locked": false,
+			"text": "gitbook.io/copywriting-chatgpt",
+			"rawText": "gitbook.io/copywriting-chatgpt",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 14,
+			"containerId": null,
+			"originalText": "gitbook.io/copywriting-chatgpt",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "embeddable",
+			"version": 767,
+			"versionNonce": 1918793961,
+			"isDeleted": false,
+			"id": "o7UXMVzxaPcu8OU0jMRVA",
 			"fillStyle": "hachure",
 			"strokeWidth": 0.5,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 196.6004997702206,
-			"y": -279.4691941440988,
+			"x": 1021.1118834252445,
+			"y": -106.31454886641947,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 330.35175398284315,
-			"height": 1.1849614187342468,
-			"seed": 1522335017,
+			"width": 241.56709558823525,
+			"height": 138.9981617647058,
+			"seed": 2003445767,
 			"groupIds": [],
-			"frameId": "0xnnIBS7IQh3mTUclJKT0",
+			"frameId": "iR-1_G821tCU3puV2-bZj",
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706839314043,
+			"updated": 1706840410048,
+			"link": "https://drshahizan.gitbook.io/ai-tools/",
+			"locked": false,
+			"scale": [
+				0.2,
+				0.2
+			]
+		},
+		{
+			"type": "text",
+			"version": 927,
+			"versionNonce": 1133553191,
+			"isDeleted": false,
+			"id": "QUphAum9",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1023.7178148755836,
+			"y": 47.88214231005088,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 139.3759002685547,
+			"height": 20,
+			"seed": 1921288745,
+			"groupIds": [],
+			"frameId": "iR-1_G821tCU3puV2-bZj",
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706840410048,
+			"link": "https://drshahizan.gitbook.io/ai-tools/",
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 1,
+			"text": "gitbook.io/ai-tools",
+			"rawText": "gitbook.io/ai-tools",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "gitbook.io/ai-tools",
+			"lineHeight": 1.25,
+			"baseline": 14
+		},
+		{
+			"id": "ahP08ndLEcj6uP2poHojg",
+			"type": "frame",
+			"x": 734.7998429840677,
+			"y": -371.0388135723018,
+			"width": 266.0983455882352,
+			"height": 216.875,
+			"angle": 0,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 156437895,
+			"version": 398,
+			"versionNonce": 50796295,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "I83eF9Wpu7txVC0XMNwiO",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706840186033,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
+			"customData": {
+				"frameColor": {
+					"stroke": "#D4D4D4",
+					"fill": "#ADADAD",
+					"nameColor": "#949494"
+				}
+			},
+			"name": "Github.io"
+		},
+		{
+			"id": "iR-1_G821tCU3puV2-bZj",
+			"type": "frame",
+			"x": 732.4744753370087,
+			"y": -123.01491651347806,
+			"width": 546.9669117647061,
+			"height": 205.04595588235298,
+			"angle": 0,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 471514793,
+			"version": 694,
+			"versionNonce": 16190377,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "bWPwcf4zd3sXIKXCl9SAc",
+					"type": "arrow"
+				},
+				{
+					"id": "I83eF9Wpu7txVC0XMNwiO",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706840410042,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"frameColor": {
+					"stroke": "#D4D4D4",
+					"fill": "#ADADAD",
+					"nameColor": "#949494"
+				}
+			},
+			"name": "Gitbook"
+		},
+		{
+			"id": "I83eF9Wpu7txVC0XMNwiO",
+			"type": "arrow",
+			"x": 731.8752106311265,
+			"y": -267.8575449894456,
+			"width": 93.92003676470404,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1702899751,
+			"version": 670,
+			"versionNonce": 2068620359,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706840194607,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-93.92003676470404,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "ahP08ndLEcj6uP2poHojg",
+				"focus": 0.04847245110910704,
+				"gap": 2.9246323529412166
+			},
 			"endBinding": {
-				"elementId": "cg2_IAyDjrPs8lQrbv9mC",
-				"gap": 3.322265625,
-				"focus": -0.02405017846627781
+				"elementId": "0xnnIBS7IQh3mTUclJKT0",
+				"focus": -0.6859879054628218,
+				"gap": 2.431066176471518
+			},
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "arrow",
+			"version": 1217,
+			"versionNonce": 1693710441,
+			"isDeleted": false,
+			"id": "bWPwcf4zd3sXIKXCl9SAc",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 729.3605047487735,
+			"y": -82.49204534865198,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 91.50183823529437,
+			"height": 0.490726653363069,
+			"seed": 138156169,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706840570087,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "iR-1_G821tCU3puV2-bZj",
+				"focus": 0.5819491879835096,
+				"gap": 3.1139705882352473
+			},
+			"endBinding": {
+				"elementId": "0xnnIBS7IQh3mTUclJKT0",
+				"focus": -0.1288568371943967,
+				"gap": 2.334558823528141
 			},
 			"lastCommittedPoint": null,
-			"startArrowhead": null,
+			"startArrowhead": "arrow",
 			"endArrowhead": "arrow",
 			"points": [
 				[
@@ -1376,8 +1560,242 @@ GitHub ^vajnzHYW
 					0
 				],
 				[
-					-330.35175398284315,
-					1.1849614187342468
+					-91.50183823529437,
+					-0.490726653363069
+				]
+			]
+		},
+		{
+			"id": "3xpMM-nTJye1SEjhXAsT1",
+			"type": "rectangle",
+			"x": 183.17024739583172,
+			"y": -454.1776003370083,
+			"width": 138.18474264705884,
+			"height": 36.640625,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#ffec99",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 607452039,
+			"version": 125,
+			"versionNonce": 606439815,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "S4N3YyLd"
+				}
+			],
+			"updated": 1706840244020,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "S4N3YyLd",
+			"type": "text",
+			"x": 209.43864410998614,
+			"y": -445.8572878370083,
+			"width": 85.64794921875,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 820284999,
+			"version": 106,
+			"versionNonce": 763489895,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706840242775,
+			"link": null,
+			"locked": false,
+			"text": "Start here",
+			"rawText": "Start here",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 14,
+			"containerId": "3xpMM-nTJye1SEjhXAsT1",
+			"originalText": "Start here",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Z9Z6Dn8BjoRTDT2WKPidg",
+			"type": "image",
+			"x": 754.9466817371753,
+			"y": 118.83618642769807,
+			"width": 169.98205778790376,
+			"height": 161.99632352941165,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "#ffec99",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": "puj8yYZUdsOS_QWs7jNNV",
+			"roundness": null,
+			"seed": 558988743,
+			"version": 315,
+			"versionNonce": 2115074535,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706840543740,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "376262a7b590928664d58ba10b0206fa36f8e9b1",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "puj8yYZUdsOS_QWs7jNNV",
+			"type": "frame",
+			"x": 737.0176738664212,
+			"y": 112.64684819240392,
+			"width": 241.45680147058806,
+			"height": 174.4439338235294,
+			"angle": 0,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1242325767,
+			"version": 206,
+			"versionNonce": 1209466727,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "ffnV3qK24VeXsAwRtm4jD",
+					"type": "arrow"
+				}
+			],
+			"updated": 1706840566029,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"frameColor": {
+					"stroke": "#D4D4D4",
+					"fill": "#ADADAD",
+					"nameColor": "#949494"
+				}
+			},
+			"name": "OneDrive"
+		},
+		{
+			"type": "arrow",
+			"version": 1161,
+			"versionNonce": 1203367817,
+			"isDeleted": false,
+			"id": "hCG3aLKRb7jQJ-jkgsLC6",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 772.0608723958333,
+			"y": 473.8572850484976,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 91.50183823529437,
+			"height": 0.490726653363069,
+			"seed": 882757223,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706840550463,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-91.50183823529437,
+					-0.490726653363069
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 1215,
+			"versionNonce": 737180295,
+			"isDeleted": false,
+			"id": "ffnV3qK24VeXsAwRtm4jD",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 729.7814606311272,
+			"y": 163.15416004849766,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 91.50183823529437,
+			"height": 0.490726653363069,
+			"seed": 1098871399,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706840566029,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "puj8yYZUdsOS_QWs7jNNV",
+				"focus": 0.41002172219323785,
+				"gap": 7.236213235294031
+			},
+			"endBinding": {
+				"elementId": "0xnnIBS7IQh3mTUclJKT0",
+				"focus": 0.61397240091558,
+				"gap": 2.7555147058818648
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": "arrow",
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-91.50183823529437,
+					-0.490726653363069
 				]
 			]
 		}
@@ -1386,19 +1804,19 @@ GitHub ^vajnzHYW
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "transparent",
+		"currentItemBackgroundColor": "#ffec99",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
-		"currentItemFontFamily": 2,
-		"currentItemFontSize": 36,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
+		"currentItemStartArrowhead": "arrow",
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 518.9841643688725,
-		"scrollY": 580.1932253370093,
+		"scrollX": 163.69004672181407,
+		"scrollY": 601.3696959252418,
 		"zoom": {
 			"value": 0.8500000000000001
 		},
