@@ -9,7 +9,7 @@ tags:
 ---
 
 *Waled et al 2023*
-# A prlimenary analysis of tools for note taking
+# A prelimenary analysis of tools for note taking
 
 
 > [!tldr] Summary

@@ -23,24 +23,16 @@
             "id": "18be9c567e9d126c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/SLR github.md"
-              }
-            }
-          },
-          {
-            "id": "09dc007f5add889d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/SLR github.md"
+                "file": "Introduction SLR and AI.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/SLR github.md",
+                "file": "Introduction SLR and AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/SLR github.md",
+                "file": "Introduction SLR and AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/SLR github.md"
+                "file": "Introduction SLR and AI.md"
               }
             }
           },
@@ -186,8 +178,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "09dc007f5add889d",
+  "active": "18be9c567e9d126c",
   "lastOpenFiles": [
+    "Exercise 1/Session 1.md",
+    "Introduction SLR and AI.md",
+    "Exercise 1/0 Start.md",
+    "Exercise 1/1 combine.md",
+    "Exercise 1/Session 2.md",
+    "Exercise 1/Session 3.md",
+    "👓 Kanban.md",
+    "1️⃣ Primary Sources/Waleed 2023.md",
+    "👓 List of Papers.md",
+    "Mind Map/Check box.md",
+    "Mind Map/IoT blockchain.md",
+    "Mind Map/Mind mapping.md",
+    "Readme.md",
+    "Reference Manager.canvas",
+    "__Media/Pasted Image 20240202102119_150.png",
+    "Pasted Image 20240202101844_201.png",
+    "Excalidraw/poster adv ai.md",
+    "materials/session1a.md",
+    "materials",
+    "Excalidraw/SLR github.md",
     "__Media/Pasted Image 20240202095039_003.jpg",
     "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
     "__Media/Pasted image 20221214131115.png",
@@ -196,22 +208,12 @@
     "__Media/Pasted image 20221214123958.png",
     "__Media/Pasted image 20221214122340.png",
     "__Media/Pasted image 20221214122025.png",
-    "__Media/Pasted image 20221214122006.png",
-    "__Media/Pasted image 20221214121823.png",
-    "__Media/Pasted image 20221214121635.png",
-    "Excalidraw/SLR github.md",
-    "Excalidraw/second note 2024-02-02 09.47.37.excalidraw.md",
     "Excalidraw/Drawing 2024-02-01 17.18.25.excalidraw.md",
     "Excalidraw/API gateway.md",
     "Excalidraw/0 Start.md",
-    "Exercise 1/0 Start.md",
-    "Exercise 1/Chapter 3.md",
-    "Exercise 1/Chapter 2.md",
-    "Exercise 1/Chapter 1.md",
     "Dataview Templates.md",
     "Exercise 1",
     "Excalidraw/how to write.md",
-    "Readme.md",
     "excalidraw-libraries/basic-system-design 2.excalidrawlib",
     "basic-system-design.excalidrawlib",
     "excalidraw-libraries/basic-system-design 1.excalidrawlib",
@@ -222,22 +224,12 @@
     "'+transcludePath+'.md",
     "__Templates/Excalidraw.md",
     "💡 SCTO System explained.md",
-    "👓 Kanban.md",
-    "👓 List of Papers.md",
     "📚 Reading List.md",
-    "🗓️ Calendar Home.md",
-    "Reference Manager.canvas",
-    "1️⃣ Primary Sources/Untitled.md",
-    "__Templates/Source Note.md",
-    "__Templates/Outline Note.md",
-    "__Templates/Calendar Entry.md",
-    "1️⃣ Primary Sources/DEF.md",
     "Mind Map",
     "Excalidraw",
     "__Papers/Connell 1964.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "__Papers/Pianka 1966.pdf"
+    "Untitled 2.canvas"
   ]
 }
