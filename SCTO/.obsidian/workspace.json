@@ -52,7 +52,7 @@
               "state": {
                 "file": "Readme canvas.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
