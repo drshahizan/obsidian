@@ -75,7 +75,7 @@ Markdown, a lightweight markup language, offers several advantages for academic 
    Markdown files are stored as plain text, ensuring their longevity and accessibility over time. Unlike proprietary formats that may become obsolete, plain text files remain readable and usable for years to come.
 
 ### 10. **Enhanced Productivity:**
-    Markdown supports various tools and editors that enhance productivity, from advanced features like Obsidian.md's graph view to simple task management with checklists. These tools contribute to a more streamlined and efficient writing process.
+Markdown supports various tools and editors that enhance productivity, from advanced features like Obsidian.md's graph view to simple task management with checklists. These tools contribute to a more streamlined and efficient writing process.
 
 In conclusion, adopting a markdown-based system for academic writing provides a range of benefits, from simplicity and readability to efficient collaboration and long-term accessibility. As scholars navigate the complexities of academic writing, markdown proves to be a valuable ally in facilitating a focused and productive writing experience.
 
