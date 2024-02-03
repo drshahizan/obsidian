@@ -45,28 +45,28 @@
    - **Solution:** Ensure the same sync method on both devices. Check mobile app settings for sync status.
 
 ### 10. **Themes Not Applying Correctly:**
-    - **Issue:** Themes not applying or displaying incorrectly.
-    - **Solution:** Double-check theme settings. Disable conflicting plugins. Ensure theme compatibility with your Obsidian version.
+- **Issue:** Themes not applying or displaying incorrectly.
+- **Solution:** Double-check theme settings. Disable conflicting plugins. Ensure theme compatibility with your Obsidian version.
 
 ### 11. **Code Block Formatting Issues:**
-    - **Issue:** Code blocks not displaying correctly.
-    - **Solution:** Review code block syntax. Ensure compatibility with the chosen theme.
+- **Issue:** Code blocks not displaying correctly.
+- **Solution:** Review code block syntax. Ensure compatibility with the chosen theme.
 
 ### 12. **Obsidian Sync Errors:**
-    - **Issue:** Sync errors or failed synchronization.
-    - **Solution:** Check Obsidian Sync settings. Verify internet connection. Monitor Obsidian status page for issues.
+- **Issue:** Sync errors or failed synchronization.
+- **Solution:** Check Obsidian Sync settings. Verify internet connection. Monitor Obsidian status page for issues.
 
 ### 13. **Missing Features or Functionality:**
-    - **Issue:** Users looking for features not present in Obsidian.
-    - **Solution:** Check the Obsidian roadmap. Explore third-party plugins or provide feedback on the community forum.
+- **Issue:** Users looking for features not present in Obsidian.
+- **Solution:** Check the Obsidian roadmap. Explore third-party plugins or provide feedback on the community forum.
 
 ### 14. **Table Formatting Problems:**
-    - **Issue:** Tables not formatting correctly.
-    - **Solution:** Review Markdown syntax for tables. Check for theme or plugin conflicts affecting table rendering.
+- **Issue:** Tables not formatting correctly.
+- **Solution:** Review Markdown syntax for tables. Check for theme or plugin conflicts affecting table rendering.
 
 ### 15. **Exporting to PDF or Other Formats:**
-    - **Issue:** Difficulty exporting notes to PDF or other formats.
-    - **Solution:** Use Pandoc or other Markdown converters for export. Check formatting and styling options during the export process.
+- **Issue:** Difficulty exporting notes to PDF or other formats.
+- **Solution:** Use Pandoc or other Markdown converters for export. Check formatting and styling options during the export process.
 
 For persistent issues, it's recommended to visit the Obsidian community forums or GitHub repository for the latest information and assistance. Always back up your data before making significant changes or troubleshooting steps.
 
