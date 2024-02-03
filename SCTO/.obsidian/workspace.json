@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8121520875a433e",
+        "id": "2da49ba4f4864e3b",
         "type": "tabs",
         "children": [
           {
-            "id": "2422af531cb652eb",
+            "id": "f4eb45722f6f6850",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Zotero/Zotero.md",
-                "mode": "source",
-                "source": true
+                "file": "Kanban/👓 Kanban.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zotero/Zotero.md",
+                "file": "Kanban/👓 Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zotero/Zotero.md",
+                "file": "Kanban/👓 Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zotero/Zotero.md"
+                "file": "Kanban/👓 Kanban.md"
               }
             }
           },
@@ -165,11 +163,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2422af531cb652eb",
+  "active": "f4eb45722f6f6850",
   "lastOpenFiles": [
+    "Mind Map/IoT blockchain.md",
+    "Kanban/👓 Kanban.md",
+    "Exercise 1/Session 2.md",
+    "Exercise 1/Session 1.md",
+    "Exercise 1/0 Start.md",
+    "Exercise 1/1 combine.md",
+    "Zotero/Zotero.md",
     "📚 Reading List.md",
     "💡 SCTO System explained.md",
-    "Zotero/Zotero.md",
     "Introduction SLR and AI.md",
     "Readme.md",
     "Dataview/👓 List of Papers.md",
@@ -182,7 +186,6 @@
     "Canvas/Start here.canvas",
     "Canvas/Reference Manager.canvas",
     "Canvas",
-    "Kanban/👓 Kanban.md",
     "Another note.md",
     "Kanban",
     "Zotero",
@@ -199,11 +202,6 @@
     "Dataview",
     "1️⃣ Primary Sources/Shabanov 2022b.md",
     "1️⃣ Primary Sources/Shabanov 2022a.md",
-    "1️⃣ Primary Sources/Pianka 1966.md",
-    "4️⃣ Outlines/What defines Biodiversity.md",
-    "2️⃣ Collections/Diversity.md",
-    "📆 Activity/1 Feb 2024.md",
-    "__Templates/Source Note.md",
     "__Papers/Waleed 2023.pdf",
     "__Papers/Shahizan 2020.pdf",
     "__Papers/Dhekre 2023.pdf",
