@@ -79,8 +79,8 @@ With a vault of interconnected ideas from everything you’ve learned, writing d
 | 8  | [Exporting and Publishing](./materials/8topic.md)                     | - [Converting markdown to various formats (PDF, Word, etc.)](./materials/8topic.md#converting-markdown-to-various-formats-in-obsidianmd) <br> - [Publishing to platforms like GitHub or academic journals](./materials/8topic.md#publishing-markdown-content-on-github-and-academic-journals) |
 | 9  | [Customizing Obsidian for Academic Writing](./materials/9topic.md)    | - Creating custom templates for different types of academic documents <br> - Leveraging plugins for enhanced functionality |
 | 10 | [Tips for Productivity and Time Management](./materials/10topic.md)    | - Implementing effective writing routines <br> - Utilizing Obsidian features for productivity |
-| 11 | [Troubleshooting and FAQs](./materials/11topic.md)                     | - Common issues and solutions <br> - Frequently asked questions related to academic writing in Obsidian.md |
-| 12 | [Case Studies and Examples](./materials/12topic.md)                    | - Real-world examples of academic projects managed with Obsidian.md <br> - Success stories and best practices from other academics |
+| 11 | [Troubleshooting and FAQs](./materials/11topic.md)                     | - [Common issues and solutions](./materials/11topic.md#common-issues-and-solutions-in-obsidianmd) <br> - [Frequently asked questions related to academic writing in Obsidian.md](./materials/11topic.md#frequently-asked-questions-academic-writing-in-obsidianmd) |
+| 12 | [Case Studies and Examples](./materials/12topic.md)                    | - [Examples of academic projects managed with Obsidian.md](./materials/12topic.md#examples-of-academic-projects-computer-science-managed-with-obsidianmd) <br> - [Success stories and best practices from other academics](./materials/12topic.md#best-practices-and-success-stories) |
 
 ## Obsidian alternatives
 
