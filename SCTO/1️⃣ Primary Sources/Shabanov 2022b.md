@@ -2,12 +2,12 @@
 DOI: 10.1038/s41467-020-14300-5
 Date: 10 Dec 2022
 Rating: 4/5
-Title: A prlimenary analysis of tools for note taking
+Title: A prelimenary analysis of tools for note taking
 ShortSummary: Microsoft Word is not connected, while Notion and Evernote have accessibility issues. 
 ---
 
 *Shabanov et al*
-# A prlimenary analysis of tools for note taking
+# A prelimenary analysis of tools for note taking
 
 
 > [!tldr] Summary

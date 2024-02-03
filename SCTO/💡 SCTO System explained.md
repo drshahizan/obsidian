@@ -206,13 +206,3 @@ The system I present here has been honed over countless hours of experimenting, 
 4. Once reading your primary sources slows down to give you new insight, move on to reviewing your thinking notes, pruning what questions are already answered or ideas invalidated. 
 5. Start writing ontologies, summaries and answers to your own questions as you go. 
 6. Aim at making ontologies publishable and readable - something you can send to your colleague who doesn't know about your topic yet. These ontologies will be the basis of your next publication. 
-
-Download an example vault here.
-
-## I want to use this system!
-
-I am glad you made it this far! If you like the idea. I created a small vault that you can download and start experimenting with. Simply download it here and open the folder with Obsidian. 
-
-If you like the content subscribe to the [newsletter](https://ilyashabanov.substack.com/), follow me on [Twitter](https://twitter.com/Artifexx). And if you really like it, then please share the link to this article on your social media.
-
-And hey there is so much more to it. I have created a system of hot keys, programmed different scripts that make importing and exporting easier. I also use bunch of other tools that play well with Obsidian and can eliminate a lot of the tedium of organisation.  Stay tuned. 

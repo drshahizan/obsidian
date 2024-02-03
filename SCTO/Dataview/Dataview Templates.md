@@ -5,7 +5,7 @@
 
 # 1. Creating Citations from your ontologies
 
-Template for pulling all citations from the "1️⃣ Primary Sources" folder that I reference in this note. For example if I linke [[Connell 1964]] it will show up in the table below. 
+Template for pulling all citations from the "1️⃣ Primary Sources" folder that I reference in this note. For example if I like [[Connell 1964]] it will show up in the table below. 
 
 ```dataview
 TABLE DOI FROM outgoing([[]]) AND "1️⃣ Primary Sources"
@@ -18,8 +18,5 @@ TABLE WITHOUT ID DOI FROM outgoing([[]]) AND "1️⃣ Primary Sources"
 This allows you to copy paste a list of referenced DOIs. 
 
 Paste your DOI list to [Bibtex](https://www.bibtex.com/c/doi-to-bibtex-converter/)  to generate a list of citations in the correct format. 
-
-Here is a tweet that has all the details: 
-<iframe src="https://twitter.com/Artifexx/status/1603976132306796544" height="800" width="100%"/>
 
 

@@ -6,7 +6,6 @@ Title: A novel system for academic note taking
 ShortSummary: Presents a system for note taking consisting of 4 parts. Sources, Compendiums, Thoughts and Ontologies. Network approach to thought structures.
 ---
 
-#reviewpaper 
 
 *I. Shabanov*
 # A novel system for academic note taking

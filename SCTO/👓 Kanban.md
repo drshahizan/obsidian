@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] ![[Connell 1964.pdf]]
-- [ ] abc
+- [x] ![[Connell 1964.pdf]] ✅ 2024-02-03
+- [x] abc ✅ 2024-02-03
 
 
 ## Finish

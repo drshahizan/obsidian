@@ -18,9 +18,7 @@ AI can help researchers conduct SLRs more efficiently and accurately, by reducin
 
 Therefore, AI should be used with caution and care in SLRs, and it should be complemented by human expertise and judgment, to ensure the validity, reliability, and credibility of the SLRs³ .
 
-I hope this description helps you understand what SLRs and AI are, and how they can be used together. Do you have any other requests? 😊
-
-Source: Conversation with Bing, 02/02/2024
+## Source:
 (1) Artificial intelligence to automate the systematic review of scientific .... https://link.springer.com/article/10.1007/s00607-023-01181-x.
 (2) Addressing the Challenges of Artificial Intelligence used for Data .... https://www.parexel.com/application/files/resources/assets/Addressing%20the%20Challenges%20of%20AI%20used%20for%20Data%20Extraction%20in%20Systematic%20Literature%20Reviews%20White%20Paper_F.pdf.
 (3) AI-enhanced Systematic Literature Reviews Tools: A Survey. https://angelosalatino.github.io/ai-slr/.

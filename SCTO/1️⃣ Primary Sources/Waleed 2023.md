@@ -3,52 +3,36 @@ DOI: 10.3390/su15108144
 Date: 17 May 2023
 Rating: 4/5
 Title: "Integrating Communication and Task–Technology Fit Theories: The Adoption of Digital Media in Learning"
-ShortSummary: In order to eliminate discrepancies between the literature on the use of digital media for education and its effects on students’ academic achievement in higher education institutions, this article aims to develop a model that would identify essential aspects...
-tags:
-  - reviewpaper
+ShortSummary: The academic article on the web page presents a model that integrates communication and task–technology fit theories to examine the effects of digital media use on students’ satisfaction and academic performance in higher education. The study, conducted with 1330 students at Universiti Kebangsaan Malaysia, finds that both technological, task, and social characteristics, and online communication, motives for communicating, communication self-efficacy, and attitude toward use, have significant associations with students’ satisfaction and academic performance. The article concludes that task–technology fit and communication theory for using digital media enhance students’ active learning and enable effective exchange of knowledge, information, and discussions, suggesting that students and educators should leverage digital media platforms to further their educational goals.
+
 ---
+#technology_characteristic #online_communication #communication_self-efficacy #students_satisfaction #academic_performance
 
 *Waled et al 2023*
-# A prelimenary analysis of tools for note taking
+# Integrating Communication and Task–Technology Fit Theories: The Adoption of Digital Media in Learning
 
 
 > [!tldr] Summary
-> The study concludes that TTF and CT concepts for using digital media enhance students’ active learning and give them the ability to effectively exchange knowledge, data, and discussions. In order to further their educational objectives, we advise students to make use of digital media platforms. Additionally, educators in higher education institutions need to be convinced to use digital media platforms in their lessons.
+> - The web page is an **academic article** about the **adoption of digital media in learning**, based on the **integration of communication and task–technology fit theories**.
+> - The article aims to **develop a model** that identifies the **key factors** that influence the **use of digital media for educational purposes** and their effects on **students' satisfaction and academic performance** in higher education institutions.
+> - The article uses a **questionnaire survey** to collect data from **1330 students** at **Universiti Kebangsaan Malaysia**, and applies **quantitative structural equation modeling** to analyze the findings.
+> - The article finds that **technological, task, and social characteristics** have a significant association with **task–technology fit** for using digital media sites for academic purposes, which positively impacts **satisfaction and academic performance**. Similarly, **online communication, motives for communicating, communication self-efficacy, and attitude toward use** have a significant relationship with **communication theory** for using digital media sites for academic purposes, which also positively impacts **satisfaction and academic performance**.
+> - The article concludes that **task–technology fit and communication theory** for using digital media enhance students' **active learning** and provide them the ability to **effectively exchange knowledge, information, and discussions**. The article also provides some **recommendations** for students and educators to use digital media platforms for their educational goals.
 
 
 ## Aim of paper
-To analyse shortcoming of MS Word, Notion and Evernote. 
+- Develop a model that integrates communication and task–technology fit theories to examine how digital media use for learning affects students' satisfaction and academic performance in higher education.
+- Investigate the effects of technology, task, and social characteristics on task–technology fit for using digital media sites for educational purposes.
+- Examine the effects of online communication, motives to communicate, communication self-efficacy, and attitude toward use on communication theory for using digital media sites for educational purposes.
+- Test the relationships between task–technology fit, communication theory, students' satisfaction, and academic performance.
 
-**MS Word**:
-- ⛔️ Slow and "overloaded" for note taking
-- ⛔️ Notes reside in files that are not easy to search collectively
-- ⛔️ Files cannot be easily linked together. 
-- ⛔️ Embedding of one file in another or PDFs inside word documents is not possible. 
-- ✅ Easily accessible for most academics 
-- ✅ Familiar and shareable to most
-- ✅ Own the data. It is on your PC. 
-
-**Evernote, Notion:** 
-- ⛔️ Data is stored on corporate servers
-- ⛔️ Dependence on being online, which leads to slow down offline. 
-- ⛔️ Cost money for certain features (like storing bigger files or syncing multiple devices)
-- ⛔️ Usually a single vault or collection of notes.
-- ⛔️ Not easy to export all content should one decide to migrate away from these tools
-- ✅ Notes can be connected and files embedded
-- ✅ Easy to edit notes
+### Key insights
+- The web page is an **academic article** that explores the **adoption of digital media in learning** based on the **integration of communication and task–technology fit theories**.
+- The article aims to **develop a model** that identifies the **essential aspects** that influence the **use of digital media for education** and its effects on **students’ satisfaction and academic performance** in higher education institutions.
+- The article collects data from **1330 students** at **Universiti Kebangsaan Malaysia** who use digital media for learning, and analyzes the data using **quantitative structural equation modeling**.
+- The article finds that **technological, task, and social characteristics** have a **significant association** with **task–technology fit** for using digital media for academic purposes, which has a **positive impact** on **satisfaction and academic achievement**.
+- The article also finds that **online communication, motives for communicating, communication self-efficacy, and attitude toward use** have a **significant relationship** with **communication theory** for using digital media for academic purposes, which also has a **positive impact** on **satisfaction and academic performance**.
+- The article concludes that **task–technology fit and communication theory** for using digital media enhance students’ **active learning** and enable them to **effectively exchange knowledge, information, and discussions**. The article also suggests that students and educators should use digital media platforms to further their educational goals.
 
 
-**Conclusion**
-
-While Notion and Evernote are great tools (as commercial tools should be). They have short comings. However it should be a personal choice which tool to use. 
-
-Obsidian has a huge comunity and tends to be "hackable" which enables a lot of cool features that will not be available by other tools. Like creating scripts that operate directly on the data files. 
-
-> I have created a variety of custom scripts that enable to import and export files and PDFs that we will cover on the [blog](https://ilyashabanov.substack.com/) shortly. 
-
-
-## Related
-
-How to migrate from Word & Google Docs to the SCTO system [Tweet](https://twitter.com/Artifexx/status/1606455378149273600). 
-
-A bref summary of what you miss out on: [Tweet](https://twitter.com/Artifexx/status/1605931421192830976)
+![[Waleed 2023.pdf]]

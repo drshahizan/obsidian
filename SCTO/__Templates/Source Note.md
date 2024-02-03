@@ -1,10 +1,8 @@
 ---
-DOI:
-  DOI: 
-Date:
-  DATE: 
+DOI: "{DOI}" 
+Date: "{DATE}"
 Rating: 0/5
-Tajuk: "{TITLE}"
+Title: "{TITLE}"
 ShortSummary: "{SUMMARY}"
 ---
 {TAGS}
