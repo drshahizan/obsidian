@@ -7,6 +7,13 @@
 
 # Case Studies and Examples
 
+## success stories and best practices from computer science researchers
+Obsidian.md is a popular tool among computer science researchers, as it allows them to create and link notes on various topics, concepts, and projects. Here are some success stories and best practices from computer science researchers who use Obsidian.md:
+
+- [Christian B. B. Houmann](https://bagerbach.com/blog/projects-and-goals-obsidian) is a PhD student in computer science who uses Obsidian.md to manage his research workflow. He has created a system that integrates Obsidian with Zotero, Pandoc, and LaTeX to write and publish academic papers. He also uses Obsidian to keep track of his goals, tasks, and progress. He has shared his entire Obsidian vault and his system on his website.
+- [Nicholas Seitz](https://www.nickseitz.com/writing/obsidian-day-one-starterpack) is a computer science student who uses Obsidian.md to organize his notes and learn new concepts. He has written a blog post on how he set up Obsidian for his CS studies, and what plugins and themes he uses. He also shares some tips and tricks on how to use Obsidian effectively, such as using aliases, templates, and queries.
+- [Alexandra Phelan](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd) is a computer science lecturer who uses Obsidian.md to teach her courses and conduct her research. She has written a blog post on how she uses Obsidian with Zotero to manage her references, citations, and bibliographies. She also shows how she uses Obsidian to create course outlines, lecture slides, and assignments.
+
 ## Examples of academic projects Computer Science managed with Obsidian.md
 
 Hypothetical scenarios to illustrate how Obsidian might be used in the context of academic projects in Computer Science:
