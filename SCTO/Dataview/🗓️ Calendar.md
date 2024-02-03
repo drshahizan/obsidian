@@ -13,7 +13,7 @@ This is a list of all calendar entries that we have. It is quite useful to keep 
 
 
 ```dataview
-Table without id file.link as Date, Summary from "📆 Calendar"
+Table without id file.link as Date, Summary from "📆 Activity"
 ```
 
 ----
@@ -23,7 +23,7 @@ Table without id file.link as Date, Summary from "📆 Calendar"
 I can add todos into my daily tasks and show them here in one list. 
 
 ```dataview
-TASK from "📆 Calendar" where !completed group by file.link
+TASK from "📆 Activity" 
 ```
 
 ----

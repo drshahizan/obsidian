@@ -2,9 +2,10 @@
 
 **Zettelkasten** is a method of **note-taking** and **knowledge management** developed by the German sociologist *Niklas Luhmann*. The term "Zettelkasten" translates to "slip box" in German, representing a collection of notes linked by references, keywords, and categories. This method aims to foster the generation of new ideas and insights by creating a network of interconnected notes for easy retrieval and combination.
 
+![[Zettelkasten steps.png]]
+
 ## Implementation Steps
 
-![[Zettelkasten steps.png]]
 1. **Read and Collect Sources:** Utilize a reference manager like *Zotero* to store and organize research papers, articles, and sources. Add annotations and highlights for future reference.
 
 2. **Create Literature Notes:** Develop brief summaries of the main points and arguments from sources in your own words. Use note-taking apps such as *Obsidian*, *Roam Research*, or *Scrintal* to link literature notes to Zotero. Incorporate tags and categories for effective grouping.
