@@ -69,7 +69,7 @@ With a vault of interconnected ideas from everything you’ve learned, writing d
 
 | No | Topic                                       | Subtopic                                                  |
 |----|---------------------------------------------|-----------------------------------------------------------|
-| 1  | [Introduction to Academic Writing in Obsidian.md](./materials/1topic.md) | - Overview of Obsidian.md for academic purposes <br> - Benefits of using a markdown-based system for academic writing |
+| 1  | [Introduction to Academic Writing in Obsidian.md](./materials/1topic.md) | - [Overview of Obsidian.md for academic purposes](./materials/1topic.md#overview-of-obsidianmd-for-academic-purposes) <br> - [Benefits of using a markdown-based system for academic writing](./materials/1topic.md#benefits-of-using-a-markdown-based-system-for-academic-writing) |
 | 2  | [Setting Up Your Academic Workspace](./materials/2topic.md)           | - [Installation and configuration of Obsidian.md](./materials/2topic.md#installation-and-configuration-of-obsidianmd) <br> - [Choosing and customizing themes for readability](./materials/2topic.md#choosing-and-customizing-themes-for-readability-in-obsidianmd) |
 | 3  | [Organizing Your Research](./materials/3topic.md)                    | - [Creating and managing folders and files](./materials/3topic.md#creating-and-managing-folders-and-files-in-obsidianmd) <br> - [Tagging and categorizing notes effectively](./materials/3topic.md#tagging-and-categorizing-notes-effectively-in-obsidianmd) |
 | 4  | [Note-Taking Strategies](./materials/4topic.md)                      | - Efficient ways to take and organize notes <br> - Utilizing features like backlinks and tags |
