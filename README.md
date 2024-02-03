@@ -69,7 +69,7 @@ With a vault of interconnected ideas from everything you’ve learned, writing d
 
 | No | Topic                                       | Subtopic                                                  |
 |----|---------------------------------------------|-----------------------------------------------------------|
-| 1  | Introduction to Academic Writing in Obsidian.md | - Overview of Obsidian.md for academic purposes <br> - Benefits of using a markdown-based system for academic writing |
+| 1  | [Introduction to Academic Writing in Obsidian.md](.materials\1topic.md) | - Overview of Obsidian.md for academic purposes <br> - Benefits of using a markdown-based system for academic writing |
 | 2  | Setting Up Your Academic Workspace           | - Installation and configuration of Obsidian.md <br> - Choosing and customizing themes for readability |
 | 3  | Organizing Your Research                    | - Creating and managing folders and files <br> - Tagging and categorizing notes effectively |
 | 4  | Note-Taking Strategies                      | - Efficient ways to take and organize notes <br> - Utilizing features like backlinks and tags |
