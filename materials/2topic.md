@@ -61,7 +61,7 @@ Obsidian.md is a powerful note-taking and knowledge management tool that can sig
    - Participate in the Obsidian community forums or Discord channels to learn from other users, share tips, and stay updated on new features.
 
 By following these steps, you'll have successfully installed and configured Obsidian.md for your academic writing needs. Experiment with the various features and customize the settings to create a personalized and efficient writing environment.
-```
+
 
 ## Choosing and Customizing Themes for Readability in Obsidian.md
 
