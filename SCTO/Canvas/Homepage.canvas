@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"group","id":"cade6ee6148c178e","x":-580,"y":200,"width":1860,"height":480,"color":"1","label":"Complete"},
+		{"type":"group","id":"b30be6e98a2c3b27","x":-580,"y":-840,"width":1860,"height":460,"color":"4","label":"Active"},
+		{"type":"group","id":"a90268ca609b2f9a","x":-580,"y":-320,"width":1860,"height":460,"color":"2","label":"Ideas"},
+		{"type":"file","file":"Queries/Homepage Queries.md","subpath":"#Article Ideas","id":"b1c0d4edb2201473","x":-560,"y":-280,"width":568,"height":400},
+		{"type":"file","file":"Queries/Homepage Queries.md","subpath":"#Video Ideas","id":"b353d9ddb1a39a84","x":65,"y":-280,"width":568,"height":400},
+		{"type":"file","file":"Queries/Homepage Queries.md","subpath":"#Research Ideas","id":"ea5dbd8a308536d9","x":692,"y":-280,"width":568,"height":400},
+		{"type":"file","file":"Queries/Homepage Queries.md","subpath":"#Complete","id":"5fa30b9c47bafcd0","x":1360,"y":-840,"width":568,"height":1520,"color":"5"},
+		{"type":"file","file":"Queries/Homepage Queries.md","subpath":"#Research","id":"a3e16e12043c7d29","x":692,"y":260,"width":568,"height":400},
+		{"type":"file","file":"Queries/Homepage Queries.md","subpath":"#Video","id":"4f846881ca5efbf0","x":65,"y":260,"width":568,"height":400},
+		{"type":"file","file":"Queries/Homepage Queries.md","subpath":"#Articles","id":"9503139f32dee970","x":-560,"y":260,"width":568,"height":400},
+		{"type":"file","file":"Queries/Homepage Queries.md","subpath":"#Article Projects","id":"b9008efbd7fc8258","x":-560,"y":-800,"width":568,"height":400},
+		{"type":"file","file":"Queries/Homepage Queries.md","subpath":"#Video Projects","id":"f7a32015a8f61974","x":65,"y":-800,"width":568,"height":400},
+		{"type":"file","file":"Queries/Homepage Queries.md","subpath":"#Research Projects","id":"a0ad8db485ebbe78","x":692,"y":-800,"width":568,"height":400}
+	],
+	"edges":[]
+}

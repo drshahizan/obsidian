@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"46675c3912031f84","type":"group","x":-1287,"y":-739,"width":1375,"height":1478,"label":"Riddles"},
+		{"id":"adf7f60206d33058","type":"group","x":-674,"y":-250,"width":296,"height":518,"label":"answers"},
+		{"id":"d6b4c992c8905ad8","type":"group","x":-222,"y":-255,"width":290,"height":522,"label":"questions"},
+		{"id":"70cc5ea581a65806","type":"text","text":"What goes up but never comes down?","x":-202,"y":-235,"width":250,"height":60,"color":"3"},
+		{"id":"fd68a8b07e20b805","type":"text","text":"## Beaver Logic\n1. Collect logs\n2. ???\n3. Profit","x":-654,"y":1,"width":256,"height":93},
+		{"id":"d18d33e694ae9fde","type":"text","text":"Towel!","x":-654,"y":188,"width":250,"height":60},
+		{"id":"023ab6159e611cc0","type":"text","text":"Age","x":-654,"y":-230,"width":250,"height":60},
+		{"id":"b70c01ab693c0ce2","type":"text","text":"# Test Project 2","x":503,"y":-145,"width":238,"height":83},
+		{"id":"2641d359ccaa88ba","type":"text","text":"how much wood would a woodchuck chuck if a wood chuck could chuck wood?","x":-201,"y":-36,"width":249,"height":130,"color":"3"},
+		{"id":"e04b61209c32f595","type":"text","text":"What gets wet while drying?","x":-202,"y":187,"width":250,"height":60,"color":"3"},
+		{"id":"8d95026cf2f3c010","type":"link","url":"https://media.giphy.com/media/rN3DPrls6FQgT4dH5i/giphy.gif","x":-1267,"y":-170,"width":400,"height":400},
+		{"id":"11e539520767af32","type":"link","url":"https://media.giphy.com/media/l0HlGEICWt0wCRAxW/giphy.gif","x":-1267,"y":319,"width":400,"height":400},
+		{"id":"88106d3f8a04acfa","type":"link","url":"https://media.giphy.com/media/8JrcyXvpOaFbFIatkm/giphy.gif","x":-1267,"y":-659,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"8a8fd00b85d67280","fromNode":"70cc5ea581a65806","fromSide":"left","toNode":"023ab6159e611cc0","toSide":"right"},
+		{"id":"ec0cbb4169e3411f","fromNode":"b70c01ab693c0ce2","fromSide":"left","toNode":"70cc5ea581a65806","toSide":"right"},
+		{"id":"b90a5934a36cd03e","fromNode":"fd68a8b07e20b805","fromSide":"left","toNode":"8d95026cf2f3c010","toSide":"right"},
+		{"id":"136b68df7ab6b0d3","fromNode":"2641d359ccaa88ba","fromSide":"left","toNode":"fd68a8b07e20b805","toSide":"right"},
+		{"id":"d166d8ae25bd7994","fromNode":"d18d33e694ae9fde","fromSide":"left","toNode":"11e539520767af32","toSide":"right"},
+		{"id":"0fd1eeeb2cb82b04","fromNode":"e04b61209c32f595","fromSide":"left","toNode":"d18d33e694ae9fde","toSide":"right"},
+		{"id":"ac55def93f7260d9","fromNode":"023ab6159e611cc0","fromSide":"left","toNode":"88106d3f8a04acfa","toSide":"right"},
+		{"id":"5035a0e09b8e8f21","fromNode":"b70c01ab693c0ce2","fromSide":"left","toNode":"2641d359ccaa88ba","toSide":"right"},
+		{"id":"e7de3d384a984684","fromNode":"b70c01ab693c0ce2","fromSide":"left","toNode":"e04b61209c32f595","toSide":"right"}
+	]
+}

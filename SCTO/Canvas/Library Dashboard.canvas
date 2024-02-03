@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"group","id":"42f59da11769dca1","x":-2400,"y":-1280,"width":2480,"height":1560,"color":"1","label":"To Read"},
+		{"type":"group","id":"fcaf5756ca97b3a8","x":2280,"y":-1280,"width":2160,"height":1560,"color":"4","label":"Read"},
+		{"type":"group","id":"463e5ab8555582f4","x":489,"y":-1280,"width":786,"height":1560,"color":"3","label":"Queued"},
+		{"type":"group","id":"28b2719ded5ad787","x":1334,"y":-1280,"width":786,"height":1560,"color":"2","label":"Reading"},
+		{"type":"group","id":"f8d7bc4b10550ee6","x":240,"y":-440,"width":1880,"height":621,"color":"5","label":"Low"},
+		{"type":"group","id":"c3e104c1cf562264","x":240,"y":-1149,"width":1880,"height":600,"color":"5","label":"High"},
+		{"type":"file","file":"Source/Atomic Habits.md","id":"f92e13b814ef3878","x":640,"y":-1080,"width":400,"height":400},
+		{"type":"file","file":"Source/Building a Second Brain.md","id":"af0ed19172f9656e","x":1520,"y":-320,"width":400,"height":400},
+		{"type":"file","file":"Source/Playing with Fire.md","id":"6af848fd5c5af967","x":-1480,"y":-1200,"width":400,"height":400},
+		{"type":"file","file":"Queries/Library Queries.md","subpath":"#To Add","id":"8adccfb02a0baa2a","x":960,"y":-2000,"width":680,"height":400,"color":"6"},
+		{"type":"file","file":"Source/Storm Tide and Wave Simulations and Assessment.md","id":"96957a2c52a602fa","x":-640,"y":-1000,"width":400,"height":400},
+		{"type":"file","file":"Source/Conscious Coaching.md","id":"63ce01cf8eedcba8","x":2360,"y":-680,"width":400,"height":400},
+		{"type":"file","file":"Source/Harry Potter and the Cursed Child.md","id":"85814ca9051ccc5d","x":3200,"y":-880,"width":400,"height":400}
+	],
+	"edges":[]
+}

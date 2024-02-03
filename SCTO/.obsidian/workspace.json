@@ -48,11 +48,14 @@
             "id": "e399f97bd7a1a7f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Readme canvas.md",
-                "mode": "source",
-                "source": true
+                "file": "Canvas/Book Dashboard.canvas",
+                "viewState": {
+                  "x": 1900,
+                  "y": 80,
+                  "zoom": -2.068972142079119
+                }
               }
             }
           }
@@ -131,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme canvas.md",
+                "file": "Canvas/Book Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme canvas.md",
+                "file": "Canvas/Book Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme canvas.md"
+                "file": "Canvas/Book Dashboard.canvas"
               }
             }
           },
@@ -205,6 +208,17 @@
   },
   "active": "e399f97bd7a1a7f3",
   "lastOpenFiles": [
+    "Canvas/Brainstorm.canvas",
+    "Canvas/Homepage.canvas",
+    "Canvas/Library Dashboard.canvas",
+    "Canvas/Media Dashboard.canvas",
+    "Canvas/Reference Manager.canvas",
+    "Canvas/Sample.canvas",
+    "Canvas/Research Mindmap.canvas",
+    "Canvas/Start here.canvas",
+    "Canvas/Book Dashboard.canvas",
+    "Canvas/Readme canvas.md",
+    "Introduction SLR and AI.md",
     "__Templates/Zettelkasten.md",
     "__Templates/Test.md",
     "__Templates/Survey.md",
@@ -215,8 +229,6 @@
     "__Templates/Daily Notes.md",
     "__Templates/Blog Post.md",
     "__Templates/Bibliography.md",
-    "Canvas/Reference Manager.canvas",
-    "Readme canvas.md",
     "Dataview/Dataview 1.md",
     "Dataview/Dataview Templates.md",
     "Excalidraw/0 Start.md",
@@ -230,10 +242,7 @@
     "📚 Reading List.md",
     "Mind Map/IoT blockchain.md",
     "Exercise 1/Session 2.md",
-    "Exercise 1/Session 1.md",
-    "Exercise 1/0 Start.md",
     "__Media/Zettelkasten steps.png",
-    "Canvas/Start here.canvas",
     "Canvas",
     "Kanban",
     "Zotero",
@@ -253,7 +262,6 @@
     "__Media/Pasted image 20221214124807.png",
     "__Media/Pasted image 20221214123958.png",
     "__Media/Pasted image 20221214122340.png",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]

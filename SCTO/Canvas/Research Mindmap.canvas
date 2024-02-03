@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"group","id":"f5718682b916e008","x":-609,"y":-640,"width":1289,"height":1040,"label":"Behaviour"},
+		{"type":"group","id":"4400780291bdb073","x":-1160,"y":-1920,"width":1160,"height":920,"label":"Psychology"},
+		{"type":"group","id":"9871628deeb596d1","x":100,"y":-1920,"width":1160,"height":920,"label":"Philosophy"},
+		{"type":"file","file":"Projects/Enactivism.md","id":"f3181aa4980e66e1","x":200,"y":-1840,"width":400,"height":400},
+		{"type":"file","file":"Projects/Extend Cognition.md","id":"9eef05ff36b25e18","x":765,"y":-1840,"width":400,"height":400},
+		{"type":"file","file":"Projects/Ecological Dynamics.md","id":"9ebb188255c65b6e","x":-200,"y":-520,"width":400,"height":400},
+		{"type":"file","file":"Projects/Gestalt.md","id":"b3fb901b4e457987","x":-1000,"y":-1840,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"faab2b3c9820b139","fromNode":"9ebb188255c65b6e","fromSide":"left","toNode":"4400780291bdb073","toSide":"bottom"},
+		{"id":"80bfaee7828923c8","fromNode":"9ebb188255c65b6e","fromSide":"right","toNode":"9871628deeb596d1","toSide":"bottom"},
+		{"id":"25bc50e9b6c5829c","fromNode":"b3fb901b4e457987","fromSide":"right","toNode":"f3181aa4980e66e1","toSide":"left"},
+		{"id":"fe6c0bdbd6ce866d","fromNode":"b3fb901b4e457987","fromSide":"bottom","toNode":"f5718682b916e008","toSide":"left"}
+	]
+}

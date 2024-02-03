@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"type":"group","id":"57669c4393272751","x":-320,"y":-440,"width":4440,"height":520,"color":"4","label":"High"},
+		{"type":"group","id":"43e49172d4467782","x":-320,"y":200,"width":4440,"height":520,"color":"2","label":"Medium"},
+		{"type":"group","id":"80ad5bd853e99164","x":-320,"y":840,"width":4440,"height":520,"color":"1","label":"Low"},
+		{"type":"group","id":"9caf23b5baa709cd","x":-80,"y":-600,"width":960,"height":2040,"color":"6","label":"1st Draft"},
+		{"type":"group","id":"8b77881d44fec483","x":960,"y":-600,"width":960,"height":2040,"color":"6","label":"Research"},
+		{"type":"group","id":"dfac8b5ef3563595","x":3040,"y":-600,"width":960,"height":2040,"color":"6","label":"2nd Draft"},
+		{"type":"group","id":"470053d9d9516599","x":2000,"y":-600,"width":960,"height":2040,"color":"6","label":"1st Edit"},
+		{"type":"group","id":"c5fd6698a1ba8aec","x":400,"y":-1280,"width":1480,"height":500,"color":"5","label":"Overview"},
+		{"type":"file","file":"Queries/Chapter Queries.md","subpath":"#To Add","id":"3dd418d2202370ed","x":2000,"y":-1280,"width":720,"height":480},
+		{"type":"file","file":"Queries/Chapter Queries.md","subpath":"#Working on","id":"7f3d9a3bee1d404c","x":2760,"y":-1280,"width":940,"height":480},
+		{"type":"file","file":"Projects/Book Project/Discussion.md","id":"054e15e7a1de5b9a","x":240,"y":240,"width":400,"height":400},
+		{"type":"file","file":"Projects/Book Project/Conclusion.md","id":"1b7ceaa34e4a1b5a","x":-40,"y":880,"width":400,"height":400},
+		{"type":"file","file":"Projects/Book Project/Literature Review.md","id":"e66d335c96b81f73","x":2100,"y":240,"width":400,"height":400},
+		{"type":"file","file":"Projects/Book Project/Abstract.md","id":"6d6d0f06fc54fea1","x":1040,"y":-400,"width":400,"height":400},
+		{"type":"file","file":"Projects/Book Project/Main Body.md","id":"140a1df7ad3c22ba","x":940,"y":-1200,"width":400,"height":400},
+		{"type":"file","file":"Projects/Book Project/Take aways.md","id":"f9be18cfeff01936","x":1460,"y":-1200,"width":400,"height":400},
+		{"type":"file","file":"Projects/Book Project/Introduction.md","id":"461ed933f8d98850","x":420,"y":-1200,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"af086c29e1ffe347","fromNode":"054e15e7a1de5b9a","fromSide":"bottom","toNode":"1b7ceaa34e4a1b5a","toSide":"top"},
+		{"id":"564b694683c4188f","fromNode":"6d6d0f06fc54fea1","fromSide":"bottom","toNode":"e66d335c96b81f73","toSide":"top"},
+		{"id":"72e817620e626b30","fromNode":"e66d335c96b81f73","fromSide":"bottom","toNode":"054e15e7a1de5b9a","toSide":"right"}
+	]
+}

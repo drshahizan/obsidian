@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"group","id":"42f59da11769dca1","x":-2400,"y":-1280,"width":2480,"height":1560,"color":"1","label":"To Read"},
+		{"type":"group","id":"fcaf5756ca97b3a8","x":2280,"y":-1280,"width":2160,"height":1560,"color":"4","label":"Watched"},
+		{"type":"group","id":"463e5ab8555582f4","x":489,"y":-1280,"width":786,"height":1560,"color":"3","label":"Individual"},
+		{"type":"group","id":"28b2719ded5ad787","x":1334,"y":-1280,"width":786,"height":1560,"color":"2","label":"Family"},
+		{"type":"group","id":"f8d7bc4b10550ee6","x":240,"y":-440,"width":1880,"height":621,"color":"5","label":"Low"},
+		{"type":"group","id":"c3e104c1cf562264","x":240,"y":-1149,"width":1880,"height":600,"color":"5","label":"High"},
+		{"type":"file","file":"Source/Frozen II (2019).md","id":"2ff6da6a1665b63c","x":-1120,"y":-1120,"width":400,"height":400},
+		{"type":"file","file":"Queries/Media Queries.md","subpath":"#To Add","id":"8adccfb02a0baa2a","x":960,"y":-2000,"width":680,"height":400,"color":"6"},
+		{"type":"file","file":"Source/iBoy (2017).md","id":"256a724217779293","x":-480,"y":-1120,"width":400,"height":400},
+		{"type":"file","file":"Source/Wanted (2008).md","id":"ff666c8474b981e0","x":1520,"y":-1080,"width":400,"height":400},
+		{"type":"file","file":"Source/Inception (2010).md","id":"462315871c1aa1fa","x":2520,"y":-1080,"width":400,"height":400},
+		{"id":"935b0abb8d60afc4","x":680,"y":-1040,"width":400,"height":400,"type":"file","file":"Source/Frozen (2013).md"}
+	],
+	"edges":[]
+}
