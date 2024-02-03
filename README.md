@@ -76,7 +76,7 @@ With a vault of interconnected ideas from everything you’ve learned, writing d
 | 5  | [Citation Management](./materials/5topic.md)                         | - Integrating reference managers with Obsidian.md <br> - Properly citing sources in markdown |
 | 6  | [Outlining and Structuring Your Writing](./materials/6topic.md)       | - Using headers and lists for structure <br> - Incorporating templates for consistency |
 | 7  | [Collaboration and Version Control](./materials/7topic.md)           | - Collaborative writing in Obsidian.md <br> - Version control using Git and plugins |
-| 8  | [Exporting and Publishing](./materials/8topic.md)                     | - Converting markdown to various formats (PDF, Word, etc.) <br> - Publishing to platforms like GitHub or academic journals |
+| 8  | [Exporting and Publishing](./materials/8topic.md)                     | - [Converting markdown to various formats (PDF, Word, etc.)](./materials/8topic.md#converting-markdown-to-various-formats-in-obsidianmd) <br> - Publishing to platforms like GitHub or academic journals |
 | 9  | [Customizing Obsidian for Academic Writing](./materials/9topic.md)    | - Creating custom templates for different types of academic documents <br> - Leveraging plugins for enhanced functionality |
 | 10 | [Tips for Productivity and Time Management](./materials/10topic.md)    | - Implementing effective writing routines <br> - Utilizing Obsidian features for productivity |
 | 11 | [Troubleshooting and FAQs](./materials/11topic.md)                     | - Common issues and solutions <br> - Frequently asked questions related to academic writing in Obsidian.md |
