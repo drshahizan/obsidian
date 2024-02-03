@@ -7,7 +7,7 @@
 
 # Case Studies and Examples
 
-## success stories and best practices from computer science researchers
+## Success stories and best practices from computer science researchers
 Obsidian.md is a popular tool among computer science researchers, as it allows them to create and link notes on various topics, concepts, and projects. Here are some success stories and best practices from computer science researchers who use Obsidian.md:
 
 - [Christian B. B. Houmann](https://bagerbach.com/blog/projects-and-goals-obsidian) is a PhD student in computer science who uses Obsidian.md to manage his research workflow. He has created a system that integrates Obsidian with Zotero, Pandoc, and LaTeX to write and publish academic papers. He also uses Obsidian to keep track of his goals, tasks, and progress. He has shared his entire Obsidian vault and his system on his website.
