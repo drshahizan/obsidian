@@ -1,4 +1,5 @@
 # Case study 1
+
 In Dataview, the `LIST` command is used to display a list of items based on the filtering or querying criteria specified. It allows you to present a simplified view of your data without the need for a table format.
 
 For example, a Query can look like this:

@@ -13,11 +13,51 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/👓 Kanban.md"
+                "file": "Kanban/Kanban board.md"
+              }
+            }
+          },
+          {
+            "id": "5cf08ce431171d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mind Map/Check box.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9517e1d587320225",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/Reference Manager.canvas",
+                "viewState": {
+                  "x": 89,
+                  "y": 331,
+                  "zoom": -2.2235074761704356
+                }
+              }
+            }
+          },
+          {
+            "id": "e399f97bd7a1a7f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme canvas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/👓 Kanban.md",
+                "file": "Readme canvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kanban/👓 Kanban.md",
+                "file": "Readme canvas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/👓 Kanban.md"
+                "file": "Readme canvas.md"
               }
             }
           },
@@ -163,45 +203,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4eb45722f6f6850",
+  "active": "e399f97bd7a1a7f3",
   "lastOpenFiles": [
+    "Canvas/Reference Manager.canvas",
+    "Readme canvas.md",
+    "Dataview/Dataview 1.md",
+    "Dataview/Dataview Templates.md",
+    "Excalidraw/0 Start.md",
+    "Excalidraw/API gateway.md",
+    "Markdown/Markdown.md",
+    "Zettelkasten/Zettelkasten.md",
+    "Mind Map/Readme Mind map.md",
+    "Mind Map/Check box.md",
+    "Kanban/Readme Kanban Plugin.md",
+    "Kanban/Kanban board.md",
+    "📚 Reading List.md",
     "Mind Map/IoT blockchain.md",
-    "Kanban/👓 Kanban.md",
     "Exercise 1/Session 2.md",
     "Exercise 1/Session 1.md",
     "Exercise 1/0 Start.md",
     "Exercise 1/1 combine.md",
     "Zotero/Zotero.md",
-    "📚 Reading List.md",
     "💡 SCTO System explained.md",
     "Introduction SLR and AI.md",
     "Readme.md",
     "Dataview/👓 List of Papers.md",
-    "Dataview/Dataview 1.md",
-    "Dataview/Dataview Templates.md",
     "Dataview/🗓️ Calendar.md",
     "__Media/Zettelkasten steps.png",
-    "Zettelkasten/Zettelkasten.md",
     "📆 Activity/24 Dec 2022.md",
     "Canvas/Start here.canvas",
-    "Canvas/Reference Manager.canvas",
     "Canvas",
     "Another note.md",
     "Kanban",
     "Zotero",
-    "Markdown/Markdown.md",
     "Markdown",
     "__Media/Pasted Image 20240202102119_150.png",
     "Zettelkasten",
     "Z",
-    "1️⃣ Primary Sources/Connell 1964.md",
-    "3️⃣ Thoughts/Biodiversity Mechanisms.md",
-    "2️⃣ Collections/Concepts/Law of Requisite Variety.md",
-    "1️⃣ Primary Sources/Hayrol 2020.md",
-    "1️⃣ Primary Sources/Dhekre 2023.md",
     "Dataview",
-    "1️⃣ Primary Sources/Shabanov 2022b.md",
-    "1️⃣ Primary Sources/Shabanov 2022a.md",
     "__Papers/Waleed 2023.pdf",
     "__Papers/Shahizan 2020.pdf",
     "__Papers/Dhekre 2023.pdf",

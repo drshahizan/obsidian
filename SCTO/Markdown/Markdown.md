@@ -1,4 +1,5 @@
 ## Markdown 
+
 To use Obsidian to its full extent, you need to know the Markdown language. It's a very simple formatting language. Markdown is a simple and lightweight way to format plain text, using symbols like #, *, and _ to create headings, lists, bold, italic, and more. Obsidian is a note-taking application that uses Markdown as the primary format for notes.
 
 Obsidian supports the basic Markdown syntax, as well as some advanced features like tables, fenced code blocks, syntax highlighting, footnotes, and strikethrough. Obsidian also has its own flavor of Markdown, which adds some extra features like internal links, wikilinks, embeds, aliases, tags, and transclusions.

@@ -1,5 +1,7 @@
 # Zettelkasten workflow for research papers
 
+![](https://forum.obsidian.md/uploads/default/original/3X/a/b/abbe4a5db4319a8a0c9334ab23933d5243bd03d2.jpeg)
+
 **Zettelkasten** is a method of **note-taking** and **knowledge management** developed by the German sociologist *Niklas Luhmann*. The term "Zettelkasten" translates to "slip box" in German, representing a collection of notes linked by references, keywords, and categories. This method aims to foster the generation of new ideas and insights by creating a network of interconnected notes for easy retrieval and combination.
 
 ![[Zettelkasten steps.png]]

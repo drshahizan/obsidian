@@ -1,4 +1,6 @@
 # Obsidian Excalidraw
+
+![](https://1.bp.blogspot.com/-J2sam6OdvQY/YKqQg6CAUII/AAAAAAAAySM/g_jiry6rktoGbo4vVPWn-c9dDmfUfYDlACLcBGAsYHQ/s2048/strategy%2Bto%2Bbusiness%2Bplan.jpg)
 Obsidian Excalidraw is a plugin that allows you to edit and view Excalidraw drawings in Obsidian, a knowledge management system. You can create, edit, and share Excalidraw diagrams with your team or collaborators in a wiki page. Excalidraw is a feature rich sketching tool that lets you draw hand-drawn style diagrams with shapes, arrows, text, and colors. Some of the features of Obsidian Excalidraw are:
 
 - Command Palette actions, File Explorer features, Option Menu commands, and the Ribbon Button to create and open drawings.
