@@ -70,6 +70,94 @@ Collaborative writing in Obsidian.md can be facilitated through various strategi
 
 By implementing these strategies, you can enhance collaborative writing in Obsidian.md, whether working on shared projects, research, or knowledge management. Regular communication and a well-defined collaboration process are key to successful collaboration in a Markdown-based environment.
 
+## Version control using GitHub and plugins
+
+Version control using GitHub in combination with Obsidian.md can be achieved by utilizing Git for tracking changes and GitHub for hosting the repository. Additionally, community-developed plugins for Obsidian can enhance version control features. Here's a step-by-step guide:
+
+### Setting Up Version Control with GitHub:
+
+1. **Create a GitHub Repository:**
+   - Create a new repository on GitHub to host your Obsidian vault.
+   - Initialize the repository with a README file or other initial content.
+
+2. **Clone the Repository:**
+   - Copy the repository URL from GitHub.
+   - Open a terminal or command prompt on your local machine.
+   - Navigate to the directory where you want to clone the repository.
+   - Run the following command:
+     ```bash
+     git clone <repository_url>
+     ```
+
+3. **Initialize Git within Obsidian Vault:**
+   - Open Obsidian and navigate to your newly cloned repository.
+   - Inside the Obsidian vault directory, initialize a Git repository:
+     ```bash
+     git init
+     ```
+
+4. **Stage and Commit Changes:**
+   - Make changes to your notes within Obsidian.
+   - Open the terminal/command prompt in the Obsidian vault directory.
+   - Stage changes using:
+     ```bash
+     git add .
+     ```
+   - Commit changes using:
+     ```bash
+     git commit -m "Your commit message"
+     ```
+
+5. **Push Changes to GitHub:**
+   - Push committed changes to the GitHub repository:
+     ```bash
+     git push origin main
+     ```
+   - Replace `main` with the branch you are working on if it's different.
+
+### Enhancing Version Control with Obsidian Plugins:
+
+6. **Install Git and Obsidian Plugin:**
+   - Inside Obsidian, go to Settings > Community plugins.
+   - Enable the "Git" and "Git Manager" plugins.
+
+7. **Configure Git Settings:**
+   - In the Git plugin settings, configure your Git user information.
+   - Set your name and email to match your GitHub account.
+
+8. **View Git Status and History:**
+   - In the left sidebar, open the "Git" tab to view the status of your Git repository.
+   - Use this tab to see changes, commit history, and manage branches.
+
+9. **Commit Changes within Obsidian:**
+   - Make changes to your notes in Obsidian.
+   - Open the "Git" tab, stage changes, and commit directly from Obsidian.
+
+10. **Pull and Push Changes within Obsidian:**
+    - Use the "Git" tab to pull changes from the remote repository (GitHub) or push your local changes.
+    - This provides a seamless integration of version control within Obsidian.
+
+11. **Resolve Conflicts:**
+    - If conflicts arise during pulls or merges, resolve them using the Git plugin.
+    - Obsidian will display conflict markers, and you can use the Git tab to resolve conflicts.
+
+12. **Branching and Merging:**
+    - Create branches for different features or tasks within the Git plugin.
+    - Merge branches when changes are ready to be incorporated into the main branch.
+
+13. **Obsidian Sync (Optional):**
+    - If using Obsidian Sync, synchronize your vault to keep it up-to-date across devices.
+    - Note that Obsidian Sync is different from Git and serves a different purpose.
+
+14. **Collaboration on GitHub:**
+    - Collaborators can fork the repository, make changes, and submit pull requests on GitHub.
+    - Use GitHub's collaboration features for discussions, code reviews, and collaboration.
+
+15. **Regular Backups:**
+    - Regularly back up your Obsidian vault, including the `.git` folder, to prevent data loss.
+
+By combining GitHub for remote repository hosting with Obsidian and Git plugins, you can effectively implement version control for your Obsidian.md vault, enabling collaboration, history tracking, and seamless synchronization.
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian/issues) for any improvements, suggestions or errors in the content.
 
