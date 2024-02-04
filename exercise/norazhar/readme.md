@@ -17,8 +17,7 @@ My name  **Norazhar Anas**, I'm *43 years old*
 | Hafizah bt Lim  | 900505-12-3456| Female | 32  | 789 Jalan Damai, Johor Bahru      |
 | Amirul bin Raju | 970719-11-2345| Male   | 24  | 321 Jalan Sentosa, Kuching        |
 
-```
-mermaid
+``` mermaid
 ---
 title: Animal example
 ---
