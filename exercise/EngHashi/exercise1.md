@@ -53,7 +53,7 @@ B --> D{Rhombus}
 C --> D
 ```
 ...
-## mermaid
+mermaid
 ---
 title: Animal example
 ---
