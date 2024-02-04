@@ -12,8 +12,9 @@ My name is **Muhammad Anwar Ahmad**. I'm *31 years* old.
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
 
 | Name           | IC Number   | Gender | Age | Address                           |
-|----------------|-------------|--------|-----|-----------------------------------|
+|----------------|-------------|:--------:|-----:|-----------------------------------|
 | Ahmad Ali      | 900101-14-5678 | Male   | 30  | 123 Jalan Merdeka, Kuala Lumpur  |
 | Siti Fatimah   | 851231-08-1234 | Female | 28  | 456 Jalan Ria, Penang             |
 | Mohd. Hassan   | 930505-12-7890 | Male   | 25  | 789 Jalan Sejahtera, Johor        |
 | Norazizah Lee  | 880708-07-2345 | Female | 33  | 321 Jalan Bahagia, Selangor       |
+
