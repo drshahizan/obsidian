@@ -82,7 +82,7 @@ classDiagram
     }
 ```
 
-mindmap
+```mindmap
   root((mindmap))
     Origins
       Long history
@@ -99,6 +99,6 @@ mindmap
     Tools
       Pen and paper
       Mermaid
-
+```
 
 
