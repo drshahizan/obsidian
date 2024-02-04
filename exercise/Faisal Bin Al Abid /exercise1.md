@@ -267,7 +267,6 @@ timeline
     2006 : Twitter
 ```
 ```mermaid
-
 timeline
         title England's History Timeline
         section Stone Age
