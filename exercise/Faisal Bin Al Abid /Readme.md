@@ -12,7 +12,7 @@ My name **Faisal Bin Al Abid**, I am *20*years old
 | Charlie   | 28  | Graphic Designer|
 
 | Name           | Age | Gender | Occupation           | City            |
-|----------------|-----|--------|----------------------|-----------------|
+|----------------|-----:|:--------:|----------------------|-----------------|
 | Ahmad Abdullah | 30  | Male   | Software Engineer    | Kuala Lumpur    |
 | Siti Aminah    | 25  | Female | Teacher              | Penang          |
 | Hafiz bin Jamal| 35  | Male   | Doctor               | Johor Bahru     |
