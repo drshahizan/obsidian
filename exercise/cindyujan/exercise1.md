@@ -42,6 +42,7 @@ Bob-->Cindy: Checking with John...
 Cindy->John: Yes... John, how are you?
 ```
 
+```mermaid
 ---
 title: Animal example
 ---
