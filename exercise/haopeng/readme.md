@@ -11,7 +11,7 @@ My name is *li haopeng, i'm*20 year old
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
 
 | State           | Population (Millions) | GDP (Billion MYR) | Capital    |
-|-----------------|-----------------------|-------------------|------------|
+|:---|:---:|:---:|---:|
 | Selangor        | 6.5                   | 345               | Shah Alam  |
 | Kuala Lumpur    | 1.8                   | 298               | Kuala Lumpur |
 | Penang          | 1.7                   | 104               | George Town|
