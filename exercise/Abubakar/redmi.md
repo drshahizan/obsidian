@@ -26,7 +26,7 @@ Note right of John: Mihran thinks a long<br/>long time, so long<br/>that the tex
 Mihran-->Abubakar: Checking with John...
 Abubakar->John: Yes... John, how are you?
 
-```mermaid
+```
    ---
 title: Animal example
 ---
@@ -64,4 +64,4 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
-```mermaid
+```
