@@ -13,7 +13,7 @@ My name is **Nur Irdina**. I'm 20 years old.
 
 
 | Name            | Age | Gender | Occupation       |
-| --------------- | --- | ------ | ---------------- |
+| --------------- | ---: | :------: | ---------------- |
 | Ahmad Abdullah  | 28  | Male   | Software Engineer|
 | Siti Aminah     | 34  | Female | Teacher          |
 | Mohd Hassan     | 42  | Male   | Doctor           |
