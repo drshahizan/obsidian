@@ -25,7 +25,7 @@ $$
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
 
-
+```mermaid
 journey
     title My working day
     section Go to work
@@ -35,7 +35,8 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
-
+```
+```mermaid
       mindmap
   root((mindmap))
     Origins
@@ -53,3 +54,4 @@ journey
     Tools
       Pen and paper
       Mermaid
+```
