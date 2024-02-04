@@ -101,7 +101,9 @@ mindmap
       Pen and paper
       Mermaid
 ```
-```Mermaid
+# Timeline
+
+```mermaid
 timeline
     title History of Social Media Platform
     2002 : LinkedIn
