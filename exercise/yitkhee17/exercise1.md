@@ -39,6 +39,7 @@ Note right of Veron: Wj thinks a long<br/>long time, so long<br/>that the text d
 
 wj -->Yitkhee17 : Checking with Veron...
 Yitkhee17 ->Veron: Yes... Veron, how are you?
+```
 
 # Class Diagram
 ```mermaid
@@ -93,3 +94,4 @@ classDiagram
         +bool is_wild
         +run()
     }
+```
