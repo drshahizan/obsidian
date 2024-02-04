@@ -16,7 +16,7 @@ The benefits of using Pandoc Obsidian are:
 
 To use Pandoc Obsidian, you need to install Pandoc on your computer and make sure it is accessible on your path. Then you need to install the Pandoc Obsidian plugin from the Obsidian community plugins. After that, you can use the command palette to choose your export format and options.
 
-For more information on how to install and use Pandoc Obsidian, you can check out the [GitHub repository](https://github.com/OliverBalfour/obsidian-pandoc), the [Obsidian Hub guide]([^2^](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/Using+Pandoc+inside+Obsidian)), or the [Obsidian plugin page]([^3^](https://obsidian.md/plugins?id=obsidian-pandoc)). 
+For more information on how to install and use Pandoc Obsidian, you can check out the [GitHub repository](https://github.com/OliverBalfour/obsidian-pandoc), the [Obsidian Hub guide](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/Using+Pandoc+inside+Obsidian), or the [Obsidian plugin page](https://obsidian.md/plugins?id=obsidian-pandoc). 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian/issues) for any improvements, suggestions or errors in the content.
