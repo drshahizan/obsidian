@@ -40,13 +40,12 @@ Note right of Annur: Syahmi thinks a long<br/>long time, so long<br/>that the te
 
 Syahmi-->Annur: Checking with Annur...
 Aira->Annur: Yes... John, how are you?
-
-
-
-
+```
+```mermaid
 ---
 title: Animal example
 ---
+
 classDiagram
     note "From Duck till Zebra"
     Animal <|-- Duck
@@ -65,8 +64,51 @@ classDiagram
     class Fish{
         -int sizeInFeet
         -canEat()
+
     }
     class Zebra{
         +bool is_wild
+
         +run()
     }
+```
+
+```mermaid
+journey
+    title My working day
+    section Go to work
+      Make tea: 5: Me
+      Go upstairs: 3: Me
+      Do work: 1: Me, Cat
+    section Go home
+      Go downstairs: 5: Me
+      Sit down: 5: Me
+```
+```mermaid
+mindmap
+  root((mindmap))
+    Origins
+      Long history
+      ::icon(fa fa-book)
+      Popularisation
+        British popular psychology author Tony Buzan
+    Research
+      On effectiveness<br/>and features
+      On Automatic creation
+        Uses
+            Creative techniques
+            Strategic planning
+            Argument mapping
+    Tools
+      Pen and paper
+      Mermaid
+```
+```mermaid
+timeline
+    title History of Social Media Platform
+    2002 : LinkedIn
+    2004 : Facebook
+         : Google
+    2005 : Youtube
+    2006 : Twitter
+```
