@@ -51,7 +51,7 @@ And this will produce a flow chart:
 ```mermaid
 graph LR
 
-
+Mermaid
 ---
 title: Animal example
 ---
