@@ -12,7 +12,7 @@ My Name **Apri Junaidi**, i am *75 year* old
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
 
 | Name           | IC Number      | Gender | Age | Address                   |
-|----------------|----------------|--------|-----|---------------------------|
+|----------------|----------------|--------|:-----:|---------------------------|
 | Ahmad Bin Ali  | 901231-14-5678 | Male   | 28  | 123, Jalan Merdeka, KL   |
 | Siti Binti Tan | 850405-08-1234 | Female | 37  | 456, Jalan Harmoni, Penang|
 | Mohd Khan Lee  | 960710-03-8765 | Male   | 25  | 789, Jalan Damai, Johor  |
