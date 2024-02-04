@@ -43,6 +43,7 @@ Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
 
+```mermaid
 ---
 title: Animal example
 ---
@@ -70,3 +71,4 @@ classDiagram
         +bool is_wild
         +run()
     }
+```
