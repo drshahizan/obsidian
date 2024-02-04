@@ -91,7 +91,7 @@ Note right of JAbu Bakar: June thinks a long<br/>long time, so long<br/>that the
 
 Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
-```
+
 
 
       UpdateRelStyle(SystemAA, SystemC, $textColor="blue", $lineColor="blue", $offsetY="-40", $offsetX="-50")
@@ -102,7 +102,7 @@ Alice->John: Yes... John, how are you?
       ---
 title: Animal example
 ---
-``` classDiagram
+classDiagram
     note "From Duck till Zebra"
     Animal <|-- Duck
     note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
@@ -124,5 +124,7 @@ title: Animal example
     class Zebra{
         +bool is_wild
         +run()
-    } ```
+    }
+
+```
 
