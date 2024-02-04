@@ -43,3 +43,26 @@ $$
 
 
 [Payphone - Maroon 5, Ed Sheeran, Charlie Puth (Lyrics)](https://youtu.be/Fpo33RSPMuc?si=zfDtuSsCnw9W6iuf)
+
+
+
+
+
+## UML diagrams
+
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+
+```mermaid
+sequenceDiagram
+Haris ->> Bob: Hello Ali, how are you?
+ali-->>khan: How about you khan?
+ali--x Haris: I am good thanks!
+ali-x Haris: I am good thanks!
+Note right of khan: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Bob-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
+```
+
+
+
