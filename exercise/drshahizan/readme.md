@@ -12,7 +12,7 @@ My name is **Mohd Shahizan**, I'm *20 years* old.
 | Cell 3-1  | Cell 3-2  | Cell 3-3  |
 
 | Name           | IC Number     | Age | Gender | Occupation          |
-|----------------|---------------|-----|--------|---------------------|
+|----------------|---------------|-----:|:--------:|---------------------|
 | Ahmad Ali      | 900101-14-5678 | 30  | Male   | Software Engineer   |
 | Siti Aminah    | 870205-08-1234 | 35  | Female | Teacher             |
 | Mohd Rahman    | 950312-10-9876 | 27  | Male   | Accountant          |
