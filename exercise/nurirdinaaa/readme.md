@@ -3,4 +3,4 @@
 ### Hello World
 #### Hello World
 
-My name ##Nur Irdina##
+My name is **Nur Irdina**
