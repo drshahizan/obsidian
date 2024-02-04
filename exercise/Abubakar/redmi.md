@@ -67,7 +67,7 @@ journey
 ```
 
 
-```mindmap
+mindmap
   root((mindmap))
     Origins
       Long history
