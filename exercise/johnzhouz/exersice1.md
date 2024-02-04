@@ -39,6 +39,7 @@ Note right of John: Xu thinks a long<br/>long time, so long<br/>that the text do
 Xu-->ZOU : Checking with John...
 ZOU ->John: Yes... John, how are you?
 
+```mermaid
 ---
 title: Animal example
 ---
