@@ -18,6 +18,6 @@ Publishing in StackEdit makes it simple for you to publish online your files. On
 > Before starting to publish, you must link an account in the **Publish** sub-menu.
 
 
-#### Youtube Link
+### Youtube Link
 
 [Najwa Latip](https://youtu.be/FiD8zYzSE9o?si=9Cw0KbJj3HrBJI0-)
