@@ -65,7 +65,6 @@ Alice->John: Yes... John, how are you?
 ```
 
 
-# Class diagram 
 
 
 ---
