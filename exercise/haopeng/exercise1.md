@@ -33,12 +33,4 @@ Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text d
 lihaopeng -->tracy: Checking with John...
 tracy->John: Yes... John, how are you?
 
-## UML diagrams
-And this will produce a flow chart:
 
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
