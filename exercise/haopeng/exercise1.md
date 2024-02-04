@@ -1,3 +1,4 @@
+```mermaid
 ---
 title: Animal example
 ---
@@ -24,3 +25,4 @@ classDiagram
         +bool is_wild
         +run()
     }
+```
