@@ -52,8 +52,8 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
-...
-mermaid
+
+```mermaid
 ---
 title: Animal example
 ---
@@ -80,7 +80,7 @@ classDiagram
         +bool is_wild
         +run()
     }
-...
+```
 
 
 
