@@ -13,3 +13,17 @@ There are two types of synchronization and they can complement each other:
 Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
 
 [Automate Your Vault With Dataview - How To Use Dataview in Obsidian](https://youtu.be/8yjNuiSBSAM?si=PmEcuNWbr_9ByzSS)
+
+## KaTeX
+
+You can render LaTeX mathematical expressions using [KaTeX](https## SmartyPants
+SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
+|                |ASCII                          |HTML                         ||----------------|:-------------------------------:|-----------------------------:||Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            ||Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            ||Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|://khan.github.io/KaTeX/):
+
+The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+
+> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
