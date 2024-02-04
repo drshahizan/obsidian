@@ -69,7 +69,7 @@ classDiagram
         +bool is_wild
         +run()
     }
-
+```
 ```mermaid
 journey
     title My working day
@@ -80,3 +80,4 @@ journey
     section Go home
       Go downstairs: 5: Me
       Sit down: 5: Me
+```
