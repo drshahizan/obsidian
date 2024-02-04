@@ -32,11 +32,11 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 
 ```mermaid
 sequenceDiagram
-Li ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
+Li ->> Yang: Hello Bob, how are you?
+Yang-->>John: How about you John?
+Yang--x Li: I am good thanks!
+Yang-x John: I am good thanks!
 Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
+Yang-->Li: Checking with John...
+Li->John: Yes... John, how are you?
