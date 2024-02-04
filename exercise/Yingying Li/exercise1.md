@@ -40,7 +40,9 @@ Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text d
 
 Yang-->Li: Checking with John...
 Li->John: Yes... John, how are you?
+```
 
+```mermaid
 classDiagram
 Class01 <|-- AveryLongClass : Cool
 Class03 *-- Class04
@@ -55,3 +57,36 @@ Class01 : size()
 Class01 : int chimp
 Class01 : int gorilla
 Class08 <--> C2: Cool label
+```
+
+```mermaid
+journey
+    title My working day
+    section Go to work
+      Make tea: 5: Me
+      Go upstairs: 3: Me
+      Do work: 1: Me, Cat
+    section Go home
+      Go downstairs: 5: Me
+      Sit down: 5: Me
+```
+
+```mermaid
+mindmap
+  root((mindmap))
+    Origins
+      Long history
+      ::icon(fa fa-book)
+      Popularisation
+        British popular psychology author Tony Buzan
+    Research
+      On effectiveness<br/>and features
+      On Automatic creation
+        Uses
+            Creative techniques
+            Strategic planning
+            Argument mapping
+    Tools
+      Pen and paper
+      Mermaid
+```
