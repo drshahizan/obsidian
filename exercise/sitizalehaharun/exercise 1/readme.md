@@ -102,7 +102,7 @@ Alice->John: Yes... John, how are you?
       ---
 title: Animal example
 ---
-classDiagram
+``` classDiagram
     note "From Duck till Zebra"
     Animal <|-- Duck
     note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
@@ -124,5 +124,5 @@ classDiagram
     class Zebra{
         +bool is_wild
         +run()
-    }
+    } ```
 
