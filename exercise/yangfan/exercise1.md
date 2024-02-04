@@ -27,3 +27,51 @@ $$
 $$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+
+## UML diagrams
+
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+
+```mermaid
+sequenceDiagram
+YangFan ->> yingying: Hello Bob, how are you?
+yingying-->>John: How about you John?
+yingying--x YangFan: I am good thanks!
+yingying-x John: I am good thanks!
+Note right of John: yingying thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+yingying-->YangFan: Checking with John...
+YangFan->John: Yes... John, how are you?
+```
+
+And this will produce a flow chart:
+
+```mermaid
+
+
+---
+title: Animal example
+---
+classDiagram
+    note "From Duck till Zebra"
+    Animal <|-- Duck
+    note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+        +String beakColor
+        +swim()
+        +quack()
+    }
+    class Fish{
+        -int sizeInFeet
+        -canEat()
+    }
+    class Zebra{
+        +bool is_wild
+        +run()
+    }
