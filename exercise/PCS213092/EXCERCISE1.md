@@ -5,3 +5,20 @@ Hi! I'm your first Markdown file in **StackEdit**. If **you want** to learn abou
 Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
 
 [BENA](https://youtu.be/wwLHsXbSa-Y?si=ska7Cyr3Y3Q5HM2h)
+
+
+## UML diagrams
+
+You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+
+```mermaid
+sequenceDiagram
+BENA ->> Bob: Hello Bob, how are you?
+Bob-->>John: How about you John?
+Bob--x Alice: I am good thanks!
+Bob-x John: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Bob-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
+```
