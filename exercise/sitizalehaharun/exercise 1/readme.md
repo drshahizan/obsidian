@@ -65,3 +65,15 @@ Since one file can be published to multiple locations, you can list and manage p
 
 [DIKIR THAT GIVES PEACE OF HEART AND SOUL](https://www.youtube.com/live/U4rH7RwWHEI?si=P60Ojr0qA2TN8zeH)
 
+## KaTeX
+
+You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
+
+The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+
+> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+
