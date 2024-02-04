@@ -11,7 +11,7 @@ My name  **Norazhar Anas**, I'm *43 years old*
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
 
 | Name            | IC Number    | Gender | Age | Address                           |
-|-----------------|--------------|--------|-----|-----------------------------------|
+|-----------------|--------------|--------:|:-----:|-----------------------------------|
 | Ahmad bin Ali   | 950201-14-5678| Male   | 30  | 123 Jalan Merdeka, Kuala Lumpur   |
 | Siti binti Tan  | 881011-08-9876| Female | 25  | 456 Jalan Bunga Raya, Penang      |
 | Hafizah bt Lim  | 900505-12-3456| Female | 32  | 789 Jalan Damai, Johor Bahru      |
