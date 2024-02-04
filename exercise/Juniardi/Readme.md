@@ -7,7 +7,7 @@
 My Name **Juniardi Nur Fadila**, I am *20* years old
 
 | ID | Name     | Age | Occupation  |
-| -- | -------- | --- | ----------- |
+| -- | -------- | ---: | :-----------: |
 | 1  | Alice    | 24  | Engineer    |
 | 2  | Bob      | 30  | Photographer|
 | 3  | Charlie  | 35  | Teacher     |
