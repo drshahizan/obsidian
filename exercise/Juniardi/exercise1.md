@@ -46,6 +46,7 @@ Alice->John: Yes... John, how are you?
 ---
 title: Animal example
 ---
+
 classDiagram
     note "From Duck till Zebra"
     Animal <|-- Duck
