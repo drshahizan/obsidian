@@ -11,7 +11,7 @@ My name is **ABDIRAHMAN OSMAN HASHI**, I'm 20 years old.
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
 
 | Name            | Age | Gender | Address                      | Occupation       |
-|-----------------|-----|--------|------------------------------|------------------|
+|-----------------|-----:|--------|------------------------------|------------------|
 | Ali bin Ahmad   | 28  | Male   | 123 Jalan Merdeka, KL        | Software Engineer|
 | Siti Aminah binti Tan | 35 | Female | 456 Jalan Raya, Penang   | Teacher          |
 | Hafizah bt. Lim | 42  | Female | 789 Jalan Damai, Johor Bahru  | Doctor           |
