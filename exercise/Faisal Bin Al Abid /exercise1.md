@@ -193,6 +193,10 @@ B --> D{Rhombus}
 C --> D
 ```
 ---
+
+---
+```mermaid
+
 title: Animal example
 ---
 classDiagram
@@ -218,4 +222,7 @@ classDiagram
         +bool is_wild
         +run()
     }
+---
+
+---
 
