@@ -89,3 +89,12 @@ timeline
     2005 : Youtube
     2006 : Twitter
 ```
+
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
