@@ -12,7 +12,7 @@ My name is **Yingying Li**, I'm *20 years old*
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
 
 | Citizen ID | Name              | Age | Gender | Address                  | Occupation         |
-|------------|-------------------|-----|--------|--------------------------|--------------------|
+|------------|-------------------|-----|:--------:|:--------------------------:|--------------------|
 | MY1234567  | Ahmad bin Abdullah | 28  | Male   | 123, Jalan Merdeka, KL   | Software Engineer |
 | MY2345678  | Siti binti Mohd     | 35  | Female | 456, Jalan Ria, Penang   | Teacher            |
 | MY3456789  | Tan Mei Ling       | 42  | Female | 789, Jalan Harmoni, Johor| Doctor             |
