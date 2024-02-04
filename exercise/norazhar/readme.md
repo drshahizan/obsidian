@@ -17,3 +17,29 @@ My name  **Norazhar Anas**, I'm *43 years old*
 | Hafizah bt Lim  | 900505-12-3456| Female | 32  | 789 Jalan Damai, Johor Bahru      |
 | Amirul bin Raju | 970719-11-2345| Male   | 24  | 321 Jalan Sentosa, Kuching        |
 
+---
+title: Animal example
+---
+classDiagram
+    note "From Duck till Zebra"
+    Animal <|-- Duck
+    note for Duck "can fly\ncan swim\ncan dive\ncan help in debugging"
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+        +String beakColor
+        +swim()
+        +quack()
+    }
+    class Fish{
+        -int sizeInFeet
+        -canEat()
+    }
+    class Zebra{
+        +bool is_wild
+        +run()
+    }
