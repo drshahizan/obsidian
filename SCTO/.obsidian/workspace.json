@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efa91f7fb93700e6",
+        "id": "56eb9a81f3993484",
         "type": "tabs",
         "children": [
           {
-            "id": "51ca750f4aae3532",
+            "id": "f8a7d45aaed30b1e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -16,19 +16,8 @@
                 "file": "Excalidraw/SLR github.md"
               }
             }
-          },
-          {
-            "id": "9994bbe5998b2509",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 11.29.15.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#SLR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 331.5086555480957
   },
   "right": {
     "id": "f1027b9aeedb0cb5",
@@ -102,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 11.29.15.excalidraw.md",
+                "file": "Excalidraw/SLR github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 11.29.15.excalidraw.md",
+                "file": "Excalidraw/SLR github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-04 11.29.15.excalidraw.md"
+                "file": "Excalidraw/SLR github.md"
               }
             }
           },
@@ -170,67 +159,67 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9994bbe5998b2509",
+  "active": "f8a7d45aaed30b1e",
   "lastOpenFiles": [
-    "Excalidraw/SLR github.md",
-    "Excalidraw/Drawing 2024-02-04 11.29.15.excalidraw.md",
-    "Pasted Image 20240204111327_516.png",
     "Canvas/Reference Manager.canvas",
-    "Mind Map/Check box.md",
-    "Kanban/Kanban board.md",
-    "__Media/Zettelkasten steps.png",
-    "Excalidraw/gantt.md",
-    "Excalidraw/Er diagram.md",
-    "Excalidraw/component diagram.md",
-    "Excalidraw/Class Diagram.md",
-    "Excalidraw/API gateway.md",
-    "Excalidraw/0 Start.md",
-    "Canvas/Book Dashboard.canvas",
-    "Canvas/Brainstorm.canvas",
-    "Canvas/Homepage.canvas",
-    "Canvas/Library Dashboard.canvas",
-    "Canvas/Media Dashboard.canvas",
-    "Canvas/Sample.canvas",
     "Canvas/Research Mindmap.canvas",
+    "Canvas/Sample.canvas",
+    "Untitled.canvas",
+    "__Media/Pasted Image 20240202102119_150.png",
+    "__Media/Pasted Image 20240202095039_003.jpg",
     "Canvas/Start here.canvas",
     "Canvas/Readme canvas.md",
-    "Introduction SLR and AI.md",
-    "__Templates/Zettelkasten.md",
-    "__Templates/Test.md",
+    "Canvas/Media Dashboard.canvas",
+    "Canvas/Library Dashboard.canvas",
+    "Canvas/Homepage.canvas",
+    "Canvas/Brainstorm.canvas",
+    "Canvas/Book Dashboard.canvas",
+    "Mind Map/Readme Mind map.md",
+    "Mind Map/Mind mapping.md",
+    "Mind Map/IoT blockchain.md",
+    "Mind Map/Check box.md",
+    "Markdown/Markdown.md",
+    "Exercise 1/Session 1.md",
+    "Excalidraw/user journey diagrams.md",
+    "Dataview/🗓️ Calendar.md",
+    "Dataview/👓 List of Papers.md",
+    "__Templates/Outline Note.md",
+    "__Templates/Source Note.md",
     "__Templates/Survey.md",
-    "__Templates/MOC.md",
-    "__Templates/Lecture Notes.md",
-    "__Templates/Daily Todo.md",
-    "__Templates/Daily Template.md",
-    "__Templates/Daily Notes.md",
-    "__Templates/Blog Post.md",
+    "__Templates/Zettelkasten.md",
     "__Templates/Bibliography.md",
+    "📆 Activity/Untitled.md",
+    "📆 Activity/24 Dec 2022.md",
+    "📆 Activity/1 Feb 2024.md",
     "Dataview/Dataview 1.md",
     "Dataview/Dataview Templates.md",
-    "Markdown/Markdown.md",
-    "Zettelkasten/Zettelkasten.md",
+    "1️⃣ Primary Sources/Shahizan 2020.md",
+    "Dataview 1a.md",
+    "Untitled.md",
+    "1️⃣ Primary Sources/Waleed 2023.md",
+    "1️⃣ Primary Sources/Shabanov 2022b.md",
+    "__Papers/Shahizan 2020.pdf",
+    "Exercise 2",
+    "Pasted Image 20240204111327_516.png",
+    "__Media/Zettelkasten steps.png",
     "Canvas",
     "Kanban",
     "Zotero",
     "Markdown",
-    "__Media/Pasted Image 20240202102119_150.png",
     "Zettelkasten",
     "Z",
     "Dataview",
     "__Papers/Waleed 2023.pdf",
-    "__Papers/Shahizan 2020.pdf",
-    "__Papers/Dhekre 2023.pdf",
     "Pasted Image 20240202101844_201.png",
-    "__Media/Pasted Image 20240202095039_003.jpg",
     "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
     "__Media/Pasted image 20221214131115.png",
     "__Media/Pasted image 20221214125814.png",
     "__Media/Pasted image 20221214124807.png",
-    "__Media/Pasted image 20221214123958.png",
-    "Untitled 1.canvas"
+    "__Media/Pasted image 20221214123958.png"
   ]
 }

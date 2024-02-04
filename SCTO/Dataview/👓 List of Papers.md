@@ -24,6 +24,12 @@ Papers with a #Machine_learning   tag.
 TABLE without id file.link as Paper, ShortSummary as Summary, Rating FROM #Machine_learning  AND "1️⃣ Primary Sources"  sort Rating DESC
 ```
 
+# Gene Selection Papers
+Papers with a #Gene_selection   tag.
+
+```dataview
+TABLE without id file.link as Paper, Title, Rating  FROM #Gene_selection  AND "1️⃣ Primary Sources"  sort Rating DESC
+```
 
 
 > [!fail]- Papers in need of a tag!

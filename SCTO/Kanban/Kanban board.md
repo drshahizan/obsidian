@@ -6,25 +6,25 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] [[IoT blockchain]]
+- [x] [[IoT blockchain]] ✅ 2024-02-04
 
 
 ## Backlog
 
-- [ ] [[Mind mapping]]
+- [x] [[Mind mapping]] ✅ 2024-02-04
 
 
 ## Bugs and issues
 
-- [ ] [[Zotero]]
+- [x] [[Zotero]] ✅ 2024-02-04
 
 
 ## Done
 
 **Complete**
-- [ ] [[Connell 1964]]
-- [ ] [[24 Dec 2022]]
-- [ ] [[📚 Reading List]]
+- [x] [[Connell 1964]] ✅ 2024-02-04
+- [x] [[24 Dec 2022]] ✅ 2024-02-04
+- [x] [[📚 Reading List]] ✅ 2024-02-04
 
 
 ***
