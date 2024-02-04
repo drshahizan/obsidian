@@ -40,7 +40,7 @@ Shira ->> Apri: Hello Apri, how are you?
 Apri-->>John: How about you John?
 Apri--x Alice: I am good thanks!
 Apri-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+Note right of John: Apri thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
 
 Bob-->AShira: Checking with John...
 Shira->John: Yes... John, how are you?
