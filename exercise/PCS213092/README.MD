@@ -11,7 +11,7 @@ My name is **YUNUSA ADAMU BENA**, Im 20 Years old*
 
 
 | Name            | IC Number    | Gender | Age | Address                     |
-|-----------------|--------------|--------|-----|-----------------------------|
+|-----------------|--------------|--------|-----:|:-----------------------------|
 | John Tan        | 950201-14-5678 | Male   | 28  | 123 Jalan Merdeka, Kuala Lumpur |
 | Sarah Lim       | 880512-08-1234 | Female | 35  | 456 Persiaran Rakyat, Penang |
 | Ahmad Ibrahim   | 910710-01-8765 | Male   | 31  | 789 Jalan Bakti, Johor Bahru |
