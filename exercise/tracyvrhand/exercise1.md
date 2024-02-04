@@ -20,7 +20,7 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 
 ```mermaid
 sequenceDiagram
-tracy ->> Bob: Hello Bob, how are you?
+trcya ->> Bob: Hello Bob, how are you?
 allex-->>John: How about you John?
 tom--x Alice: I am good thanks!
 Bob-x John: I am good thanks!
@@ -38,7 +38,9 @@ A[Square Rect] -- Link text --> B((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
+```
 
+```mermaid
 mindmap
   root((mindmap))
     Origins
@@ -55,5 +57,5 @@ mindmap
             Argument mapping
     Tools
       Pen and paper
-      Mermaid
+``` 
 
