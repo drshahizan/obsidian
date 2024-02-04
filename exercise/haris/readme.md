@@ -13,7 +13,7 @@ My name is **Muhammad Haris**
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
 
 | Name            | IC (Identification Card) Number | Date of Birth | Gender | Address                         |
-|-----------------|---------------------------------|---------------|--------|---------------------------------|
+|-----------------|---------------------------------:|---------------:|:--------:|---------------------------------|
 | Ahmad Ali       | 910101-12-3456                  | 1991-01-01    | Male   | 123 Jalan Merdeka, Kuala Lumpur |
 | Siti Aminah     | 870303-08-9876                  | 1987-03-03    | Female | 456 Jalan Bunga Raya, Penang    |
 | Mohd Hassan     | 950505-11-6789                  | 1995-05-05    | Male   | 789 Jalan Delima, Johor Bahru   |
