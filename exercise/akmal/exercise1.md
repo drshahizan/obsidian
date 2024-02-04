@@ -33,7 +33,7 @@ You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For e
 
 ```mermaid
 sequenceDiagram
-Ace ->> Bose: Hello Bob, how are you?
+Ace ->> Bose: Hello Bose, how are you?
 Bose-->>John: How about you John?
 Bose--x Ace: I am good thanks!
 Bose-x John: I am good thanks!
