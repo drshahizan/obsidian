@@ -152,5 +152,5 @@ There are two types of synchronization and they can complement each other:
 	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
  > Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
 >
-> [](https://www.bing.com/videos/riverview/relatedvideo?&q=mdr+zakir+youtube&&mid=8802B69902914E56C19F8802B69902914E56C19F&&FORM=VRDGAR)
+> [Dr.zakir naik](https://www.bing.com/videos/riverview/relatedvideo?&q=mdr+zakir+youtube&&mid=8802B69902914E56C19F8802B69902914E56C19F&&FORM=VRDGAR)
 
