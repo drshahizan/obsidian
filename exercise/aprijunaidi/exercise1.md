@@ -49,7 +49,6 @@ Shira->John: Yes... John, how are you?
 And this will produce a flow chart:
 
 ```mermaid
-graph LR
 
 ---
 title: Animal example
