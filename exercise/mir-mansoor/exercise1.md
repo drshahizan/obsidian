@@ -7,4 +7,17 @@ Publishing in StackEdit makes it simple for you to publish online your files. On
 
 > Before starting to publish, you must link an account in the **Publish** sub-menu.
 >
-> {}(https://youtu.be/Yzi1o-BH6QQ?si=76RLXuRxNnItcX-y)
+> ([https://youtu.be/Yzi1o-BH6QQ?si=76RLXuRxNnItcX-y])
+
+
+## KaTeX
+
+You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
+
+The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+
+> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
