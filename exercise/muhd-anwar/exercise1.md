@@ -49,7 +49,7 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
-
+---
 ```mermaid
 ---
 title: Animal example
