@@ -48,14 +48,9 @@
             "id": "e399f97bd7a1a7f3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Canvas/Book Dashboard.canvas",
-                "viewState": {
-                  "x": 1900,
-                  "y": 80,
-                  "zoom": -2.068972142079119
-                }
+                "file": "Excalidraw/SLR github.md"
               }
             }
           }
@@ -134,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/Book Dashboard.canvas",
+                "file": "Excalidraw/SLR github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/Book Dashboard.canvas",
+                "file": "Excalidraw/SLR github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/Book Dashboard.canvas"
+                "file": "Excalidraw/SLR github.md"
               }
             }
           },
@@ -208,6 +203,13 @@
   },
   "active": "e399f97bd7a1a7f3",
   "lastOpenFiles": [
+    "Excalidraw/gantt.md",
+    "Excalidraw/Er diagram.md",
+    "Excalidraw/component diagram.md",
+    "Excalidraw/Class Diagram.md",
+    "Excalidraw/API gateway.md",
+    "Excalidraw/0 Start.md",
+    "Canvas/Book Dashboard.canvas",
     "Canvas/Brainstorm.canvas",
     "Canvas/Homepage.canvas",
     "Canvas/Library Dashboard.canvas",
@@ -216,7 +218,6 @@
     "Canvas/Sample.canvas",
     "Canvas/Research Mindmap.canvas",
     "Canvas/Start here.canvas",
-    "Canvas/Book Dashboard.canvas",
     "Canvas/Readme canvas.md",
     "Introduction SLR and AI.md",
     "__Templates/Zettelkasten.md",
@@ -231,17 +232,12 @@
     "__Templates/Bibliography.md",
     "Dataview/Dataview 1.md",
     "Dataview/Dataview Templates.md",
-    "Excalidraw/0 Start.md",
-    "Excalidraw/API gateway.md",
     "Markdown/Markdown.md",
     "Zettelkasten/Zettelkasten.md",
     "Mind Map/Readme Mind map.md",
     "Mind Map/Check box.md",
     "Kanban/Readme Kanban Plugin.md",
     "Kanban/Kanban board.md",
-    "📚 Reading List.md",
-    "Mind Map/IoT blockchain.md",
-    "Exercise 1/Session 2.md",
     "__Media/Zettelkasten steps.png",
     "Canvas",
     "Kanban",
@@ -262,7 +258,6 @@
     "__Media/Pasted image 20221214124807.png",
     "__Media/Pasted image 20221214123958.png",
     "__Media/Pasted image 20221214122340.png",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas"
+    "Untitled 1.canvas"
   ]
 }
