@@ -61,7 +61,7 @@ journey
       Go downstairs: 5: Me
       Sit down: 5: Me
 ```
-```mindmap
+```mermaid
 mindmap
   root((mindmap))
     Origins
@@ -80,7 +80,7 @@ mindmap
       Pen and paper
       Mermaid
 ```
-```timeline
+```mermaid
 timeline
     title History of Social Media Platform
     2002 : LinkedIn
