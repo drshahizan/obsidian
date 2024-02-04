@@ -11,7 +11,7 @@ My name is **Wong Yit Khee**, I'm *20* years old.
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
 
-| Member        | Position    | Birthdate   | Nationality  |
+| Member        | Position    | Birthdate   **| Nationality  |
 | ------------- | ----------- | ----------- | ------------ |
 | Jisoo         | Main Vocal  | 1995-01-03  | South Korean |
 | Jennie        | Rapper      | 1996-01-16  | South Korean |
