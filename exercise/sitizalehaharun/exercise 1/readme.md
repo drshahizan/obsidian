@@ -99,7 +99,9 @@ Alice->John: Yes... John, how are you?
 
       UpdateLayoutConfig($c4ShapeInRow="3", $c4BoundaryInRow="1")
 
-      ---
+```
+```mermaid
+---
 title: Animal example
 ---
 classDiagram
@@ -126,10 +128,10 @@ classDiagram
         +run()
     }
 
+```
 
 
-
-
+```mermaid
 journey
     title My working day
     section Go to work
