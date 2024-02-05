@@ -6,7 +6,7 @@
 Nama saya ialah **Shahizan**. Saya bekerja di *UTM*. [Laman web UTM](http://utm.my/)
   
 | Name           | IC Number     | Age | Gender | Occupation          |
-|----------------|---------------|-----|--------|---------------------|
+|----------------|---------------|-----:|:--------:|---------------------|
 | Ahmad Ali      | 900101-14-5678 | 30  | Male   | Software Engineer   |
 | Siti Aminah    | 870205-08-1234 | 35  | Female | Teacher             |
 | Mohd Rahman    | 950312-10-9876 | 27  | Male   | Accountant          |
