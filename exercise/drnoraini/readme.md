@@ -5,10 +5,11 @@
 
 Nama saya ialah **Noraini**. Saya bekerja di *UTM*. [Laman web UTM](www.utm.my)
  
-| Name                | Date of Birth | Gender | Address                                  | Phone Number   | Email                         |
-|---------------------|---------------|--------|------------------------------------------|----------------|-------------------------------|
-| Ahmad bin Kamarul   | 1990-04-15    | Male   | 123, Jalan Merdeka, 50050 Kuala Lumpur   | 012-3456789    | ahmad.kamarul@example.com     |
-| Siti Nurhaliza binti Abdullah | 1985-07-25 | Female | 456, Lorong Sultan, 11900 Penang        | 019-2345678    | siti.nurhaliza@example.com    |
-| Kumar a/l Rajendran | 1978-12-01    | Male   | 789, Jalan Hang Tuah, 75200 Melaka       | 016-9876543    | kumar.rajendran@example.com   |
-| Mei Ling binti Chong| 1992-05-10    | Female | 101, Taman Bukit Bintang, 88000 Kota Kinabalu | 014-5678901 | mei.ling@example.com          |
-| Raj a/l Sharma      | 1988-09-15    | Male   | 202, Jalan Tunku Abdul Rahman, 30010 Ipoh| 013-3456789    | raj.sharma@example.com        |
+| Name             | IC Number       | Age | Gender | Occupation        |
+|------------------|-----------------|-----:|:--------:|-------------------|
+| Aisyah Binti Zain| 980123-14-5670  | 25  | Female | Data Analyst      |
+| Mohd Faizal Bin Ali| 760510-10-1234 | 47  | Male   | Engineer          |
+| Siti Nurhaliza   | 850815-02-4567  | 38  | Female | Teacher           |
+| Kumar a/l Vijayan| 920710-07-8910  | 31  | Male   | Software Developer|
+| Lee Mei Ling     | 700121-08-1357  | 53  | Female | Business Owner    |
+
