@@ -8,7 +8,7 @@ Nama saya ialah **Mohd. Zamri Osman**. Berasal dari *Negeri ___*. Sekarang beker
 Berikut merupakan statistik dummy bagi penduduk di Malaysia
 
 | Age Group | Male Population | Female Population | Total Population |
-|-----------|-----------------|-------------------|------------------|
+|:-----------:|-----------------|-------------------|------------------|
 | 0-14      | 2,500,000       | 2,400,000         | 4,900,000        |
 | 15-24     | 3,000,000       | 2,800,000         | 5,800,000        |
 | 25-34     | 4,500,000       | 4,200,000         | 8,700,000        |
