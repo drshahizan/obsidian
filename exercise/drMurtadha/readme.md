@@ -9,7 +9,7 @@ Certainly, here is an example of dummy data for Malaysia citizens presented in a
 
 
 | Name           | IC Number      | Gender | Age | Occupation           | City       |
-|----------------|----------------|--------|-----|----------------------|------------|
+|----------------|----------------|:--------:|-----:|----------------------|------------|
 | Ahmad Ali      | 900101-14-5678 | Male   | 32  | Engineer             | Kuala Lumpur|
 | Nurul Hasanah  | 850210-08-1234 | Female | 37  | Teacher              | Penang     |
 | Lim Wei Ming   | 880515-03-8765 | Male   | 34  | Business Owner       | Johor Bahru |
