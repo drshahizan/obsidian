@@ -6,7 +6,7 @@
 Nama saya ialah **siti zaiton**. Saya bekerja di *UTM*. [Laman web UTM ] (https://www.utm.my/)
 Certainly! Below is an example of dummy data for the population of Malaysia presented in a markdown table:
 
-```markdown
+
 | No. | NRIC        | Name               | Gender | Date of Birth | State         |
 |-----|-------------|--------------------|--------|---------------|---------------|
 | 1   | 910101-14-1234 | Ahmad bin Abdullah | Male   | 1991-01-01    | Selangor       |
@@ -21,6 +21,6 @@ Certainly! Below is an example of dummy data for the population of Malaysia pres
 | 10  | 950509-02-3456 | Mohd Azlan          | Male   | 1995-05-09   | Terengganu    |
 |-----|----------------|--------------------|--------|---------------|---------------|
 | ... | ...            | ...                | ...    | ...           | ...           |
-```
+
 
 Please note that this is entirely fictional data created for illustrative purposes. The National Registration Identification Card (NRIC) numbers are randomly generated and do not correspond to real individuals.
