@@ -6,7 +6,7 @@
 Nama saya adalah **Sharin**. Saya berkerja di *UTM*. [Laman web UTM](https://www.utm.my)
 
 | Name           | Age | Gender | Citizenship  |
-|----------------|-----|--------|--------------|
+|----------------|-----:|:--------:|--------------|
 | Ahmad bin Ali  | 35  | Male   | Malaysian    |
 | Siti binti Lim | 28  | Female | Malaysian    |
 | Tan Cheng Ho   | 45  | Male   | Malaysian    |
