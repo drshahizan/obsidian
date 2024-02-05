@@ -15,3 +15,4 @@ Saya bekerja di UTM. [UTM](http://utm.my)
 | **Pengurusan Sumber Manusia dalam Era Digital**         | Nurul Huda binti Abdul Rahman | 2023-09-05      | 3000          |
 | **Inovasi dalam Pengurusan Perubahan Organisasi**       | Amiruddin bin Hassan           | 2023-12-30      | 2100          |
 
+
