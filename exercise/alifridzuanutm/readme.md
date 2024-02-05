@@ -5,8 +5,8 @@
 
 Nama saya ialah **Alif Ridzuan**. Saya bekerja di *UTM*. [Laman web UTM](https://www.utm.my/)
 
-| Name           | Age | Gender | City            | Occupation         |
-|----------------|-----|--------|-----------------|---------------------|
+| Name (R)           | Age | Gender | City (C)            | Occupation (L)          |
+|----------------:|-----|--------|:-----------------:|:---------------------|
 | Ahmad Bin Ali  | 28  | Male   | Kuala Lumpur    | Software Engineer   |
 | Siti Binti Tan | 35  | Female | Penang          | Teacher             |
 | Hafizah Lim    | 22  | Female | Johor Bahru     | Student             |
