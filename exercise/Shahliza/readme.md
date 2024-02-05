@@ -5,8 +5,8 @@
 
 Nama saya ialah **Shahliza**. Saya bekerja di *UTM*. Laman web saya [Laman Web](https://www.utm.my/)
 
-| No. | Name                  | Gender | :Birth Year: | City :           | IC Number       |
-|-----|-----------------------|--------|------------|-----------------|-----------------|
+| No. | Name                  | Gender | Birth Year: | City            | IC Number       |
+|-----|-----------------------|--------|:------------:|-----------------:|-----------------|
 | 1   | Ali bin Hassan        | Male   | 1984       | Kuala Lumpur    | 840515-01-1234  |
 | 2   | Siti Nurhaliza        | Female | 1992       | Shah Alam       | 920821-14-5678  |
 | 3   | Raj a/l Vellu         | Male   | 1976       | Penang          | 760310-07-9012  |
