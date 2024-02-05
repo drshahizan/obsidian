@@ -1,5 +1,5 @@
 
-Title: The Enchanted Garden
+# Title: The Enchanted Garden
 
 Once upon a time, in a land far, far away, there lived a young girl named Hidayah. Hidayah was known throughout the kingdom for her kind heart and gentle spirit. She lived in a humble cottage at the edge of a dense forest with her grandmother, who was a wise old herbalist.
 
