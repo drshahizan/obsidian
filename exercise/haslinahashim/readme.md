@@ -6,7 +6,7 @@
 Nama saya ialah **Haslina**. Saya bekerja di *UTM*. [Laman web UTM](https://www.utm.my/)
 
 | Nama           | Umur | Jantina | Pekerjaan       | Negeri        |
-|----------------|------|---------|-----------------|---------------|
+|----------------|------:|:---------:|-----------------|---------------|
 | Ahmad Zaki     | 29   | Lelaki  | Jurutera        | Selangor      |
 | Siti Norhaliza | 35   | Perempuan | Doktor         | Kuala Lumpur  |
 | Lim Wei Ling   | 42   | Perempuan | Pengusaha      | Penang        |
