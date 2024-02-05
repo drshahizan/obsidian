@@ -6,7 +6,7 @@
 Nama saya ialah **Haida**. Saya bertugas di *UTM*. [Laman web UTM](https://www.utm.my/)
 
 | Name             | IC Number   | Gender | Date of Birth | Address                                   | Occupation         |
-|------------------|-------------|:--------:|---------------|-------------------------------------------|---------------------|
+|------------------|-------------|:--------:|---------------:|-------------------------------------------|---------------------|
 | Ahmad bin Ali    | 870102-14-5678 | Male   | 1987-01-02    | 123 Jalan Merdeka, Kuala Lumpur           | Engineer            |
 | Siti binti Rahim | 921224-08-9876 | Female | 1992-12-24    | 456 Jalan Ria, Penang                     | Teacher             |
 | Mohd Aziz         | 830710-05-4321 | Male   | 1983-07-10    | 789 Jalan Bahagia, Johor Bahru           | Accountant          |
