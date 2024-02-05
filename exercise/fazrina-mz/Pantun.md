@@ -21,3 +21,21 @@ Harmoni di rantau, serumpun bersatu,
 Malaysia Madani, negara yang kita cintai.
 
 Selamat Hari Malaysia! 🇲🇾
+
+
+Di Malaysia Madani, kita bersatu,
+Berbilang kaum, bersaudara kita.
+Dengan hormat dan setia berjasa,
+Membina negara yang sejahtera.
+
+Budaya warisan, kaya dan indah,
+Diramaikan dengan seni yang berbeza.
+Dari pantai timur hingga ke barat,
+Kecantikan alam memikat hati.
+
+Dalam pelbagai suku dan bahasa,
+Kita saling hormat tanpa ragu.
+Bersatu padu, berjaya bersama,
+Malaysia Madani, bangga kita!
+
+🌺🌿🌞
