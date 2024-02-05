@@ -1,8 +1,11 @@
 **Malaysia Madani Pantun:**
 
 🌺 Di Malaysia Madani berseri,
+
 Budaya warisan kita terperi.
+
 Hijau rimba, biru langit terbentang,
+
 Negara damai, sejahtera abadi terjelma. 🇲🇾
 
 🏞️ Rakyat bersatu hati seiring,
