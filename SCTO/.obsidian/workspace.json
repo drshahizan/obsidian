@@ -8,61 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8a7d45aaed30b1e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/SLR github.md"
-              }
-            }
-          },
-          {
-            "id": "daba14976dbd03ae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/git.md"
-              }
-            }
-          },
-          {
-            "id": "0f755abdf64033f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00d55dec2954ae38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Buku Penyelidikan/Latar Belakang Kajian.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d2ffb181a478ad94",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/Kanban board.md"
-              }
-            }
-          },
-          {
-            "id": "866f021716c4b80e",
+            "id": "49ccbdaf36176114",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,10 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "866f021716c4b80e",
+  "active": "49ccbdaf36176114",
   "lastOpenFiles": [
     "Untitled.md",
     "Untitled 1.md",
+    "SLR.md",
     "Untitled 2.md",
     "Dataview/👓 List of Papers.md",
     "Buku Penyelidikan/Table of Content.md",
@@ -250,7 +196,6 @@
     "Excalidraw/Class Diagram.md",
     "Excalidraw/API gateway.md",
     "Excalidraw/0 Start.md",
-    "Excalidraw/Sequence.md",
     "Exercise 2/~$apter 1.docx",
     "Exercise 2/Chapter 1.docx",
     "1️⃣ Primary Sources/Shahizan 2020.docx",
