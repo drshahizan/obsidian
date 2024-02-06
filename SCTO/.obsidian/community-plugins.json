@@ -6,5 +6,7 @@
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
   "obsidian-icon-folder",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-pandoc",
+  "excalibrain"
 ]
