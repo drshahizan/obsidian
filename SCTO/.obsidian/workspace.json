@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
-                "mode": "preview",
+                "file": "Read this paper.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Read this paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Read this paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Read this paper.md"
               }
             }
           },
@@ -168,13 +168,24 @@
   },
   "active": "49ccbdaf36176114",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled 1.md",
-    "SLR.md",
+    "Readme.md",
+    "Untitled.canvas",
+    "Read this paper.md",
+    "reading list1.md",
+    "Dataview/Dataview 1a.md",
+    "Pasted Image 20240204111327_516.png",
+    "myKanban1.md",
+    "Dataview/Dataview 1.md",
+    "SLR/SLR.md",
+    "Chapter 2.md",
     "Untitled 2.md",
+    "SLR/Untitled 1.md",
+    "Untitled.md",
+    "SLR/Introduction SLR and AI.md",
+    "Shahizan 2024.md",
+    "SLR",
     "Dataview/👓 List of Papers.md",
     "Buku Penyelidikan/Table of Content.md",
-    "myKanban1.md",
     "Buku Penyelidikan/Gabung.md",
     "Kanban/Kanban board.md",
     "Mind Map/IoT blockchain.md",
@@ -183,19 +194,10 @@
     "Buku Penyelidikan/Pengenalan.md",
     "Exercise 2/Combine.md",
     "Buku Penyelidikan/Latar Belakang Kajian.md",
-    "Read this paper.md",
     "__Media/cover buku.jpeg",
     "Buku Penyelidikan",
     "Excalidraw/user journey diagrams.md",
     "Excalidraw/git.md",
-    "Excalidraw/how to write.md",
-    "Excalidraw/Er diagram.md",
-    "Excalidraw/Drawing 2024-02-05 14.41.24.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-04 11.29.15.excalidraw.md",
-    "Excalidraw/component diagram.md",
-    "Excalidraw/Class Diagram.md",
-    "Excalidraw/API gateway.md",
-    "Excalidraw/0 Start.md",
     "Exercise 2/~$apter 1.docx",
     "Exercise 2/Chapter 1.docx",
     "1️⃣ Primary Sources/Shahizan 2020.docx",
@@ -203,7 +205,6 @@
     "Canvas/Reference Manager.canvas",
     "Canvas/Research Mindmap.canvas",
     "Canvas/Sample.canvas",
-    "Untitled.canvas",
     "__Media/Pasted Image 20240202102119_150.png",
     "__Media/Pasted Image 20240202095039_003.jpg",
     "Canvas/Start here.canvas",
@@ -214,11 +215,9 @@
     "Canvas/Book Dashboard.canvas",
     "__Papers/Shahizan 2020.pdf",
     "Exercise 2",
-    "Pasted Image 20240204111327_516.png",
     "__Media/Zettelkasten steps.png",
     "Canvas",
     "Kanban",
-    "Zotero",
     "Pasted Image 20240202101844_201.png",
     "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
     "__Media/Pasted image 20221214131115.png",

@@ -1,1 +1,0 @@
-![[Zettelkasten steps.png]]![[Shahizan 2020.pdf]]
