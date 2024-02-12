@@ -20,11 +20,11 @@
 | Quick Add | Quickly add content to your notes or create new notes using customizable commands and menus. |
 
 
-Source: 
-(1) Top 10 Obsidian Plugins I Can't Do Without - Nicole van der Hoeven. https://nicolevanderhoeven.com/blog/20220223-top-10-obsidian-plugins/.
-(2) 20 Obsidian Plugins You Should Be Using: Updated for 2024. https://facedragons.com/foss/obsidian-plugins/.
-(3) Top 10 Obsidian Plugins for Productivity | Sascha D. Kasper. https://sascha-kasper.com/obsidian-plugins-you-cant-afford-to-miss/.
-(4) Top 10 Obsidian Community Plugins - Danny Hatcher. https://dannyhatcher.com/top-10-obsidian-community-plugins/.
+**Source:**
+- (1) [Top 10 Obsidian Plugins I Can't Do Without - Nicole van der Hoeven](https://nicolevanderhoeven.com/blog/20220223-top-10-obsidian-plugins/)
+- (2) [20 Obsidian Plugins You Should Be Using: Updated for 2024](https://facedragons.com/foss/obsidian-plugins/)
+- (3) [Top 10 Obsidian Plugins for Productivity | Sascha D. Kasper](https://sascha-kasper.com/obsidian-plugins-you-cant-afford-to-miss/)
+- (4) [Top 10 Obsidian Community Plugins - Danny Hatcher](https://dannyhatcher.com/top-10-obsidian-community-plugins/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian/issues) for any improvements, suggestions or errors in the content.
