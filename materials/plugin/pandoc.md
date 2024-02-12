@@ -8,6 +8,8 @@
 # Pandoc
 Pandoc is a tool that converts documents between different formats, such as Markdown, HTML, PDF, and Word. Obsidian is a note-taking app that uses Markdown as its default format. Pandoc Obsidian is a plugin that allows you to export your notes from Obsidian to various formats using Pandoc. 
 
+![](https://github.com/OliverBalfour/obsidian-pandoc/raw/master/command-palette.png)
+
 The benefits of using Pandoc Obsidian are:
 
 - You can write presentations, draft books, make webpages, and write assignments all in Markdown, and export to whichever format you fancy, all without leaving Obsidian.
