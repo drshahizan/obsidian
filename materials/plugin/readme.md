@@ -12,7 +12,20 @@
 ## **What Are Obsidian Plugins?**
    - **Plugins** in Obsidian are **add-ons** created by the community to **customize and enhance** the application.
    - They allow users to **extend** Obsidian's features, adapt it to their specific needs, and create a **customized note-taking experience**.
-   - With hundreds of plugins available, you can tailor Obsidian to fit your personal workflow¹.
+   - With hundreds of plugins available, you can tailor Obsidian to fit your personal workflow.
+
+## How to Find and Install Obsidian Plugins
+
+![](https://facedragons.com/wp-content/uploads/2022/12/Install-Obsidian-Plugins.webp)
+
+You don’t need to go online hunting for these plugins. They are all available for download and installation through the Obsidian application. With these four steps, you can start installing new plugins now:
+
+- Open the Settings Menu
+- Click Community Plugins
+- Turn off Restricted Mode
+- Click Browse Community Plugins
+
+From here, you can browse the most popular plugins or search for features you want. Use the download count as a guide; if it’s been downloaded thousands of times, it’s more likely to be well-maintained. If you’re used to using free and open-source software, take a look at their linked GitHub pages.
 
 ## Types of Plugins:
 ### Core Plugins
