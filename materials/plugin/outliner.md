@@ -7,6 +7,7 @@
 
 Outliner is a plugin in Obsidian that enhances the experience of working with lists and outlines. It allows you to move, indent, outdent, and fold lists and sublists with keyboard shortcuts. It also improves the style and appearance of your lists, such as drawing vertical indentation lines and sticking the cursor to the content. Outliner is compatible with Obsidian Zoom plugin and supports nested lists.
 
+![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*Al1Adv1qQ2ZfzZH39D_dSQ.png)
 ![](https://raw.githubusercontent.com/vslinko/obsidian-outliner/main/demos/demo1.gif)
 
 Articles and videos that describe more about Outliner plugin in Obsidian:
