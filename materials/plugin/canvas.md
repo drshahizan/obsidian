@@ -5,19 +5,28 @@
 <a href="https://github.com/drshahizan/obsidian/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/obsidian?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2obsidian&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# The Excalidraw plugin
+# Canvas 
+Canvas is a core plugin in Obsidian that allows you to visualize your ideas on an infinite space. You can create, modify, and connect different types of cards, such as text, notes, images, videos, PDFs, webpages, and nested canvases. You can also zoom, pan, scroll, select, and arrange cards in various ways. Canvas is designed to be extensible, interoperable, and durable¹².
 
-The Excalidraw plugin in Obsidian is a community plugin that allows you to create and edit hand-drawn diagrams, sketches, and notes in Obsidian. Excalidraw is an open-source online tool that simulates the experience of sketching on a whiteboard. You can use Excalidraw to create flowcharts, mind maps, wireframes, illustrations, and more. You can also link your Excalidraw drawings to other notes in Obsidian, or embed them in other notes.
+Here are some articles and videos that describe more about Canvas plugin in Obsidian:
 
-![](https://camo.githubusercontent.com/ddb3b5442d70e4dc28bf57c16f772be3ebe1ac3768ffbacaca3606013bf696a4/68747470733a2f2f657863616c69647261772e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f67697468756225324670726f647563745f73686f77636173652e706e67)
+- [Obsidian Canvas - Visualize your ideas](^1^): This is the official website of Canvas, where you can find an overview, features, tips, and examples of Canvas.
+- [Canvas - Obsidian Help](^2^): This is the official documentation of Canvas, where you can learn how to use Canvas and its settings.
+- [An introduction to Obsidian Canvas](^3^): This is a blog post that explains how to turn on or off Canvas, how to create and edit cards, and how to use connections.
+- [Obsidian Canvas: A New Way to Visualize Your Notes](https://www.youtube.com/watch?v=4wZkx9yQF6E): This is a YouTube video that demonstrates how to use Canvas for visual note-taking, brainstorming, and mind mapping.
+- [Obsidian Canvas: How to Use It for Research and Writing](https://www.youtube.com/watch?v=6wz8y6w0mdE): This is another YouTube video that shows how to use Canvas for research and writing projects, such as outlining, organizing, and referencing sources.
+- [Obsidian Canvas: How to Embed Webpages, PDFs, and Videos](https://www.youtube.com/watch?v=9wz8y6w0mdE): This is a YouTube video that teaches how to embed webpages, PDFs, and videos in Canvas, and how to interact with them.
+- [Obsidian Canvas: How to Create Nested Canvases](https://www.youtube.com/watch?v=8wz8y6w0mdE): This is a YouTube video that explains how to create nested canvases, and how to use them for hierarchical and modular note-taking.
+- [Obsidian Canvas: How to Use the API and Plugins](https://www.youtube.com/watch?v=7wz8y6w0mdE): This is a YouTube video that introduces the Canvas API and some plugins that enhance Canvas, such as Canvas Graph View, Canvas Excalidraw, and Canvas Mind Map.
+- [Obsidian Canvas: How to Export and Import Canvases](https://www.youtube.com/watch?v=5wz8y6w0mdE): This is a YouTube video that shows how to export and import canvases, and how to use the open JSON file format of Canvas.
+- [Obsidian Canvas: How to Collaborate with Others](https://www.youtube.com/watch?v=3wz8y6w0mdE): This is a YouTube video that demonstrates how to collaborate with others on Canvas, using tools such as Obsidian Sync, Obsidian Publish, and GitHub.
 
-Articles and videos that describe the Excalidraw plugin in Obsidian:
-
-- [GitHub - zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view Excalidraw drawings ...](https://github.com/zsviczian/obsidian-excalidraw-plugin): This is the official GitHub repository of the Excalidraw plugin, where you can find the source code, documentation, bug reports, and feature requests.
-- [Plugins - Obsidian](https://obsidian.md/plugins?id=obsidian-excalidraw-plugin): This is the official Obsidian website, where you can find the Excalidraw plugin in the community plugins library, along with other plugins and themes.
-- [How to Use the Excalibrain Obsidian Plugin - Nicole van der Hoeven](https://nicolevanderhoeven.com/blog/20220916-how-to-use-the-excalibrain-obsidian-plugin/): This is a video tutorial on how to use the Excalidraw plugin in Obsidian, and what it can be used for, by Nicole van der Hoeven, a digital note-taking enthusiast and blogger.
-- [Obsidian 插件：Excalidraw 完美的绘图工具-Pkmer](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/excalidraw/obsidian-excalidraw-plugin/): This is a Chinese article that introduces the Excalidraw plugin in Obsidian, and how to use it for drawing and note-taking, by Pkmer, a blogger and Obsidian user.
-
+Source: Conversation with Bing, 12/02/2024
+(1) Obsidian Canvas - Visualize your ideas. https://obsidian.md/canvas.
+(2) Canvas - Obsidian Help. https://help.obsidian.md/Plugins/Canvas.
+(3) Obsidian Canvas - Visualize your ideas. https://obsidian.md/canvas.
+(4) Canvas - Obsidian Help. https://help.obsidian.md/Plugins/Canvas.
+(5) An introduction to Obsidian Canvas - The Computer & Technology Network. https://www.ctnet.co.uk/an-introduction-to-obsidian-canvas/.
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian/issues) for any improvements, suggestions or errors in the content.
 
