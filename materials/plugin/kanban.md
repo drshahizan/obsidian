@@ -22,10 +22,10 @@ Here are some articles and videos that describe the Kanban plugin in Obsidian:
 - [Obsidian Kanban Plugin - How to Use It - YouTube]: This is a video by Shu Omi that explains the Kanban plugin in Obsidian, and how to use it for note-taking and learning.
 
 **Source:**
-- (1) GitHub - mgmeyers/obsidian-kanban: Create markdown-backed Kanban boards .... https://github.com/mgmeyers/obsidian-kanban.
-- (2) How to Turn Obsidian Into a Personal Kanban Organizer - MUO. https://www.makeuseof.com/obsidian-kanban-guide/.
-- (3) Install the plugin - Obsidian Kanban Plugin - Obsidian Publish. https://publish.obsidian.md/kanban/How%20do%20I/Install%20the%20plugin.
-- (4) Mastering Task Management with Obsidian’s Kanban Plugin. https://ricraftis.au/obsidian/mastering-task-management-with-obsidians-kanban-plugin/.
+- (1) [GitHub - mgmeyers/obsidian-kanban: Create markdown-backed Kanban boards ....](https://github.com/mgmeyers/obsidian-kanban)
+- (2) [How to Turn Obsidian Into a Personal Kanban Organizer - MUO](https://www.makeuseof.com/obsidian-kanban-guide/)
+- (3) [Install the plugin - Obsidian Kanban Plugin - Obsidian Publish](https://publish.obsidian.md/kanban/How%20do%20I/Install%20the%20plugin)
+- (4) [Mastering Task Management with Obsidian’s Kanban Plugin](https://ricraftis.au/obsidian/mastering-task-management-with-obsidians-kanban-plugin/)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian/issues) for any improvements, suggestions or errors in the content.
