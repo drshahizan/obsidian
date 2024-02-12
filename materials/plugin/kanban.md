@@ -8,7 +8,9 @@
 # Kanban
 The Kanban plugin in Obsidian is a community plugin that allows you to create markdown-backed Kanban boards in Obsidian. Kanban boards are a visual way of organizing tasks, projects, or workflows using columns and cards. You can drag and drop cards between columns, add checklists, due dates, tags, links, and more to your cards. You can also link your Kanban boards to other notes in Obsidian, or embed them in other notes.
 
-Here are some articles and videos that describe the Kanban plugin in Obsidian:
+![](https://github.com/mgmeyers/obsidian-kanban/raw/main/src/docs/Assets/Screen%20Shot%202021-09-16%20at%2012.58.22%20PM.png)
+
+Articles and videos that describe the Kanban plugin in Obsidian:
 
 - [GitHub - mgmeyers/obsidian-kanban: Create markdown-backed Kanban boards ...](^1^): This is the official GitHub repository of the Kanban plugin, where you can find the source code, documentation, bug reports, and feature requests.
 - [How to Turn Obsidian Into a Personal Kanban Organizer - MUO](^2^): This is a tutorial on how to install, set up, and use the Kanban plugin in Obsidian, with screenshots and examples.
