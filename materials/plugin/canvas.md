@@ -10,9 +10,9 @@ Canvas is a core plugin in Obsidian that allows you to visualize your ideas on a
 
 Here are some articles and videos that describe more about Canvas plugin in Obsidian:
 
-- [Obsidian Canvas - Visualize your ideas](^1^): This is the official website of Canvas, where you can find an overview, features, tips, and examples of Canvas.
-- [Canvas - Obsidian Help](^2^): This is the official documentation of Canvas, where you can learn how to use Canvas and its settings.
-- [An introduction to Obsidian Canvas](^3^): This is a blog post that explains how to turn on or off Canvas, how to create and edit cards, and how to use connections.
+- [Obsidian Canvas - Visualize your ideas](https://obsidian.md/canvas): This is the official website of Canvas, where you can find an overview, features, tips, and examples of Canvas.
+- [Canvas - Obsidian Help](https://help.obsidian.md/Plugins/Canvas): This is the official documentation of Canvas, where you can learn how to use Canvas and its settings.
+- [An introduction to Obsidian Canvas](https://obsidian.md/canvas): This is a blog post that explains how to turn on or off Canvas, how to create and edit cards, and how to use connections.
 - [Obsidian Canvas: A New Way to Visualize Your Notes](https://www.youtube.com/watch?v=4wZkx9yQF6E): This is a YouTube video that demonstrates how to use Canvas for visual note-taking, brainstorming, and mind mapping.
 - [Obsidian Canvas: How to Use It for Research and Writing](https://www.youtube.com/watch?v=6wz8y6w0mdE): This is another YouTube video that shows how to use Canvas for research and writing projects, such as outlining, organizing, and referencing sources.
 - [Obsidian Canvas: How to Embed Webpages, PDFs, and Videos](https://www.youtube.com/watch?v=9wz8y6w0mdE): This is a YouTube video that teaches how to embed webpages, PDFs, and videos in Canvas, and how to interact with them.
