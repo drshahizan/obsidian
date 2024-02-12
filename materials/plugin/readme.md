@@ -5,7 +5,26 @@
 <a href="https://github.com/drshahizan/obsidian/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/obsidian?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2obsidian&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
+# Obsidian Plugins
 
+**Obsidian** is a powerful note-taking and knowledge management application that allows users to create and organize their notes in a **flexible and interconnected** manner. One of its standout features is the ability to **extend its functionality** through **plugins**. Let's dive into what these plugins are and how they enhance the Obsidian experience:
+
+## **What Are Obsidian Plugins?**
+   - **Plugins** in Obsidian are **add-ons** created by the community to **customize and enhance** the application.
+   - They allow users to **extend** Obsidian's features, adapt it to their specific needs, and create a **customized note-taking experience**.
+   - With hundreds of plugins available, you can tailor Obsidian to fit your personal workflow¹.
+
+## **Types of Plugins:**
+   - **Core Plugins**: These are included with Obsidian when you first download it and are officially supported.
+   - **Community Plugins**: Created by the Obsidian community, these extensions provide additional functionality beyond the core features⁴.
+
+
+Source: Conversation with Bing, 12/02/2024
+(1) Plugins - Obsidian. https://obsidian.md/plugins.
+(2) How to Install Plugins in Obsidian - Medium. https://medium.com/@philiprpowis/how-to-install-plugins-in-obsidian-d2a435df1208.
+(3) 20 Obsidian Plugins You Should Be Using: Updated for 2024. https://facedragons.com/foss/obsidian-plugins/.
+(4) Build a plugin - Developer Documentation - docs.obsidian.md. https://docs.obsidian.md/Plugins/Getting%20started/Build%20a%20plugin.
+(5) Community plugins - Obsidian Help. https://help.obsidian.md/Extending+Obsidian/Community+plugins.
 | Plugin | Description |
 | --- | --- |
 | Calendar | View and create daily notes, weekly reviews, and monthly overviews in a calendar format. |
