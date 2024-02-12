@@ -9,9 +9,11 @@
 
 The Excalidraw plugin in Obsidian is a community plugin that allows you to create and edit hand-drawn diagrams, sketches, and notes in Obsidian. Excalidraw is an open-source online tool that simulates the experience of sketching on a whiteboard. You can use Excalidraw to create flowcharts, mind maps, wireframes, illustrations, and more. You can also link your Excalidraw drawings to other notes in Obsidian, or embed them in other notes.
 
+![](https://facedragons.com/wp-content/uploads/2024/01/Excalidraw.webp)
+
 ![](https://camo.githubusercontent.com/ddb3b5442d70e4dc28bf57c16f772be3ebe1ac3768ffbacaca3606013bf696a4/68747470733a2f2f657863616c69647261772e6e7963332e63646e2e6469676974616c6f6365616e7370616365732e636f6d2f67697468756225324670726f647563745f73686f77636173652e706e67)
 
-Articles and videos that describe the Excalidraw plugin in Obsidian:
+Articles that describe the Excalidraw plugin in Obsidian:
 
 - [GitHub - zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view Excalidraw drawings ...](https://github.com/zsviczian/obsidian-excalidraw-plugin): This is the official GitHub repository of the Excalidraw plugin, where you can find the source code, documentation, bug reports, and feature requests.
 - [Plugins - Obsidian](https://obsidian.md/plugins?id=obsidian-excalidraw-plugin): This is the official Obsidian website, where you can find the Excalidraw plugin in the community plugins library, along with other plugins and themes.
