@@ -14,8 +14,28 @@
    - They allow users to **extend** Obsidian's features, adapt it to their specific needs, and create a **customized note-taking experience**.
    - With hundreds of plugins available, you can tailor Obsidian to fit your personal workflow¹.
 
-## **Types of Plugins:**
-   - **Core Plugins**: These are included with Obsidian when you first download it and are officially supported.
+## Types of Plugins:
+### Core Plugins**
+Core plugins are the plugins that come installed with Obsidian, a powerful knowledge base application that works on top of a local folder of plain text Markdown files. Core plugins are officially built and supported by the Obsidian team, and they provide various functionalities to enhance your note-taking experience. Some core plugins are disabled by default, and you can enable them under **Settings → Core plugins**. Some examples of core plugins are:
+
+- **Audio recorder**: This plugin allows you to record audio notes and embed them in your Markdown files.
+- **Daily notes**: This plugin creates a new note for each day, and lets you quickly navigate between them.
+- **File recovery**: This plugin saves snapshots of your notes every few minutes, and lets you restore them in case of accidental deletion or corruption.
+- **Format converter**: This plugin converts notes from other platforms, such as Evernote, Roam Research, Notion, etc., into Markdown format.
+- **Graph view**: This plugin shows a graphical representation of the links between your notes, and lets you explore your knowledge base visually.
+- **Sync**: This plugin synchronizes your notes across multiple devices, using end-to-end encryption.
+
+You can learn more about the core plugins and their settings from the [Obsidian Help page](https://help.obsidian.md/Plugins/Core+plugins). 
+
+
+You can also explore the community plugins, which are made by other Obsidian users, from the [Obsidian Plugins page](^2^). There are over 1,000 community plugins that offer various features and integrations, such as music notation, API requests, version history diff, etc. You can install them from the **Settings → Community plugins** menu.
+
+Source: Conversation with Bing, 12/02/2024
+(1) Core plugins - Obsidian Help. https://help.obsidian.md/Plugins/Core+plugins.
+(2) Plugins - Obsidian. https://obsidian.md/plugins.
+(3) Top Obsidian Core Plugins for 2023 — Eightify. https://eightify.app/summary/technology-and-software/top-obsidian-core-plugins-for-2023.
+
+
    - **Community Plugins**: Created by the Obsidian community, these extensions provide additional functionality beyond the core features⁴.
 
 
