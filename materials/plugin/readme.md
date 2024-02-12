@@ -15,7 +15,7 @@
    - With hundreds of plugins available, you can tailor Obsidian to fit your personal workflow¹.
 
 ## Types of Plugins:
-### Core Plugins**
+### Core Plugins
 Core plugins are the plugins that come installed with Obsidian, a powerful knowledge base application that works on top of a local folder of plain text Markdown files. Core plugins are officially built and supported by the Obsidian team, and they provide various functionalities to enhance your note-taking experience. Some core plugins are disabled by default, and you can enable them under **Settings → Core plugins**. Some examples of core plugins are:
 
 - **Audio recorder**: This plugin allows you to record audio notes and embed them in your Markdown files.
@@ -26,7 +26,26 @@ Core plugins are the plugins that come installed with Obsidian, a powerful knowl
 - **Sync**: This plugin synchronizes your notes across multiple devices, using end-to-end encryption.
 
 You can learn more about the core plugins and their settings from the [Obsidian Help page](https://help.obsidian.md/Plugins/Core+plugins). 
+- [Core plugins - Obsidian Help](https://help.obsidian.md/Plugins/Core+plugins)
+- [Top Obsidian Core Plugins for 2023 — Eightify](https://eightify.app/summary/technology-and-software/top-obsidian-core-plugins-for-2023)
 
+### Community plugins 
+
+Community plugins are the plugins that are made by other Obsidian users, and they offer various features and integrations that are not available in the core plugins. You can install them from the **Settings → Community plugins** menu, or browse them from the [Obsidian Plugins page](https://obsidian.md/plugins). There are over 1,000 community plugins that you can choose from, depending on your needs and preferences. Some examples of community plugins are:
+
+- **Zotero integration**: This plugin allows you to import and manage your Zotero references in Obsidian, and insert citations and bibliographies in your notes.
+- **Dataview**: This plugin lets you query and manipulate your notes using a SQL-like language, and display the results in tables or lists.
+- **Quick add**: This plugin enables you to quickly create new notes, append text to existing notes, or run commands using customizable templates and hotkeys.
+- **Commander**: This plugin adds a command palette that lets you search and execute any Obsidian command, plugin command, or custom script.
+- **ABC Music Notation**: This plugin renders music sheets directly from code blocks using ABC music notation via abcjs.
+
+You can learn more about the community plugins and how to install them from the [Obsidian Help page](https://dannyhatcher.com/top-10-obsidian-community-plugins). You can also join the Obsidian community on Discord, GitHub, or the forum to share your feedback, suggestions, or questions about the plugins.
+
+Source: Conversation with Bing, 12/02/2024
+(1) Plugins - Obsidian. https://obsidian.md/plugins.
+(2) Community plugins - Obsidian Help. https://help.obsidian.md/Extending+Obsidian/Community+plugins.
+(3) 10 Obsidian Community Plugins You Have to Install. https://www.maketecheasier.com/best-obsidian-community-plugins/.
+(4) Top 10 Obsidian Community Plugins - Danny Hatcher. https://dannyhatcher.com/top-10-obsidian-community-plugins/.
 
 You can also explore the community plugins, which are made by other Obsidian users, from the [Obsidian Plugins page](^2^). There are over 1,000 community plugins that offer various features and integrations, such as music notation, API requests, version history diff, etc. You can install them from the **Settings → Community plugins** menu.
 
