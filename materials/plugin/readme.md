@@ -41,7 +41,7 @@ There are two main ways to find and install Obsidian plugins:
 * Some plugins might require additional configuration after installation. Check the plugin's documentation for instructions.
 * Remember to restart Obsidian after installing or updating plugins.
 
-## Types of Plugins:
+## Types of Plugins
 ### Core Plugins
 Core plugins are the plugins that come installed with Obsidian, a powerful knowledge base application that works on top of a local folder of plain text Markdown files. Core plugins are officially built and supported by the Obsidian team, and they provide various functionalities to enhance your note-taking experience. Some core plugins are disabled by default, and you can enable them under **Settings → Core plugins**. Some examples of core plugins are:
 
