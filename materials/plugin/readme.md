@@ -16,8 +16,6 @@
 
 ## How to Find and Install Obsidian Plugins
 
-![](https://facedragons.com/wp-content/uploads/2022/12/Install-Obsidian-Plugins.webp)
-
 There are two main ways to find and install Obsidian plugins:
 
 ### Using the Community Plugins Browser
