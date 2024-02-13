@@ -18,14 +18,30 @@
 
 ![](https://facedragons.com/wp-content/uploads/2022/12/Install-Obsidian-Plugins.webp)
 
-You don’t need to go online hunting for these plugins. They are all available for download and installation through the Obsidian application. With these four steps, you can start installing new plugins now:
+There are two main ways to find and install Obsidian plugins:
 
-- Open the Settings Menu
-- Click Community Plugins
-- Turn off Restricted Mode
-- Click Browse Community Plugins
+### Using the Community Plugins Browser
 
-From here, you can browse the most popular plugins or search for features you want. Use the download count as a guide; if it’s been downloaded thousands of times, it’s more likely to be well-maintained. If you’re used to using free and open-source software, take a look at their linked GitHub pages.
+1. **Enable Community Plugins:** In Obsidian's settings, under "Community plugins," click "Turn on community plugins."
+2. **Browse Plugins:** Click "Browse" and explore the available plugins. You can search by name, category, or tag.
+3. **Install a Plugin:** When you find a plugin you want, click "Install." It will be downloaded and automatically enabled.
+
+![](https://facedragons.com/wp-content/uploads/2022/12/Install-Obsidian-Plugins.webp)
+
+### Manual Installation
+
+1. **Find the Plugin:** Search for the desired plugin on GitHub or the Obsidian forum. Ensure you're downloading the latest release.
+2. **Download and Extract Files:** Download the plugin's ZIP file and extract its contents to a folder on your computer.
+3. **Open Obsidian Plugins Folder:** In Obsidian's settings, under "Community plugins," click the folder icon next to "Installed plugins." This opens the folder where your plugins are stored.
+4. **Copy Plugin Folder:** Move the extracted plugin folder (the one you created in step 2) into the Obsidian plugins folder.
+5. **Restart Obsidian:** Restart Obsidian for the plugin to be recognized.
+
+### Additional Tips
+
+* Before installing any plugin, check its reviews and documentation to ensure it's compatible with your Obsidian version and doesn't conflict with other plugins you use.
+* Only install plugins from trusted sources.
+* Some plugins might require additional configuration after installation. Check the plugin's documentation for instructions.
+* Remember to restart Obsidian after installing or updating plugins.
 
 ## Types of Plugins:
 ### Core Plugins
