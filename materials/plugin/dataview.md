@@ -7,6 +7,46 @@
 
 # Dataview
 
+Dataview is a popular plugin for Obsidian that transforms your note-taking system into a powerful database. It allows you to treat your notes as data points and query them to gain insights, create dynamic dashboards, and automate repetitive tasks. Here's a breakdown of its key features:
+
+**Data Sources:**
+
+* **Frontmatter:** Dataview pulls information from the YAML metadata at the top of your notes. Think of it as structured data about your notes.
+* **Inline Fields:** You can embed key-value pairs directly within your notes for more granular data management.
+* **Tags:** Tags can be used for filtering and grouping data.
+
+**Querying and Manipulation:**
+
+* **DataView Query Language:** This powerful language allows you to filter, sort, and aggregate data across your vault. It's similar to SQL but easier to learn.
+* **Inline Fields:** Use double-colon syntax to display specific data points from other notes directly within your text.
+* **Dashboards:** Create dynamic dashboards that automatically update based on your queries.
+
+**Benefits:**
+
+* **Improved Organization:** Find specific notes easily, filter by categories, and identify relationships between notes.
+* **Automated Tasks:** Generate to-do lists, track progress, and create reports automatically.
+* **Enhanced Insights:** Analyze trends, identify patterns, and uncover hidden connections within your notes.
+
+**Beyond the Basics:**
+
+* **JavaScript API:** For power users, Dataview offers a JavaScript API for advanced customization and automation.
+* **Community Plugins:** Several community plugins enhance Dataview's functionality with features like charts, calendars, and more.
+
+**Things to Consider:**
+
+* Dataview has a learning curve, but there are plenty of resources available online.
+* It's best suited for users who want to actively manage and analyze their notes.
+* While powerful, it might not be necessary for everyone.
+
+**Overall, Dataview is a valuable tool for anyone who wants to unlock the full potential of their Obsidian vault as a data-driven knowledge management system.**
+
+**Here are some additional resources to learn more:**
+
+* **Dataview Plugin Documentation:** [https://github.com/blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
+* **Obsidian Dataview Forum:** [https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673?page=2](https://forum.obsidian.md/t/dataview-plugin-snippet-showcase/13673?page=2)
+* **Dataview in Obsidian: A Beginner's Guide:** [https://www.britannica.com/science/obsidian](https://www.britannica.com/science/obsidian)
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/obsidian/issues) for any improvements, suggestions or errors in the content.
 
