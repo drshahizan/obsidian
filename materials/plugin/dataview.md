@@ -9,6 +9,8 @@
 
 Dataview is a popular plugin for Obsidian that transforms your note-taking system into a powerful database. It allows you to treat your notes as data points and query them to gain insights, create dynamic dashboards, and automate repetitive tasks. Here's a breakdown of its key features:
 
+![](https://miro.medium.com/v2/resize:fit:1400/1*qcT_F77IBZCFHCHf5I6dfA.png)
+
 ## Data Sources
 
 * **Frontmatter:** Dataview pulls information from the YAML metadata at the top of your notes. Think of it as structured data about your notes.
@@ -27,6 +29,7 @@ Dataview is a popular plugin for Obsidian that transforms your note-taking syste
 * **Automated Tasks:** Generate to-do lists, track progress, and create reports automatically.
 * **Enhanced Insights:** Analyze trends, identify patterns, and uncover hidden connections within your notes.
 
+![](https://github.com/blacksmithgu/obsidian-dataview/blob/master/docs/docs/assets/game.png)
 ## Beyond the Basics
 
 * **JavaScript API:** For power users, Dataview offers a JavaScript API for advanced customization and automation.
