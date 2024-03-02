@@ -4,22 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "56eb9a81f3993484",
+        "id": "82b655cc5ed6d3f1",
         "type": "tabs",
         "children": [
           {
-            "id": "49ccbdaf36176114",
+            "id": "eadec53199379edb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read this paper.md",
+                "file": "template/zotero_integration.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "99697cf3b0a7613e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zotero_annotations/Aazam2015.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "451e796b4fc17a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📆 Activity/1 Feb 2024.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc6a7597f29b9dff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/👓 List of Papers.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1ded39a00607a1dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1️⃣ Primary Sources/Abadi2018 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8590a766183396e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/👓 List of Papers 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Read this paper.md",
+                "file": "📆 Activity/1 Feb 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Read this paper.md",
+                "file": "📆 Activity/1 Feb 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Read this paper.md"
+                "file": "📆 Activity/1 Feb 2024.md"
               }
             }
           },
@@ -166,42 +227,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49ccbdaf36176114",
+  "active": "451e796b4fc17a32",
   "lastOpenFiles": [
-    "Readme.md",
-    "Untitled.canvas",
-    "Read this paper.md",
-    "reading list1.md",
-    "Dataview/Dataview 1a.md",
-    "Pasted Image 20240204111327_516.png",
-    "myKanban1.md",
-    "Dataview/Dataview 1.md",
-    "SLR/SLR.md",
-    "Chapter 2.md",
-    "Untitled 2.md",
-    "SLR/Untitled 1.md",
-    "Untitled.md",
-    "SLR/Introduction SLR and AI.md",
-    "Shahizan 2024.md",
-    "SLR",
-    "Dataview/👓 List of Papers.md",
-    "Buku Penyelidikan/Table of Content.md",
-    "Buku Penyelidikan/Gabung.md",
-    "Kanban/Kanban board.md",
-    "Mind Map/IoT blockchain.md",
-    "Mind Map/Mind mapping.md",
+    "__Templates/Daily Notes.md",
+    "__Templates/Survey.md",
+    "__Templates/Source Note.md",
+    "__Templates/Outline Note.md",
+    "__Templates/Calendar Entry.md",
+    "__Templates/Blog Post.md",
+    "__Templates/Bibliography.md",
+    "__Templates/Daily Todo.md",
+    "__Templates/Daily Template.md",
+    "📆 Activity/Untitled 1.md",
+    "📆 Activity/1 Feb 2024.md",
+    "📆 Activity/Untitled.md",
+    "__Templates/Zettelkasten.md",
+    "__Templates/Test.md",
+    "__Templates/MOC.md",
+    "__Templates/Lecture Notes.md",
     "Mind Map/Check box.md",
-    "Buku Penyelidikan/Pengenalan.md",
-    "Exercise 2/Combine.md",
-    "Buku Penyelidikan/Latar Belakang Kajian.md",
+    "zotero_annotations/aartiReviewBlockchainTechnology2022.md",
+    "zotero_annotations/Aazam2015.md",
+    "template/zotero_integration.md",
+    "Dataview/👓 List of Papers.md",
+    "Dataview/👓 List of Papers 1.md",
+    "1️⃣ Primary Sources/Abadi2018 1.md",
+    "1️⃣ Primary Sources/Akbari2017.md",
+    "1️⃣ Primary Sources/Waleed 2023.md",
+    "1️⃣ Primary Sources/Shahizan 2020.md",
+    "zotero_annotations",
+    "template",
+    "__Papers/Shahizan 2020.pdf",
+    "__Papers/Pianka 1966.pdf",
+    "__Papers/Dhekre 2023.pdf",
+    "__Papers/Connell 1964.pdf",
+    "__Papers/PRISMA_2020_flow_diagram_updated_SRs_v1 (1) 1.docx",
+    "__Papers/PRISMA_2020_flow_diagram_updated_SRs_v1 (1).docx",
+    "Untitled.canvas",
+    "Pasted Image 20240204111327_516.png",
+    "SLR",
     "__Media/cover buku.jpeg",
     "Buku Penyelidikan",
-    "Excalidraw/user journey diagrams.md",
-    "Excalidraw/git.md",
-    "Exercise 2/~$apter 1.docx",
-    "Exercise 2/Chapter 1.docx",
-    "1️⃣ Primary Sources/Shahizan 2020.docx",
-    "1️⃣ Primary Sources/Shahizan 2020.html",
     "Canvas/Reference Manager.canvas",
     "Canvas/Research Mindmap.canvas",
     "Canvas/Sample.canvas",
@@ -213,11 +279,7 @@
     "Canvas/Homepage.canvas",
     "Canvas/Brainstorm.canvas",
     "Canvas/Book Dashboard.canvas",
-    "__Papers/Shahizan 2020.pdf",
-    "Exercise 2",
     "__Media/Zettelkasten steps.png",
-    "Canvas",
-    "Kanban",
     "Pasted Image 20240202101844_201.png",
     "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
     "__Media/Pasted image 20221214131115.png",

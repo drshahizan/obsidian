@@ -27,3 +27,4 @@ The aim of this paper is to present a novel gene selection algorithm for cancer 
 - The paper reports that the hybrid algorithm **outperforms** the other two algorithms in terms of **accuracy**, **F-measure**, and **number of selected genes**. The paper also shows that the hybrid algorithm can **adapt** to different data sets and **avoid** local optima and parameter tuning issues.
 
 ![[Shahizan 2020.pdf]]
+

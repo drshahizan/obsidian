@@ -84,5 +84,14 @@
       ],
       "key": "R"
     }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-exp-import annotations": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
   ]
 }
